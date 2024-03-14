@@ -1,0 +1,10 @@
+{
+	"name": "dalekmod.tardis.name.gingerbread_police_box",
+	"models": [
+		"dalekmod:models/tileentity/tardis/gingerbread_police_box.json"
+	],
+	"cost": 500,
+	"unlockable": true,
+	"exteriorLight": true,
+	"desc": "dalekmod.tardis.description.gingerbread_police_box"
+}

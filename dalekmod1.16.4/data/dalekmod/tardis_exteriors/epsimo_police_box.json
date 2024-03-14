@@ -1,0 +1,11 @@
+{
+   "exteriorName":"dalekmod.tardis.name.epsimo_police_box",
+   "interiorPath":"dalekmod:pagoda_default",
+   "modelPath":[
+      "dalekmod:models/tileentity/tardis/epsimo_police_box.json"
+   ],
+   "xpValue":1337,
+   "unlockable":true,
+   "exteriorLight": true,
+   "desc": "dalekmod.tardis.description.epsimo_police_box"
+}

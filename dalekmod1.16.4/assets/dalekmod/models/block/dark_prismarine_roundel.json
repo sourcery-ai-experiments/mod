@@ -1,0 +1,7 @@
+{
+  "parent": "dalekmod:block/roundel",
+  "textures": {
+    "main": "dalekmod:block/dark_prismarine_roundel",
+    "alt": "dalekmod:block/dark_prismarine_roundel_alt"
+  }
+}

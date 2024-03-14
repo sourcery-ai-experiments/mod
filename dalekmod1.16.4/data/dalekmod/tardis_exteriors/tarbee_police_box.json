@@ -1,0 +1,11 @@
+{
+	"name": "dalekmod.tardis.name.tarbee_police_box",
+	"models": [
+		"dalekmod:models/tileentity/tardis/honey_tarbee_police_box.json",
+		"dalekmod:models/tileentity/tardis/slime_tarbee_police_box.json"
+	],
+	"cost": 100,
+	"unlockable": true,
+	"exteriorLight": true,
+	"desc": "dalekmod.tardis.description.tarbee_police_box"
+}

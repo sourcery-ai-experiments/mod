@@ -1,0 +1,5 @@
+{
+   "texture": "dalekmod:entity/dalek/paradigm_dalek_white",
+   "lightmap": "dalekmod:entity/dalek/paradigm_dalek_lightmap",
+   "parent": "dalekmod:models/entity/dalek/paradigm_dalek"
+}

@@ -1,0 +1,5 @@
+{
+	"block": "minecraft:wheat",
+	"scan_time": 4,
+	"interaction": "farmland"
+}

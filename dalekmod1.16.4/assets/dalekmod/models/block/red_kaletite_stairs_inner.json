@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/inner_stairs",
+    "textures": {
+        "bottom": "dalekmod:block/red_kaletite",
+        "top": "dalekmod:block/red_kaletite",
+        "side": "dalekmod:block/red_kaletite"
+    }
+}

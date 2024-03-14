@@ -1,0 +1,13 @@
+{
+    "exteriorName":"dalekmod.tardis.name.tenebrosus_police_box",
+    "interiorPath":"dalekmod:tardis_default",
+    "modelPath": [
+        "dalekmod:models/tileentity/tardis/tenebrosus_police_box.json"
+
+    ],
+    "xpValue":100,
+    "unlockable":false,
+    "isDefaultSelection":false,
+    "exteriorLight": true,
+    "desc": "dalekmod.tardis.description.tenebrosus_police_box"
+}

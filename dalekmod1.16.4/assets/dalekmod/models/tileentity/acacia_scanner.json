@@ -1,0 +1,5 @@
+{
+   	"texture": "dalekmod:tileentity/scanner_variants/acacia_scanner",
+	"lightmap": "dalekmod:tileentity/scanner_variants/wooden_scanner_lightmap",
+  	"parent": "dalekmod:models/tileentity/scanner"
+}

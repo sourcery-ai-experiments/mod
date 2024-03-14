@@ -1,0 +1,5 @@
+{
+   "texture": "dalekmod:entity/dalek/renegade_dalek_alt",
+   "lightmap": "dalekmod:entity/dalek/renegade_dalek_alt_lightmap",
+   "parent": "dalekmod:models/entity/dalek/skaro_dalek_blue"
+}

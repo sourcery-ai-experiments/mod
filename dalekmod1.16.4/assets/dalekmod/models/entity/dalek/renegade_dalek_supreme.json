@@ -1,0 +1,5 @@
+{
+   "texture": "dalekmod:entity/dalek/renegade_dalek_supreme",
+   "lightmap": "dalekmod:entity/dalek/renegade_dalek_supreme_lightmap",
+   "parent": "dalekmod:models/entity/dalek/renegade_dalek"
+}

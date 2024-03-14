@@ -1,0 +1,37 @@
+{
+  "id": "andesite_angel",
+  "general_texture": "dalekmod:entity/weeping_angel/weeping_angel_andesite",
+  "chance": 0.9,
+  "ignore_pose_chance": true,
+  "loot_table": "dalekmod:entities/angels/andesite",
+  "spawn_conditions": {
+    "biomes": [
+      "minecraft:forest",
+      "minecraft:birch_forest",
+      "minecraft:dark_forest"
+    ]
+  },
+  "poses": [
+    {
+      "model": "dalekmod:models/angels/default_angel.json",
+      "id": "pose_0"
+    },
+    {
+      "model": "dalekmod:models/angels/default_angel_pose_1.json",
+      "id": "pose_1"
+    },
+    {
+      "model": "dalekmod:models/angels/default_angel_pose_2.json",
+      "id": "pose_2",
+      "texture": "dalekmod:entity/weeping_angel/weeping_angel_andesite_alt"
+    },
+    {
+      "model": "dalekmod:models/angels/default_angel_pose_3.json",
+      "id": "pose_3"
+    },
+    {
+      "model": "dalekmod:models/angels/default_angel_pose_4.json",
+      "id": "pose_4"
+    }
+  ]
+}

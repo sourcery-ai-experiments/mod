@@ -1,0 +1,46 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "dalekmod:entity/dalek_clam",
+	"texture_width": 64,
+	"texture_height": 64,
+	"scale": 1,
+	"groups": [
+		{
+			"group_name": "body",
+			"pivot": [0,24,0],
+			"rotation": [0,0,0],
+			"children": [
+				{
+					"group_name": "top",
+					"pivot": [0,-6,7],
+					"rotation": [-50,0,0],
+					"children": [
+						{
+							"pivot": [0,0,0],
+							"rotation": [-2.5,0,0],
+							"children": [],
+							"cubes": [
+								{
+									"uv": [0,26],
+									"size": [14,12,14],
+									"origin": [-7,-6,-14],
+									"inflate": 0.01,
+									"mirror": false
+								}
+							]
+						}
+					]
+				}
+			],
+			"cubes": [
+				{
+					"uv": [0,0],
+					"size": [14,12,14],
+					"origin": [-7,-12.4,-7],
+					"inflate": 0,
+					"mirror": false
+				}
+			]
+		}
+	]
+}

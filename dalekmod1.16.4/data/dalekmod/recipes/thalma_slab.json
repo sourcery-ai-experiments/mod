@@ -1,0 +1,16 @@
+
+    {
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "dalekmod:thalma_planks"
+        }
+    },
+    "result": {
+        "item": "dalekmod:thalma_slab",
+        "count": 6
+    }
+}

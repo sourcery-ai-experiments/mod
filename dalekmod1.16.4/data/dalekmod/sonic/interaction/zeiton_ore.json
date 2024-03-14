@@ -1,0 +1,6 @@
+{
+  "block": "dalekmod:zeiton_ore",
+  "drop": "dalekmod:zeiton_crystal",
+  "scan_time": 25,
+  "interaction": "block_drop"
+}

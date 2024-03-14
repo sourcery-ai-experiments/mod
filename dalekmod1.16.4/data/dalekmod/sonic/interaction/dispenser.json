@@ -1,0 +1,5 @@
+{
+	"block": "minecraft:dispenser",
+	"scan_time": 4,
+	"interaction": "block_tick"
+}

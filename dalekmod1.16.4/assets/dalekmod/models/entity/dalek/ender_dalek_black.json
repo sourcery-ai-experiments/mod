@@ -1,0 +1,6 @@
+{
+	"texture": "dalekmod:entity/dalek/ender_dalek_black",
+	"lightmap": "dalekmod:entity/dalek/ender_dalek_lightmap",
+	"parent": "dalekmod:models/entity/dalek/ender_dalek"
+ }
+ 

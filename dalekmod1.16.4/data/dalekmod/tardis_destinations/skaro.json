@@ -1,0 +1,6 @@
+{
+  "dimension": "dalekmod:skaro",
+  "icon": "dalekmod:textures/planets/skaro.png",
+  "coordinate": [0, 0],
+  "needs_card": true
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "state=0": {
+      "model": "dalekmod:block/storm_spawner/storm_spawner_0"
+    },
+    "state=1": {
+      "model": "dalekmod:block/storm_spawner/storm_spawner_1"
+    },
+    "state=2": {
+      "model": "dalekmod:block/storm_spawner/storm_spawner_2"
+    },
+    "state=3": {
+      "model": "dalekmod:block/storm_spawner/storm_spawner_3"
+    }
+  }
+}

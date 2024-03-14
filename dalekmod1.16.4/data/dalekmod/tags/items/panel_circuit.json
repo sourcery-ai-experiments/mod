@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "dalekmod:tardis_circuit_plastic",
+    "dalekmod:tardis_circuit_iron",
+    "dalekmod:tardis_circuit_gold",
+    "dalekmod:tardis_circuit_diamond",
+    "dalekmod:tardis_circuit_netherite"
+
+  ]
+}

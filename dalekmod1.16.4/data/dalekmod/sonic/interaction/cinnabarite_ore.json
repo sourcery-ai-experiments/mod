@@ -1,0 +1,6 @@
+{
+  "block": "dalekmod:cinnabarite_ore",
+  "drop": "dalekmod:cinnabar",
+  "scan_time": 25,
+  "interaction": "block_drop"
+}

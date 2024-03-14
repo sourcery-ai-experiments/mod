@@ -1,0 +1,17 @@
+{
+  "id": "nether_star_dalek",
+  "items": [
+    {
+      "item": "minecraft:nether_star",
+      "count": 2
+    },
+    {
+      "item": "dalekmod:pure_dalekanium_block",
+      "count": 1
+    },
+    {
+      "item": "dalekmod:gunstick",
+      "count": 1
+    }
+  ]
+}

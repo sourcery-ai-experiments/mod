@@ -1,0 +1,10 @@
+{
+	"name": "dalekmod.tardis.name.scrap_police_box",
+	"models": [
+		"dalekmod:models/tileentity/tardis/scrap_police_box.json"
+	],
+	"cost": 75,
+	"unlockable": true,
+	"exteriorLight": true,
+	"desc": "dalekmod.tardis.description.scrap_police_box"
+}

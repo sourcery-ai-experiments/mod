@@ -1,0 +1,7 @@
+{
+"parent": "dalekmod:block/waypoint_panel/waypoint_panel_filled_pressed_gold",
+    "textures": {
+		"0": "dalekmod:block/panels/waypoint/jungle_waypoint_panel",
+		"particle": "dalekmod:block/panels/jungle_panel"
+    }
+}

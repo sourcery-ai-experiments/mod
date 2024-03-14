@@ -1,0 +1,10 @@
+{
+  "display_name": "TARDIS Fuel",
+  "icon": "dalekmod:textures/item/artron.png",
+  "signals": [
+    {
+      "id": "fuel",
+      "use_percentage": true
+    }
+  ]
+}

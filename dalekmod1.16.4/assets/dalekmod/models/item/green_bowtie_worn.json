@@ -1,0 +1,7 @@
+{
+  "parent": "dalekmod:item/bowtie_item",
+  "textures": {
+        "2":"dalekmod:item/bowtie/green_bowtie_tex",
+		"particle": "dalekmod:item/bowtie/green_bowtie_tex"
+  }
+}

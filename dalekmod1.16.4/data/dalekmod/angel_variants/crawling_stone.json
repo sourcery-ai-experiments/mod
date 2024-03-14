@@ -1,0 +1,49 @@
+{
+  "id": "crawling_stone_angel",
+  "general_texture": "dalekmod:entity/weeping_angel/weeping_angel",
+  "chance": 0.9,
+  "ignore_pose_chance": true,
+  "loot_table": "dalekmod:entities/angels/stone",
+  "spawn_conditions": {
+    "biomes": [
+      "minecraft:forest",
+      "minecraft:birch_forest",
+      "minecraft:dark_forest"
+    ]
+  },
+  "poses": [
+    {
+      "model": "dalekmod:models/angels/crawling_angel.json",
+      "id": "pose_0",
+      "hitbox": {
+        "init_x": 0,
+        "init_y": 0,
+        "init_z": 0,
+        "x": 1,
+        "y": 0.625,
+        "z": 1
+      },
+      "entity_size": {
+        "width": 1,
+        "height": 0.75
+      }
+    },
+    {
+      "model": "dalekmod:models/angels/crawling_angel_pose_1.json",
+      "id": "pose_1",
+      "texture": "dalekmod:entity/weeping_angel/weeping_angel_alt",
+      "hitbox": {
+        "init_x": 0,
+        "init_y": 0,
+        "init_z": 0,
+        "x": 1,
+        "y": 0.625,
+        "z": 1
+      },
+      "entity_size": {
+        "width": 1,
+        "height": 0.75
+      }
+    }
+  ]
+}

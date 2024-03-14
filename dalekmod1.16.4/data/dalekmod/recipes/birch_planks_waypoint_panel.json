@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#C#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:birch_planks"
+        },
+        "C": {
+            "item": "dalekmod:waypoint_panel"
+        }
+    },
+    "result": {
+        "item": "dalekmod:birch_planks_waypoint_panel",
+        "count": 1
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "block": "dalekmod:silicate_ore",
+  "drop": "dalekmod:silicon",
+  "scan_time": 25,
+  "interaction": "block_drop"
+}

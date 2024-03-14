@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dalekmod:birch_planks_coord_panel"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:copy_nbt",
+          "source": "block_entity",
+          "ops": [
+            {
+              "source": "PanelDamage",
+              "target": "PanelDamage",
+              "op": "replace"
+            },
+            {
+              "source": "PanelDurability",
+              "target": "PanelDurability",
+              "op": "replace"
+            },
+            {
+              "source": "PanelName",
+              "target": "PanelName",
+              "op": "replace"
+            },
+            {
+              "source": "PanelCircuit",
+              "target": "PanelCircuit",
+              "op": "replace"
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ]
+    }
+  ]
+}

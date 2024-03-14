@@ -1,0 +1,10 @@
+{
+  "display_name": "Light Alternator Direction",
+  "icon": "dalekmod:textures/item/light_alternator.png",
+  "signals": [
+    {
+      "id": "light_alternator_left",
+      "signal": 15
+    }
+  ]
+}

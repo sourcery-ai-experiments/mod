@@ -1,0 +1,216 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "dalekmod:entity/dalek_magnodon",
+	"texture_width": 64,
+	"texture_height": 64,
+	"scale": 1,
+	"groups": [
+		{
+			"group_name": "body",
+			"pivot": [0,23,0],
+			"rotation": [0,0,0],
+			"children": [
+				{
+					"group_name": "tail",
+					"pivot": [0,-1.5,7],
+					"rotation": [0,0,0],
+					"cubes": [
+						{
+							"uv": [13,19],
+							"size": [3,3,11],
+							"origin": [-2,-1.51,-1],
+							"inflate": 0,
+							"mirror": false
+						}
+					]
+				},
+				{
+					"group_name": "legfront1",
+					"pivot": [2,-1.5,-5],
+					"rotation": [0,0,0],
+					"cubes": [
+						{
+							"uv": [6,3],
+							"size": [1,3,2],
+							"origin": [0,-0.75,-1],
+							"inflate": 0,
+							"mirror": false
+						},
+						{
+							"uv": [-3,2],
+							"size": [3,0,3],
+							"origin": [0,2.25,-2],
+							"inflate": 0,
+							"mirror": false
+						}
+					]
+				},
+				{
+					"group_name": "legback1",
+					"pivot": [2,-1.75,5],
+					"rotation": [0,0,0],
+					"cubes": [
+						{
+							"uv": [6,3],
+							"size": [1,3,2],
+							"origin": [0,-0.5,-1],
+							"inflate": 0,
+							"mirror": false
+						},
+						{
+							"uv": [-3,2],
+							"size": [3,0,3],
+							"origin": [0,2.5,-2],
+							"inflate": 0,
+							"mirror": false
+						}
+					]
+				},
+				{
+					"group_name": "legback2",
+					"pivot": [-3,-1.5,5],
+					"rotation": [0,0,0],
+					"cubes": [
+						{
+							"uv": [0,5],
+							"size": [1,3,2],
+							"origin": [-1,-0.75,-1],
+							"inflate": 0,
+							"mirror": false
+						},
+						{
+							"uv": [3,0],
+							"size": [3,0,3],
+							"origin": [-3,2.25,-2],
+							"inflate": 0,
+							"mirror": false
+						}
+					]
+				},
+				{
+					"group_name": "legfront2",
+					"pivot": [-3,-1.5,-5],
+					"rotation": [0,0,0],
+					"cubes": [
+						{
+							"uv": [0,5],
+							"size": [1,3,2],
+							"origin": [-1,-0.75,-1],
+							"inflate": 0,
+							"mirror": false
+						},
+						{
+							"uv": [3,0],
+							"size": [3,0,3],
+							"origin": [-3,2.25,-2],
+							"inflate": 0,
+							"mirror": false
+						}
+					]
+				},
+				{
+					"group_name": "head",
+					"pivot": [-0.5,-1.5,-6],
+					"rotation": [0,0,0],
+					"children": [
+						{
+							"pivot": [-1.1305,-1.5,-3.4914],
+							"rotation": [0,45,0],
+							"children": [],
+							"cubes": [
+								{
+									"uv": [0,0],
+									"size": [1,1,0],
+									"origin": [-0.5,-1,0],
+									"inflate": 0,
+									"mirror": false
+								}
+							]
+						},
+						{
+							"pivot": [0.8695,-1.5,-3.4914],
+							"rotation": [0,45,0],
+							"children": [],
+							"cubes": [
+								{
+									"uv": [0,0],
+									"size": [1,1,0],
+									"origin": [-0.5,-1,0],
+									"inflate": 0,
+									"mirror": false
+								}
+							]
+						},
+						{
+							"pivot": [-1.1305,-1.5,-3.4914],
+							"rotation": [0,45,0],
+							"children": [],
+							"cubes": [
+								{
+									"uv": [0,-1],
+									"size": [0,1,1],
+									"origin": [0,-1,-0.5],
+									"inflate": 0,
+									"mirror": false
+								}
+							]
+						},
+						{
+							"pivot": [0.8695,-1.5,-3.4914],
+							"rotation": [0,45,0],
+							"children": [],
+							"cubes": [
+								{
+									"uv": [0,-1],
+									"size": [0,1,1],
+									"origin": [0,-1,-0.5],
+									"inflate": 0,
+									"mirror": false
+								}
+							]
+						}
+					],
+					"cubes": [
+						{
+							"uv": [24,0],
+							"size": [3,3,7],
+							"origin": [-1.6305,-1.5,-6.9914],
+							"inflate": 0,
+							"mirror": false
+						},
+						{
+							"uv": [10,8],
+							"size": [1,1,1],
+							"origin": [0.3695,-3.5,-3.9914],
+							"inflate": 0,
+							"mirror": false
+						},
+						{
+							"uv": [10,8],
+							"size": [1,1,1],
+							"origin": [-1.6305,-3.5,-3.9914],
+							"inflate": 0,
+							"mirror": false
+						}
+					]
+				}
+			],
+			"cubes": [
+				{
+					"uv": [0,0],
+					"size": [5,5,14],
+					"origin": [-3,-5,-7],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,7],
+					"size": [0,4,12],
+					"origin": [-0.5,-9,-6],
+					"inflate": 0,
+					"mirror": false
+				}
+			]
+		}
+	]
+}

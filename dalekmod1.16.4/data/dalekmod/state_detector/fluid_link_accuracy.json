@@ -1,0 +1,10 @@
+{
+  "display_name": "Fluid Link Accuracy",
+  "icon": "dalekmod:textures/item/accuracy_fluid_link.png",
+  "signals": [
+    {
+      "id": "fluid_link_accuracy",
+      "use_percentage": true
+    }
+  ]
+}

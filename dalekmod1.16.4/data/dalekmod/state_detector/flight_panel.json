@@ -1,0 +1,14 @@
+{
+  "display_name": "Flight Panel",
+  "icon": "dalekmod:textures/item/flight_panel.png",
+  "signals": [
+    {
+      "id": "flying_with_flight_panel",
+      "signal": 15
+    },
+    {
+      "id": "not_flying_with_flight_panel",
+      "signal": 0
+    }
+  ]
+}

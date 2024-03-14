@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "dalekmod:cyberman",
+    "dalekmod:cybermat",
+    "dalekmod:cyberdrone",    
+    "dalekmod:cybervillager"
+  ]
+}

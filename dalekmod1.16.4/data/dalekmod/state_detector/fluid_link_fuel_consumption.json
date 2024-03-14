@@ -1,0 +1,10 @@
+{
+  "display_name": "Fluid Link Fuel Consumption",
+  "icon": "dalekmod:textures/item/fuel_fluid_link.png",
+  "signals": [
+    {
+      "id": "fluid_link_fuel_consumption",
+      "use_percentage": true
+    }
+  ]
+}

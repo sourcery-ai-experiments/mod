@@ -1,0 +1,5 @@
+{
+  "entity": "minecraft:creeper",
+  "scan_time": 15,
+  "interaction": "entity"
+}

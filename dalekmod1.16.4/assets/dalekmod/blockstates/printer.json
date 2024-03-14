@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=north,paper_stage=0": { "model": "dalekmod:block/printer_ps_0", "y": 0},
+    "facing=south,paper_stage=0": { "model": "dalekmod:block/printer_ps_0", "y": 180 },
+    "facing=west,paper_stage=0":  { "model": "dalekmod:block/printer_ps_0", "y": 270 },
+    "facing=east,paper_stage=0":  { "model": "dalekmod:block/printer_ps_0", "y": 90 },
+    
+    "facing=north,paper_stage=1": { "model": "dalekmod:block/printer_ps_1", "y": 0},
+    "facing=south,paper_stage=1": { "model": "dalekmod:block/printer_ps_1", "y": 180 },
+    "facing=west,paper_stage=1":  { "model": "dalekmod:block/printer_ps_1", "y": 270 },
+    "facing=east,paper_stage=1":  { "model": "dalekmod:block/printer_ps_1", "y": 90 },
+    
+    "facing=north,paper_stage=2": { "model": "dalekmod:block/printer_ps_2", "y": 0},
+    "facing=south,paper_stage=2": { "model": "dalekmod:block/printer_ps_2", "y": 180 },
+    "facing=west,paper_stage=2":  { "model": "dalekmod:block/printer_ps_2", "y": 270 },
+    "facing=east,paper_stage=2":  { "model": "dalekmod:block/printer_ps_2", "y": 90 },
+    
+    "facing=north,paper_stage=3": { "model": "dalekmod:block/printer_ps_3", "y": 0},
+    "facing=south,paper_stage=3": { "model": "dalekmod:block/printer_ps_3", "y": 180 },
+    "facing=west,paper_stage=3":  { "model": "dalekmod:block/printer_ps_3", "y": 270 },
+    "facing=east,paper_stage=3":  { "model": "dalekmod:block/printer_ps_3", "y": 90 }
+  }
+}

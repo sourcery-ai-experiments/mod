@@ -1,0 +1,5 @@
+{
+	"texture": "dalekmod:tileentity/tardis/cyan_fridge",
+	"parent": "dalekmod:models/tileentity/tardis/light_gray_fridge",
+	"snowmap": "dalekmod:tileentity/tardis/fridge_snowmap"
+}

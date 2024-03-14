@@ -1,0 +1,26 @@
+{
+    "exteriorName":"dalekmod.tardis.name.fridge",
+    "interiorPath":"dalekmod:tardis_default",
+    "modelPath": [
+        "dalekmod:models/tileentity/tardis/white_fridge.json",
+        "dalekmod:models/tileentity/tardis/orange_fridge.json",
+        "dalekmod:models/tileentity/tardis/magenta_fridge.json",
+        "dalekmod:models/tileentity/tardis/light_blue_fridge.json",
+        "dalekmod:models/tileentity/tardis/yellow_fridge.json",
+        "dalekmod:models/tileentity/tardis/lime_fridge.json",
+        "dalekmod:models/tileentity/tardis/pink_fridge.json",
+        "dalekmod:models/tileentity/tardis/gray_fridge.json",
+        "dalekmod:models/tileentity/tardis/light_gray_fridge.json",
+        "dalekmod:models/tileentity/tardis/cyan_fridge.json",
+        "dalekmod:models/tileentity/tardis/purple_fridge.json",
+        "dalekmod:models/tileentity/tardis/blue_fridge.json",
+        "dalekmod:models/tileentity/tardis/brown_fridge.json",
+        "dalekmod:models/tileentity/tardis/green_fridge.json",
+        "dalekmod:models/tileentity/tardis/red_fridge.json",
+        "dalekmod:models/tileentity/tardis/black_fridge.json"
+    ],
+    "xpValue":100,
+    "unlockable":true,
+    "isDefaultSelection":false,
+    "desc" : "dalekmod.tardis.description.fridge"
+}

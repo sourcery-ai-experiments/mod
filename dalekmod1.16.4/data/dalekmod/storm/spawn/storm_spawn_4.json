@@ -1,0 +1,17 @@
+{
+  "id": "nether",
+  "items": [
+    {
+      "item": "minecraft:nether_star",
+      "count": 1
+    },
+    {
+      "item": "minecraft:netherite_block",
+      "count": 1
+    },
+    {
+      "item": "dalekmod:plunger",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+	"block": "dalekmod:dalek_door",
+	"scan_time": 12,
+	"interaction": "door"
+}

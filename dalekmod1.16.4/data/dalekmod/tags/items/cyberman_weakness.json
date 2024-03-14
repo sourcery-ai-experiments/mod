@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ingots/gold",
+    "#forge:nuggets/gold",
+    "#dalekmod:mostly_gold",
+    "#forge:ores/gold",
+    "#forge:storage_blocks/gold"
+  ]
+}

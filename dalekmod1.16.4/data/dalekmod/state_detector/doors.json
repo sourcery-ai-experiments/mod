@@ -1,0 +1,14 @@
+{
+  "display_name": "TARDIS Doors",
+  "icon": "dalekmod:textures/item/tardis_door_hitbox.png",
+  "signals": [
+    {
+      "id": "door_open",
+      "signal": 15
+    },
+    {
+      "id": "door_closed",
+      "signal": 0
+    }
+  ]
+}

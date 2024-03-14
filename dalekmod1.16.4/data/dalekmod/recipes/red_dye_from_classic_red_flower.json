@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "dalekmod:classic_red_flower"
+        }
+    ],
+    "result": {
+        "item": "minecraft:red_dye",
+        "count": 1
+    }
+}

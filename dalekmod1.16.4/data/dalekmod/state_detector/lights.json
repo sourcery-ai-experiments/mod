@@ -1,0 +1,10 @@
+{
+  "display_name": "TARDIS Lights",
+  "icon": "dalekmod:textures/item/light_bulb.png",
+  "signals": [
+    {
+      "id": "lights",
+      "use_percentage": true
+    }
+  ]
+}

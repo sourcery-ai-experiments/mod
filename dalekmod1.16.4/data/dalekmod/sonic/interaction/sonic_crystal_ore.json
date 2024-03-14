@@ -1,0 +1,6 @@
+{
+  "block": "dalekmod:sonic_crystal_ore",
+  "drop": "dalekmod:sonic_crystal",
+  "scan_time": 25,
+  "interaction": "block_drop"
+}

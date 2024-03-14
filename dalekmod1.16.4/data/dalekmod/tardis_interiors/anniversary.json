@@ -1,0 +1,186 @@
+{
+	"defaultSpawnRotation": 180,
+	"doorOffset": [16.5, 17, 28.5],
+	"interiorName": "dalekmod.interior.name.anniversary",
+	"interiorFile": "dalekmod:anniversary",
+	"previewImage": "dalekmod:textures/gui/interior_selection/anniversary.png",
+	"xOffset": 0,
+	"yOffset": 4,
+	"zOffset": 0,
+	"recipe": {
+		"parts": [
+			{
+				"item": "dalekmod:ship_light",
+				"quantity": 1588
+			},
+			{
+				"item": "dalekmod:black_smooth_plastic",
+				"quantity": 634
+			},
+			{
+				"item": "dalekmod:black_smooth_plastic_slab",
+				"quantity": 325
+			},
+			{
+				"item": "dalekmod:white_stainless_steel_wall",
+				"quantity": 240
+			},
+			{
+				"item": "dalekmod:white_quartz_roundel",
+				"quantity": 216
+			},
+			{
+				"item": "dalekmod:gray_smooth_plastic",
+				"quantity": 75
+			},
+			{
+				"item": "dalekmod:gray_smooth_plastic_slab",
+				"quantity": 2
+			},
+			{
+				"item": "dalekmod:gray_smooth_plastic_stairs",
+				"quantity": 8
+			},
+			{
+				"item": "dalekmod:light_gray_smooth_plastic_stairs",
+				"quantity": 8
+			},
+			{
+				"item": "dalekmod:white_stainless_steel_slab",
+				"quantity": 53
+			},
+			{
+				"item": "dalekmod:cyan_tube_rotor",
+				"quantity": 2
+			},
+			{
+				"item": "dalekmod:light_blue_tube_rotor",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:white_stainless_steel_stairs",
+				"quantity": 3
+			},
+			{
+				"item": "dalekmod:tardis_door_hitbox",
+				"quantity": 2
+			},
+			{
+				"item": "dalekmod:blue_plated_stainless_steel",
+				"quantity": 4
+			},
+			{
+				"item": "dalekmod:light_box",
+				"quantity": 2
+			},
+			{
+				"item": "dalekmod:black_stainless_steel_stairs",
+				"quantity": 4
+			},
+			{
+				"item": "dalekmod:coord_panel",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:fault_locator",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:fast_return_lever",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:chameleon_panel",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:flight_lever",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:light_alternator",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:waypoint_panel",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:scanner",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:police_box_door",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:dimension_selector_panel",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:data_writer",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:sonic_interface",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:flight_panel",
+				"quantity": 1
+			},
+			{
+				"item": "minecraft:quartz_stairs",
+				"quantity": 1951
+			},
+			{
+				"item": "minecraft:quartz_block",
+				"quantity": 583
+			},
+			{
+				"item": "minecraft:quartz_pillar",
+				"quantity": 154
+			},
+			{
+				"item": "minecraft:smooth_quartz_slab",
+				"quantity": 162
+			},
+			{
+				"item": "minecraft:quartz_slab",
+				"quantity": 105
+			},
+			{
+				"item": "minecraft:smooth_quartz",
+				"quantity": 12
+			},
+			{
+				"item": "minecraft:iron_trapdoor",
+				"quantity": 170
+			},
+			{
+				"item": "minecraft:comparator",
+				"quantity": 1
+			},
+			{
+				"item": "minecraft:repeater",
+				"quantity": 1
+			},
+			{
+				"item": "minecraft:iron_door",
+				"quantity": 4
+			},
+			{
+				"item": "minecraft:ladder",
+				"quantity": 8
+			},
+			{
+				"item": "minecraft:sea_lantern",
+				"quantity": 1
+			},
+			{
+				"item": "minecraft:white_stained_glass_pane",
+				"quantity": 254
+			}
+		]
+	}
+}

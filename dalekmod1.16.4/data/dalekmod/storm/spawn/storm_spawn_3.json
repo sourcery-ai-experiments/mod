@@ -1,0 +1,17 @@
+{
+  "id": "nether_star",
+  "items": [
+    {
+      "item": "minecraft:nether_star",
+      "count": 1
+    },
+    {
+      "item": "dalekmod:emblemized_pure_dalekanium_block",
+      "count": 2
+    },
+    {
+      "item": "dalekmod:gunstick",
+      "count": 1
+    }
+  ]
+}

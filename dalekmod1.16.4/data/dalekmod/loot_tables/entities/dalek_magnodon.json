@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 6
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_nugget"
+        }
+      ]
+    },
+            {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "dalekmod:stainless_steel_ingot",
+                    "conditions": [
+                        {
+                            "condition": "minecraft:killed_by_player",
+                            "inverse": false
+                        },
+                        {
+                            "condition": "minecraft:random_chance",
+                            "chance": 0.2
+                        }
+                    ]
+                }
+            ]
+        }
+  ]
+}

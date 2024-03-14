@@ -1,0 +1,17 @@
+{
+  "id": "netherite_block",
+  "items": [
+    {
+      "item": "minecraft:netherite_block",
+      "count": 2
+    },
+    {
+      "item": "dalekmod:pure_dalekanium_block",
+      "count": 6
+    },
+    {
+      "item": "dalekmod:plunger",
+      "count": 1
+    }
+  ]
+}

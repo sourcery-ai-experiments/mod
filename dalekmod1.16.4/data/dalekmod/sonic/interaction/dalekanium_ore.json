@@ -1,0 +1,6 @@
+{
+  "block": "dalekmod:dalekanium_ore",
+  "drop": "dalekmod:dalekanium_ingot",
+  "scan_time": 25,
+  "interaction": "block_drop"
+}

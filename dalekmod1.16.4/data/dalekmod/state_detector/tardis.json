@@ -1,0 +1,14 @@
+{
+  "display_name": "TARDIS States",
+  "icon": "dalekmod:textures/item/tardis_default.png",
+  "signals": [
+    {
+      "id": "landed",
+      "signal": 0
+    },
+    {
+      "id": "flying",
+      "signal": 15
+    }
+  ]
+}

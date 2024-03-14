@@ -1,0 +1,101 @@
+{
+	"bedrock_roof_position": -10,
+	"bedrock_floor_position": 0,
+	"sea_level": 63,
+	"disable_mob_generation": true,
+	"default_block": {
+		"Name": "dalekmod:kaletite"
+	},
+	"default_fluid": {
+		"Name": "minecraft:water",
+		"Properties": {
+			"level": "0"
+		}
+	},
+	"noise": {
+		"height": 256,
+		"density_factor": 1,
+		"density_offset": -0.46875,
+		"size_horizontal": 1,
+		"size_vertical": 2,
+		"simplex_surface_noise": true,
+		"random_density_offset": true,
+		"island_noise_override": false,
+		"sampling": {
+			"xz_scale": 1,
+			"y_scale": 1,
+			"xz_factor": 80,
+			"y_factor": 160
+		},
+		"bottom_slide": {
+			"target": -30,
+			"size": 0,
+			"offset": 0
+		},
+		"top_slide": {
+			"target": -10,
+			"size": 3,
+			"offset": 0
+		}
+	},
+	"structures": {
+	
+		"structures": {
+			"dalekmod:thal_house": {
+				"spacing": 70,
+				"separation": 20,
+				"salt": 5454534435
+			},
+			"dalekmod:thal_house_ruined": {
+				"spacing": 70,
+				"separation": 20,	
+				"salt": 4874572
+			},
+			"dalekmod:dark_star_meteorite": {
+				"spacing": 150,
+				"separation": 50,
+				"salt": 76562647
+			},
+			"dalekmod:kaled_ruins": {
+				"spacing": 30,
+				"separation": 10,
+				"salt": 57636563
+			},
+			"dalekmod:kaletite_ruins_1": {
+				"spacing": 150,
+				"separation": 50,
+				"salt": 5763656
+			},
+			"dalekmod:kaletite_ruins_2": {
+				"spacing": 150,
+				"separation": 50,
+				"salt": 5763655
+			},
+			"dalekmod:kaletite_ruins_3": {
+				"spacing": 150,
+				"separation": 50,
+				"salt": 5763652
+			},
+			"dalekmod:kaletite_ruins_4": {
+				"spacing": 150,
+				"separation": 50,
+				"salt": 57636563
+			},
+			"dalekmod:kaletite_ruins_5": {
+				"spacing": 150,
+				"separation": 50,
+				"salt": 576365656
+			},
+			"dalekmod:storm_ruins": {
+				"spacing": 350,
+				"separation": 150,
+				"salt": 420696969
+			},
+			"dalekmod:dalek_ship": {
+				"spacing": 150,
+				"separation": 75,
+				"salt": 234556789
+			}
+		}
+	}
+}

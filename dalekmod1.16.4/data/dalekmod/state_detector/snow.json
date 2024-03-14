@@ -1,0 +1,14 @@
+{
+  "display_name": "TARDIS Snowy",
+  "icon": "minecraft:textures/item/snowball.png",
+  "signals": [
+    {
+      "id": "is_snowy",
+      "signal": 15
+    },
+    {
+      "id": "is_not_snowy",
+      "signal": 0
+    }
+  ]
+}

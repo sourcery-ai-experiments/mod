@@ -1,0 +1,14 @@
+{
+  "display_name": "Door Locks",
+  "icon": "dalekmod:textures/item/tardis_key.png",
+  "signals": [
+    {
+      "id": "locked",
+      "signal": 15
+    },
+    {
+      "id": "unlocked",
+      "signal": 0
+    }
+  ]
+}

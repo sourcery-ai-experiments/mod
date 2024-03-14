@@ -1,0 +1,299 @@
+{
+	"credit": "Made by Kiseki",
+	"texture": "dalekmod:entity/dalek/storm_dalek",
+	"lightmap": "dalekmod:entity/dalek/storm_dalek_lightmap",
+	"texture_width": 128,
+	"texture_height": 128,
+	"scale": 1,
+	"groups": [
+		{
+			"group_name": "Skirt",
+			"pivot": [0,9,1],
+			"rotation": [0,0,0],
+			"cubes": [
+				{
+					"uv": [56,46],
+					"size": [11,5,12],
+					"origin": [-5.5,0,-6],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,41],
+					"size": [11,6,13],
+					"origin": [-5.5,5,-7],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,0],
+					"size": [19,4,20],
+					"origin": [-9.5,11,-11.5],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,24],
+					"size": [21,8,9],
+					"origin": [-10.5,7,0.5],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [77,79],
+					"size": [4,4,9],
+					"origin": [-7.5,9,-12.5],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [27,78],
+					"size": [4,4,9],
+					"origin": [3.5,9,-12.5],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [23,91],
+					"size": [2,8,5],
+					"origin": [-7.5,-5,-1],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [90,41],
+					"size": [2,8,5],
+					"origin": [5.5,-5,-1],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [30,46],
+					"size": [4,4,18],
+					"origin": [-9.5,-3,-8],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [42,24],
+					"size": [4,4,18],
+					"origin": [5.5,-3,-8],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [68,29],
+					"size": [13,8,4],
+					"origin": [-6.5,-5,4],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [54,75],
+					"size": [7,4,9],
+					"origin": [-3.5,7,0.5],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,9],
+					"size": [2,2,7],
+					"origin": [-8.5,-3,-15],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [35,41],
+					"size": [1,1,5],
+					"origin": [-8,0,-13],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,41],
+					"size": [1,1,5],
+					"origin": [7,0,-13],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,0],
+					"size": [2,2,7],
+					"origin": [6.5,-3,-15],
+					"inflate": 0,
+					"mirror": false
+				}
+			]
+		},
+		{
+			"group_name": "Torso",
+			"pivot": [0,9,1],
+			"rotation": [0,0,0],
+			"cubes": [
+				{
+					"uv": [58,0],
+					"size": [11,6,10],
+					"origin": [-5.5,-6,-4.5],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [68,16],
+					"size": [7,3,10],
+					"origin": [-3.5,-5,-6.5],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [64,63],
+					"size": [11,2,10],
+					"origin": [-5.5,-2,-6.5],
+					"inflate": 0,
+					"mirror": false
+				}
+			]
+		},
+		{
+			"group_name": "Neck",
+			"pivot": [0,3,1.5],
+			"rotation": [0,0,0],
+			"cubes": [
+				{
+					"uv": [0,84],
+					"size": [7,4,7],
+					"origin": [-3.5,-4,-3.5],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [0,72],
+					"size": [9,1,9],
+					"origin": [-4.5,-3,-4.5],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [27,68],
+					"size": [9,1,9],
+					"origin": [-4.5,-1,-4.5],
+					"inflate": 0,
+					"mirror": false
+				}
+			]
+		},
+		{
+			"group_name": "Head",
+			"pivot": [0,-1,1.5],
+			"rotation": [0,0,0],
+			"children": [
+				{
+					"group_name": "LightRight",
+					"pivot": [-2.75,-2.75,0],
+					"rotation": [0,0,-45],
+					"cubes": [
+						{
+							"uv": [11,0],
+							"size": [2,3,2],
+							"origin": [-1,-2.5,-1],
+							"inflate": 0,
+							"mirror": false
+						}
+					]
+				},
+				{
+					"group_name": "LightLeft",
+					"pivot": [2.75,-2.75,0],
+					"rotation": [0,0,45],
+					"cubes": [
+						{
+							"uv": [11,9],
+							"size": [2,3,2],
+							"origin": [-1,-2.5,-1],
+							"inflate": 0,
+							"mirror": false
+						}
+					]
+				},
+				{
+					"group_name": "Eye",
+					"pivot": [0,-4,-4.5],
+					"rotation": [0,0,0],
+					"cubes": [
+						{
+							"uv": [68,89],
+							"size": [1,1,5],
+							"origin": [-0.5,0,-5],
+							"inflate": 0,
+							"mirror": false
+						},
+						{
+							"uv": [0,0],
+							"size": [2,2,1],
+							"origin": [-1,-0.5,-6],
+							"inflate": 0,
+							"mirror": false
+						},
+						{
+							"uv": [0,3],
+							"size": [2,2,0],
+							"origin": [-1,-0.5,-3],
+							"inflate": 0,
+							"mirror": false
+						},
+						{
+							"uv": [0,3],
+							"size": [2,2,0],
+							"origin": [-1,-0.5,-4],
+							"inflate": 0,
+							"mirror": false
+						},
+						{
+							"uv": [0,5],
+							"size": [2,2,0],
+							"origin": [-1,-0.5,-2],
+							"inflate": 0,
+							"mirror": false
+						},
+						{
+							"uv": [0,116],
+							"size": [3,3,2],
+							"origin": [-1.5,-1,-8],
+							"inflate": -0.4,
+							"mirror": false
+						},
+						{
+							"uv": [0,47],
+							"size": [3,3,2],
+							"origin": [-1.5,-1,-8],
+							"inflate": 0,
+							"mirror": false
+						}
+					]
+				}
+			],
+			"cubes": [
+				{
+					"uv": [0,60],
+					"size": [9,3,9],
+					"origin": [-4.5,-3,-4.5],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [46,88],
+					"size": [7,2,7],
+					"origin": [-3.5,-5,-3.5],
+					"inflate": 0,
+					"mirror": false
+				},
+				{
+					"uv": [29,111],
+					"size": [3,2,2],
+					"origin": [-1.5,-5,-5.5],
+					"inflate": 0,
+					"mirror": false
+				}
+			]
+		}
+	]
+}

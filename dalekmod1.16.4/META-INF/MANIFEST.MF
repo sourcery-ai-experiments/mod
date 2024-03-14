@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Dalek Mod
+MixinConfigs: mixins.dalekmod.json
+Implementation-Version: 69.4.20_no_angels
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2024-03-10T17:12:35+0000
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

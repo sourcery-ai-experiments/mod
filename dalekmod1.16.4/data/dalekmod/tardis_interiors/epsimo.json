@@ -1,0 +1,180 @@
+{
+  "defaultSpawnRotation": 180,
+	"doorOffset": [15.5, 9, 28.5],
+	"name": "dalekmod.interior.name.epsimo",
+  "interiorFile": "dalekmod:epsimo",
+  "previewImage": "dalekmod:textures/gui/interior_selection/epsimo.png",
+  "xOffset": 0,
+  "yOffset": 6,
+  "zOffset": 0,
+    "recipe": [
+      {
+        "item": "dalekmod:black_smooth_plastic",
+        "quantity": 382
+      },
+      {
+        "item": "dalekmod:scorched_smooth_quartz",
+        "quantity": 2120
+      },
+      {
+        "item": "dalekmod:deadlock_door",
+        "quantity": 6
+      },
+      {
+        "item": "dalekmod:scorched_white_quartz_roundel",
+        "quantity": 93
+      },
+      {
+        "item": "minecraft:magenta_concrete",
+        "quantity": 471
+      },
+      {
+        "item": "dalekmod:dark_star_strip",
+        "quantity": 186
+      },
+      {
+        "item": "dalekmod:scorched_black_quartz_roundel",
+        "quantity": 36
+      },
+      {
+        "item": "dalekmod:dark_star_roundel",
+        "quantity": 42
+      },
+      {
+        "item": "minecraft:purple_stained_glass",
+        "quantity": 20
+      },
+      {
+        "item": "dalekmod:scorched_smooth_quartz_slab",
+        "quantity": 387
+      },
+      {
+        "item": "dalekmod:black_smooth_plastic_stairs",
+        "quantity": 47
+      },
+      {
+        "item": "minecraft:gray_stained_glass_pane",
+        "quantity": 89
+      },
+      {
+        "item": "dalekmod:black_diamondplated_stainless_steel",
+        "quantity": 190
+      },
+      {
+        "item": "dalekmod:scorched_quartz_pillar",
+        "quantity": 40
+      },
+      {
+        "item": "minecraft:gray_stained_glass",
+        "quantity": 84
+      },
+      {
+        "item": "minecraft:daylight_detector",
+        "quantity": 2
+      },
+      {
+        "item": "dalekmod:magenta_tube_rotor",
+        "quantity": 11
+      },
+      {
+        "item": "dalekmod:black_smooth_plastic_slab",
+        "quantity": 71
+      },
+      {
+        "item": "dalekmod:scorched_smooth_quartz_stairs",
+        "quantity": 34
+      },
+      {
+        "item": "minecraft:redstone_torch",
+        "quantity": 4
+      },
+      {
+        "item": "dalekmod:crimson_planks_waypoint_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:kerblam_computer",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:crimson_planks_light_alternator",
+        "quantity": 1
+      },
+      {
+        "item": "minecraft:dark_oak_stairs",
+        "quantity": 2
+      },
+      {
+        "item": "dalekmod:fast_return_lever",
+        "quantity": 1
+      },
+      {
+        "item": "minecraft:polished_blackstone_pressure_plate",
+        "quantity": 4
+      },
+      {
+        "item": "minecraft:comparator",
+        "quantity": 2
+      },
+      {
+        "item": "minecraft:bookshelf",
+        "quantity": 6
+      },
+      {
+        "item": "minecraft:repeater",
+        "quantity": 5
+      },
+      {
+        "item": "minecraft:magenta_stained_glass",
+        "quantity": 6
+      },
+      {
+        "item": "dalekmod:fault_locator",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:crimson_planks_chameleon_panel",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:tardis_computer",
+        "quantity": 1
+      },
+      {
+        "item": "minecraft:lever",
+        "quantity": 2
+      },
+      {
+        "item": "dalekmod:scanner",
+        "quantity": 2
+      },
+      {
+        "item": "minecraft:bell",
+        "quantity": 1
+      },
+      {
+        "item": "minecraft:chain",
+        "quantity": 12
+      },
+      {
+        "item": "dalekmod:storage_vault",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:crimson_planks_sonic_interface",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:flight_lever",
+        "quantity": 1
+      },
+      {
+        "item": "dalekmod:crimson_planks_dimension_selector",
+        "quantity": 1
+      },
+      {
+        "item": "minecraft:chest",
+        "quantity": 2
+      }
+    ]
+  }

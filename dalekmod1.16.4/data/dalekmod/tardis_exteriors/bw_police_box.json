@@ -1,0 +1,10 @@
+{
+	"name": "dalekmod.tardis.name.police_box_bw",
+	"models": [
+		"dalekmod:models/tileentity/tardis/2005_bw_police_box.json"
+	],
+	"cost": 500,
+	"unlockable": true,
+	"exteriorLight": true,
+	"desc": "dalekmod.tardis.description.police_box_bw"
+}

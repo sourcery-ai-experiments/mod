@@ -1,0 +1,154 @@
+{
+	"defaultSpawnRotation": 180,
+	"doorOffset": [13.5, 10, 29.5],
+	"interiorName": "dalekmod.interior.name.coral",
+	"interiorFile": "dalekmod:coral",
+	"previewImage": "dalekmod:textures/gui/interior_selection/coral.png",
+	"xOffset": 0,
+	"yOffset": 6,
+	"zOffset": 0,
+	"recipe": {
+		"parts": [
+			{
+				"item": "dalekmod:black_plastic",
+				"quantity": 40
+			  },
+			  {
+				"item": "dalekmod:deadlock_door",
+				"quantity": 4
+			  },
+			  {
+				"item": "dalekmod:police_box_door",
+				"quantity": 1
+			  },
+			  {
+				"item": "dalekmod:tardis_door_hitbox",
+				"quantity": 2
+			  },
+			  {
+				"item": "minecraft:cyan_terracotta",
+				"quantity": 761
+			  },
+			  {
+				"item": "dalekmod:refined_dalekanium_roundel_alternate",
+				"quantity": 824
+			  },
+			  {
+				"item": "minecraft:stripped_oak_wood",
+				"quantity": 571
+			  },
+			  {
+				"item": "minecraft:light_gray_terracotta",
+				"quantity": 446
+			  },
+			  {
+				"item": "minecraft:petrified_oak_slab",
+				"quantity": 31
+			  },
+			  {
+				"item": "minecraft:black_carpet",
+				"quantity": 55
+			  },
+			  {
+				"item": "minecraft:smooth_sandstone",
+				"quantity": 103
+			  },
+			  {
+				"item": "dalekmod:steel_grate_slab",
+				"quantity": 59
+			  },
+			  {
+				"item": "minecraft:smooth_sandstone_stairs",
+				"quantity": 106
+			  },
+			  {
+				"item": "dalekmod:rusted_steel_grate_slab",
+				"quantity": 95
+			  },
+			  {
+				"item": "dalekmod:rusted_steel_grate",
+				"quantity": 55
+			  },
+			  {
+				"item": "dalekmod:cyan_smooth_plastic_stairs",
+				"quantity": 8
+			  },
+			  {
+				"item": "minecraft:spruce_stairs",
+				"quantity": 16
+			  },
+			  {
+				"item": "dalekmod:cyan_stainless_steel_slab",
+				"quantity": 4
+			  },
+			  {
+				"item": "dalekmod:scanner",
+				"quantity": 1
+			  },
+			  {
+				"item": "dalekmod:dimension_selector_panel",
+				"quantity": 1
+			  },
+			  {
+				"item": "dalekmod:cyan_smooth_plastic",
+				"quantity": 23
+			  },
+			  {
+				"item": "minecraft:ladder",
+				"quantity": 4
+			  },
+			  {
+				"item": "dalekmod:ship_light",
+				"quantity": 2
+			  },
+			  {
+				"item": "minecraft:smooth_sandstone_slab",
+				"quantity": 1
+			  },
+			  {
+				"item": "dalekmod:coord_panel",
+				"quantity": 1
+			  },
+			  {
+				"item": "dalekmod:cyan_tube_rotor",
+				"quantity": 3
+			  },
+			  {
+				"item": "dalekmod:waypoint_panel",
+				"quantity": 1
+			  },
+			  {
+				"item": "dalekmod:flight_lever",
+				"quantity": 1
+			  },
+			  {
+				"item": "dalekmod:chameleon_panel",
+				"quantity": 1
+			  },
+			  {
+				"item": "dalekmod:fast_return_lever",
+				"quantity": 1
+			  },
+			  {
+				"item": "dalekmod:fault_locator",
+				"quantity": 1
+			  },
+			  {
+				"item": "minecraft:brick_slab",
+				"quantity": 3
+			  },
+			  {
+				"item": "minecraft:bricks",
+				"quantity": 12
+			  },
+			  {
+				"item": "minecraft:iron_bars",
+				"quantity": 8
+			  },
+			  {
+				"item": "dalekmod:steel_stairs",
+				"quantity": 18
+			  }
+		]
+	}
+}

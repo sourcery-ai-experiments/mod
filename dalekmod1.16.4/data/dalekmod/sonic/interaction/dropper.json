@@ -1,0 +1,5 @@
+{
+	"block": "minecraft:dropper",
+	"scan_time": 4,
+	"interaction": "block_tick"
+}

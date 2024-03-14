@@ -1,0 +1,47 @@
+{
+	"type": "minecraft:decorated",
+	"config": {
+		"feature": {
+			"type": "minecraft:decorated",
+			"name": "dalekmod:skaro_dalekanium",
+			"config": {
+				"feature": {
+					"type": "minecraft:decorated",
+					"config": {
+						"feature": {
+							"config": {
+								"target": {
+									"predicate_type": "minecraft:block_match",
+									"block": "dalekmod:kaletite"  //replaces this block
+								},
+								"state": {
+									"Name": "dalekmod:dalekanium_ore"
+								},
+								"size": 12   //max size of ore blocks together
+							},
+							"type": "minecraft:ore"
+						},
+						"decorator": {
+							"config": {
+								"bottom_offset": 0, //ore won't spawn lower than this
+								"top_offset": 1, //weird ass setting
+								"maximum": 120 //max height minus 1
+							},
+							"type": "minecraft:range"
+						}
+					}
+				},
+				"decorator": {
+					"config": {},
+					"type": "minecraft:square"
+				}
+			}
+		},
+		"decorator": {
+			"config": {
+				"count":12 //how common it is
+			},
+			"type": "minecraft:count"
+		}
+	}
+}

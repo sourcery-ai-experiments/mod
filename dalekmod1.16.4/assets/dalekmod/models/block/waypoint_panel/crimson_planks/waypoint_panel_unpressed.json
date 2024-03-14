@@ -1,0 +1,7 @@
+{
+"parent": "dalekmod:block/waypoint_panel/waypoint_panel_unpressed",
+    "textures": {
+		"0": "dalekmod:block/panels/waypoint/crimson_waypoint_panel",
+		"particle": "dalekmod:block/panels/crimson_panel"
+    }
+}

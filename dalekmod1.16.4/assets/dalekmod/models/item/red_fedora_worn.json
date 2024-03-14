@@ -1,0 +1,7 @@
+{
+	"parent": "dalekmod:item/fedora_item",
+	"textures": {
+		  "particle": "dalekmod:item/fedora/red_fedora_tex"
+	}
+  }
+  

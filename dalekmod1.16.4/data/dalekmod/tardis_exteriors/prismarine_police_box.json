@@ -1,0 +1,10 @@
+{
+  "name": "dalekmod.tardis.name.prismarine_police_box",
+  "models": [
+    "dalekmod:models/tileentity/tardis/prismarine_police_box.json"
+  ],
+  "cost": 100,
+  "unlockable": true,
+  "exteriorLight": true,
+  "desc": "dalekmod.tardis.description.prismarine_police_box"
+}

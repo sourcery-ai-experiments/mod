@@ -1,0 +1,5 @@
+{
+  "entity": "minecraft:chicken",
+  "scan_time": 60,
+  "interaction": "entity"
+}

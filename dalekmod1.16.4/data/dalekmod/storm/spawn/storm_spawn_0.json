@@ -1,0 +1,17 @@
+{
+  "id": "dalekanium",
+  "items": [
+    {
+      "item": "dalekmod:emblemized_dalekanium_block",
+      "count": 5
+    },
+    {
+      "item": "dalekmod:refined_dalekanium_block",
+      "count": 5
+    },
+    {
+      "item": "dalekmod:plunger",
+      "count": 1
+    }
+  ]
+}

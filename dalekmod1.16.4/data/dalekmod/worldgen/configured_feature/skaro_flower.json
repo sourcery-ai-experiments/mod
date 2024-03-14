@@ -1,0 +1,79 @@
+{
+	"type": "minecraft:decorated",
+	"config":
+	{
+		"feature":
+		{
+			"type": "minecraft:decorated",
+			"name": "dalekmod:skaro_flower",
+			"config":
+			{
+				"feature":
+				{
+					"config":
+					{
+						"whitelist":
+						[
+							{
+								"Properties":
+								{
+									"snowy": "false"
+								},
+								"Name": "dalekmod:cindergrass"
+							}
+						],
+						"blacklist":
+						[
+						{
+						"Name": "minecraft:air"
+						}
+						],
+						"tries": 2,
+						"state_provider":
+						{
+							"state":
+							{
+								"Name": "dalekmod:petrified_flower"
+							},
+							"type": "minecraft:simple_state_provider"
+						},
+						"block_placer":
+						{
+							"type": "minecraft:simple_block_placer"
+						}
+					},
+					"type": "minecraft:random_patch"
+				},
+				"decorator":
+				{
+					"config":
+					{
+						"outer":
+						{
+							"config":
+							{
+							},
+							"type": "minecraft:square"
+						},
+						"inner":
+						{
+							"config":
+							{
+							},
+							"type": "minecraft:heightmap_spread_double"
+						}
+					},
+					"type": "minecraft:decorated"
+				}
+			}
+		},
+		"decorator":
+		{
+			"config":
+			{
+				"chance": 10
+			},
+			"type": "minecraft:chance"
+		}
+	}
+} 

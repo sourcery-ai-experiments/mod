@@ -1,0 +1,5 @@
+{
+	"block": "minecraft:beetroots",
+	"scan_time": 4,
+	"interaction": "farmland"
+}

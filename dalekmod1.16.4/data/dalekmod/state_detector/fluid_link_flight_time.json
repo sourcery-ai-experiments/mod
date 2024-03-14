@@ -1,0 +1,10 @@
+{
+  "display_name": "Fluid Link Flight Time",
+  "icon": "dalekmod:textures/item/flight_fluid_link.png",
+  "signals": [
+    {
+      "id": "fluid_link_flight_time",
+      "use_percentage": true
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+	"texture": "dalekmod:entity/dalek/pink_fluffy_dalek_alt",
+	"lightmap": "dalekmod:entity/dalek/pink_fluffy_dalek_lightmap",
+	"parent": "dalekmod:models/entity/dalek/pink_fluffy_dalek"
+ }
+ 

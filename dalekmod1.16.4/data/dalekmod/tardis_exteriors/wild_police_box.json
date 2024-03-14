@@ -1,0 +1,14 @@
+{
+    "exteriorName":"dalekmod.tardis.name.wild_police_box",
+    "interiorPath":"dalekmod:tardis_default",
+
+    "modelPath": [
+        "dalekmod:models/tileentity/tardis/wild_police_box.json"
+
+    ],
+    "xpValue":100,
+    "unlockable":false,
+    "isDefaultSelection":false,
+    "exteriorLight": true,
+    "desc": "dalekmod.tardis.description.wild_police_box"
+}

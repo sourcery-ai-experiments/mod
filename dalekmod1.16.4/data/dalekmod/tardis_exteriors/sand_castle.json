@@ -1,0 +1,10 @@
+{
+	"name": "dalekmod.tardis.name.sand_castle",
+	"models": [
+		"dalekmod:models/tileentity/tardis/sand_castle.json",
+		"dalekmod:models/tileentity/tardis/red_sand_castle.json"		
+	],
+	"cost": 80,
+	"unlockable": true,
+	"desc": "dalekmod.tardis.description.sand_castle"
+}

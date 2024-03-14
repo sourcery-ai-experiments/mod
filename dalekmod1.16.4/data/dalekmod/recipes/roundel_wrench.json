@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i i",
+        " S ",
+        " i "
+    ],
+    "key": {
+        "i": {
+            "item": "dalekmod:stainless_steel_ingot"
+        },
+        "S": {
+            "item": "dalekmod:brass_cog"
+        }
+    },
+    "result": {
+    	"item": "dalekmod:roundel_wrench",
+    	"count": 1
+    }
+}

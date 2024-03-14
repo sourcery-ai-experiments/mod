@@ -1,0 +1,6 @@
+{
+  "block": "minecraft:iron_ore",
+  "drop": "minecraft:iron_ingot",
+  "scan_time": 25,
+  "interaction": "block_drop"
+}

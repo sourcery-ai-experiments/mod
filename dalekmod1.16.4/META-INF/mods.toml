@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[30,)"
+license="All rights reserved"
+issueTrackerURL="http://my.issue.tracker/"
+[[mods]]
+modId="dalekmod"
+version="69.4.20"
+displayName="Dalek Mod"
+updateJSONURL="http://myurl.me/"
+displayURL="http://www.swdteam.com"
+logoFile="dm_logo.png"
+credits="1WTC, RedDash16, Didgeridoomen, YouTuber02, Edrax_Doodles, Jayson.json, Joee3, owosheep, ImXR24, Derpy_7, Tank_Schrader, WYLDDOG, ranafangirl, Bug1312"
+authors="SWDTeam"
+description='''Experience the world of Doctor Who in Minecraft! Fight the Daleks, create a TARDIS, and travel the universe!'''
+
+[[dependencies.dalekmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[30,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.dalekmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"

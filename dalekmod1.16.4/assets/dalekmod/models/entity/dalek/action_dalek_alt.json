@@ -1,0 +1,6 @@
+{
+	"texture": "dalekmod:entity/dalek/action_dalek_alt",
+	"lightmap": "dalekmod:entity/dalek/action_dalek_lightmap",
+	"parent": "dalekmod:models/entity/dalek/action_dalek"
+ }
+ 

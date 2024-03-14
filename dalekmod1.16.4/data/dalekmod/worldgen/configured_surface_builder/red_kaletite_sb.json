@@ -1,0 +1,17 @@
+{
+	"config": {
+		"top_material": {
+			"Properties": {
+				"snowy": "false"
+			},
+			"Name": "dalekmod:red_kaletite"
+		},
+		"under_material": {
+			"Name": "dalekmod:red_kaletite"
+		},
+		"underwater_material": {
+			"Name": "dalekmod:cindersoil"
+		}
+	},
+	"type": "minecraft:default"
+}

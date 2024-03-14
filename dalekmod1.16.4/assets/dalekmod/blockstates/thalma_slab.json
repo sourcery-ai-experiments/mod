@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "dalekmod:block/thalma/thalma_slab" },
+    "type=top": { "model": "dalekmod:block/thalma/thalma_slab_top" },
+    "type=double": { "model": "dalekmod:block/thalma/thalma_planks" }
+  }
+}

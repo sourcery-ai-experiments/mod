@@ -1,0 +1,10 @@
+{
+  "name": "dalekmod.tardis.name.halloween_police_box",
+  "models": [
+    "dalekmod:models/tileentity/tardis/halloween_tardis.json"
+  ],
+  "cost": 250,
+  "unlockable": true,
+  "exteriorLight": true,
+  "desc": "dalekmod.tardis.description.halloween"
+}

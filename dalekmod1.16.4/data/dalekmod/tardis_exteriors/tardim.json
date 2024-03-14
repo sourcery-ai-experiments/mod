@@ -1,0 +1,9 @@
+{
+	"name": "dalekmod.tardis.name.tardim",
+	"models": [
+		"dalekmod:models/tileentity/tardis/tardim.json"
+	],
+	"unlockable": false,
+	"exteriorLight": true,
+	"desc": "dalekmod.tardis.description.tardim"
+}

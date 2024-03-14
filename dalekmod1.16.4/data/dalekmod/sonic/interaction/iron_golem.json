@@ -1,0 +1,5 @@
+{
+  "entity": "minecraft:iron_golem",
+  "scan_time": 60,
+  "interaction": "entity"
+}

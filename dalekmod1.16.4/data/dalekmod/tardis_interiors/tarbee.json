@@ -1,0 +1,206 @@
+{
+	"defaultSpawnRotation": 180,
+	"doorOffset": [16.5, 12, 22.5],
+	"interiorName": "dalekmod.interior.name.tarbee",
+	"interiorFile": "dalekmod:tarbee",
+	"previewImage": "dalekmod:textures/gui/interior_selection/tarbee.png",
+	"xOffset": 0,
+	"yOffset": -1,
+	"zOffset": 0,
+	"recipe": {
+		"parts": [
+			{
+				"item": "minecraft:yellow_terracotta",
+				"quantity": 735
+			},
+			{
+				"item": "minecraft:gray_terracotta",
+				"quantity": 592
+			},
+			{
+				"item": "minecraft:honey_block",
+				"quantity": 242
+			},
+			{
+				"item": "minecraft:stripped_oak_log",
+				"quantity": 226
+			},
+			{
+				"item": "minecraft:oak_slab",
+				"quantity": 298
+			},
+			{
+				"item": "minecraft:oak_stairs",
+				"quantity": 266
+			},
+			{
+				"item": "minecraft:oak_planks",
+				"quantity": 151
+			},
+			{
+				"item": "minecraft:honeycomb_block",
+				"quantity": 292
+			},
+			{
+				"item": "dalekmod:light_box",
+				"quantity": 64
+			},
+			{
+				"item": "dalekmod:ship_light",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:storage_vault",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:yellow_tube_rotor",
+				"quantity": 4
+			},
+			{
+				"item": "dalekmod:tardis_door_hitbox",
+				"quantity": 2
+			},
+			{
+				"item": "minecraft:lantern",
+				"quantity": 4
+			},
+			{
+				"item": "minecraft:stone_button",
+				"quantity": 2
+			},
+			{
+				"item": "minecraft:spruce_fence",
+				"quantity": 4
+			},
+			{
+				"item": "dalekmod:coord_panel",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:fault_locator",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:fast_return_lever",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:chameleon_panel",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:flight_lever",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:light_alternator",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:waypoint_panel",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:wooden_scanner",
+				"quantity": 2
+			},
+			{
+				"item": "dalekmod:police_box_door",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:dimension_selector_panel",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:data_writer",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:sonic_interface",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:flight_panel",
+				"quantity": 1
+			},
+			{
+				"item": "minecraft:oak_sign",
+				"quantity": 14
+			},
+			{
+				"item": "minecraft:chain",
+				"quantity": 14
+			},
+			{
+				"item": "minecraft:oak_trapdoor",
+				"quantity": 62
+			},
+			{
+				"item": "minecraft:oak_door",
+				"quantity": 6
+			},
+			{
+				"item": "minecraft:oak_fence",
+				"quantity": 8
+			},
+			{
+				"item": "minecraft:yellow_carpet",
+				"quantity": 47
+			},
+			{
+				"item": "minecraft:spruce_trapdoor",
+				"quantity": 5
+			},
+			{
+				"item": "minecraft:anvil",
+				"quantity": 1
+			},
+			{
+				"item": "minecraft:beehive",
+				"quantity": 4
+			},
+			{
+				"item": "dalekmod:engineering_table",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:yellow_stainless_steel_wall",
+				"quantity": 2
+			},
+			{
+				"item": "dalekmod:black_stainless_steel_wall",
+				"quantity": 5
+			},
+			{
+				"item": "dalekmod:lodestone_amplifier",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:kerblam_computer",
+				"quantity": 1
+			},
+			{
+				"item": "dalekmod:yellow_glass_rotor",
+				"quantity": 1
+			},
+			{
+				"item": "minecraft:yellow_stained_glass",
+				"quantity": 105
+			},
+			{
+				"item": "minecraft:yellow_stained_glass_pane",
+				"quantity": 20
+			},
+			{
+				"item": "minecraft:orange_stained_glass",
+				"quantity": 105
+			},
+			{
+				"item": "minecraft:glowstone",
+				"quantity": 124
+			}
+		]
+	}
+}

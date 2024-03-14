@@ -1,0 +1,6 @@
+{
+  "block": "dalekmod:crystaline_ore",
+  "drop": "dalekmod:crystaline",
+  "scan_time": 25,
+  "interaction": "block_drop"
+}

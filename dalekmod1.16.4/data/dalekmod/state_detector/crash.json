@@ -1,0 +1,10 @@
+{
+  "display_name": "TARDIS Crashed",
+  "icon": "dalekmod:textures/item/light_bulb.png",
+  "signals": [
+    {
+      "id": "crashing",
+      "signal": 15
+    }
+  ]
+}
