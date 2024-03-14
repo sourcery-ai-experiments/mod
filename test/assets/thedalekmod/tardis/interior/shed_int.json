@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/shed_int.png",
+  "cdnPath": "tardis/shed_int",
+  "interiorName": "Shed Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 18,
+    "y": 65,
+    "z": 7
+  },
+  "spawnRotation": 0.0
+}

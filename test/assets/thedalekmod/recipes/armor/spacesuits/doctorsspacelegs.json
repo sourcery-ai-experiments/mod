@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:spacesuit",
+  "pattern": [
+	"GGG",
+  "O O",
+  "O O"
+  ],
+  "key": {
+    "O": {
+    "item": "minecraft:wool",
+    "data": 1
+  },
+    "G": {
+    "item": "minecraft:wool",
+    "data": 7
+  }
+  },
+  "result": {
+    "item": "thedalekmod:drSpace_3",
+	"data": 0
+  }
+}

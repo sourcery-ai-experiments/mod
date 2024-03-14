@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardisdoors",
+  "pattern": [
+    "GG",
+    "RR",
+    "RR"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:concrete",
+      "data": 8
+    },
+    "R": {
+      "item": "thedalekmod:roundthings_b",
+      "data": 10
+    }
+  },
+  "result": {
+    "item": "thedalekmod:btehartnelldoor",
+    "data": 0
+  }
+}

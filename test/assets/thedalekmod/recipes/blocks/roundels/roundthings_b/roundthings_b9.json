@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    " O ",
+    "OSO",
+    " O "
+  ],
+      "key": {
+      "S": {
+      "item": "thedalekmod:blue_quartz_item",
+      "data": 0
+    },
+      "O": {
+      "item": "thedalekmod:steelingot",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:roundthings_b",
+    "data": 9,
+    "count": 4
+  }
+}

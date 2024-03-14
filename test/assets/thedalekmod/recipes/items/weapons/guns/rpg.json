@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:gun",
+  "pattern": [
+    "sss",
+    "TTS",
+    "sC "
+  ],
+  "key": {
+    "s": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "T": {
+      "item": "minecraft:tnt"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "blockSteel"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:unit_rpg"
+  }
+}

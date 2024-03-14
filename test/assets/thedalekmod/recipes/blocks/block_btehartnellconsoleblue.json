@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:decoration",
+  "pattern": [
+    " L ",
+	"BCB",
+	"IXI"
+  ],
+  "key": {
+    "L": {
+		"item": "minecraft:lever",
+		"data": 0
+	},
+    "B": {
+		"item": "minecraft:stone_button",
+		"data": 0
+	},
+    "I": {
+		"item": "minecraft:iron_ingot",
+		"data": 0
+	},
+    "C": {
+		"item": "thedalekmod:bTEHartnellRotor",
+		"data": 0
+	},
+    "X": {
+		"item": "thedalekmod:hartnellwall",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:bTEHartnellConsoleBlue",
+	"data": 0
+  }
+}

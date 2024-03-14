@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/2010_int.png",
+  "cdnPath": "tardis/2010_int",
+  "interiorName": "2010 Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 46,
+    "y": 73,
+    "z": 22
+  },
+  "spawnRotation": 0.0
+}

@@ -1,0 +1,5 @@
+{
+"parent": "thedalekmod:block/models/ModelTardisDoor","textures": {
+"texture": "thedalekmod:blocks/tardis_blocks/tardis_door/TardisDoor_11"
+}
+}

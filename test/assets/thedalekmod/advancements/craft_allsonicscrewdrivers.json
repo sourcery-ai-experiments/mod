@@ -1,0 +1,102 @@
+{
+  "display": {
+    "description": {
+      "text": "Get all the Doctor's (canon) screwdrivers"
+    },
+    "title": {
+        "text":"Sonic Master!",
+        "italic": true,
+        "color":"green"
+        },
+    "icon": {
+      "item": "thedalekmod:sonicscrewdriver"
+    },
+    "frame": "goal"
+  },
+    "parent": "thedalekmod:get_soniccrystal",
+    "criteria": {
+    "sonic1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:sonicscrewdriver"
+          }
+        ]
+      }
+    },
+    "sonic2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:sonicscrewdriver_11"
+          }
+        ]
+      }
+    },
+    "sonic3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:sonicscrewdriver_04"
+          }
+        ]
+      }
+    },
+    "sonic4": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:sonicscrewdriver_07"
+          }
+        ]
+      }
+    },
+    "sonic5": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:sonicscrewdriver_12"
+          }
+        ]
+      }
+    },
+    "sonic6": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:sonicscrewdriver_02"
+          }
+        ]
+      }
+    },
+    "sonic7": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:sonicscrewdriver_13"
+          }
+        ]
+      }
+    },
+    "sonic8": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:sonicscrewdriver_08"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 400
+  }
+}

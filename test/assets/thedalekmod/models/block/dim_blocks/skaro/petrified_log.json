@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "thedalekmod:blocks/dim_blocks/skaro/petrified_log_side",
+        "bottom": "thedalekmod:blocks/dim_blocks/skaro/petrified_log_top",
+        "top": "thedalekmod:blocks/dim_blocks/skaro/petrified_log_top",
+        "side": "thedalekmod:blocks/dim_blocks/skaro/petrified_log_side"
+    }
+}

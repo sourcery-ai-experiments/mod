@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/beta_int.png",
+  "cdnPath": "tardis/beta_int",
+  "interiorName": "Beta Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 11,
+    "y": 68,
+    "z": 16
+  },
+  "spawnRotation": -90.0
+}

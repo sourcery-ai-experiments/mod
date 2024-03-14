@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis_monitors",
+  "pattern": [
+    "PPP",
+    "PMP",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "thedalekmod:plasticchunk"
+    },
+    "M": {
+      "item": "thedalekmod:tardisdisplay"
+    }
+    },
+    "result": {
+      "item": "thedalekmod:docmonitor",
+      "data": 0
+    }
+  }
+}

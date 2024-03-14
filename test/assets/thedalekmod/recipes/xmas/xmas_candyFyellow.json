@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:christmas",
+  "pattern": [
+  "CC",
+	"CC"
+  ],
+  "key": {
+    "C": {
+		  "item": "thedalekmod:candycane",
+		  "data": 6
+	}
+  },
+  "result": {
+    "item": "thedalekmod:candycane",
+	"data": 14,
+  "count": 4
+  }
+}

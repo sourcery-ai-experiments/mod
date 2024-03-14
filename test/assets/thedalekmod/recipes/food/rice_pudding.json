@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:food",
+  "pattern": [
+    "CPC"
+  ],
+  "key": {
+    "C": {
+      "item": "thedalekmod:rice",
+      "data": 0
+    },
+    "P": {
+      "item": "minecraft:milk_bucket",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:ifood",
+    "count": 1,
+    "data": 17
+  }
+}

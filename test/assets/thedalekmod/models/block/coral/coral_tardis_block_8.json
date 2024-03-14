@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "thedalekmod:blocks/coral/coral_stone",
+        "bottom": "thedalekmod:blocks/coral/coral_stone",
+        "top": "thedalekmod:blocks/coral/coral_stone",
+        "side": "thedalekmod:blocks/coral/coral_stone"
+    }
+}

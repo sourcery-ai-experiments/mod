@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/rani_int.png",
+  "cdnPath": "tardis/rani_int",
+  "interiorName": "Rani\u0027s Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 16,
+    "y": 65,
+    "z": 6
+  },
+  "spawnRotation": 90.0
+}

@@ -1,0 +1,140 @@
+{
+  "shopName": "Fast Food",
+  "items": [
+    {
+      "itemPrice": 20,
+      "itemAmount": 1,
+      "itemMetadata": 0,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 20,
+      "itemAmount": 1,
+      "itemMetadata": 1,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 20,
+      "itemAmount": 1,
+      "itemMetadata": 2,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 20,
+      "itemAmount": 1,
+      "itemMetadata": 3,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 10,
+      "itemAmount": 1,
+      "itemMetadata": 4,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 10,
+      "itemAmount": 1,
+      "itemMetadata": 4,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 10,
+      "itemAmount": 1,
+      "itemMetadata": 4,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 10,
+      "itemAmount": 1,
+      "itemMetadata": 4,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 10,
+      "itemAmount": 1,
+      "itemMetadata": 4,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 10,
+      "itemAmount": 1,
+      "itemMetadata": 4,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 10,
+      "itemAmount": 1,
+      "itemMetadata": 4,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 10,
+      "itemAmount": 1,
+      "itemMetadata": 4,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 10,
+      "itemAmount": 1,
+      "itemMetadata": 4,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 102,
+      "itemAmount": 1,
+      "itemMetadata": 2,
+      "itemIdentifier": "minecraft:stone",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 15,
+      "itemAmount": 1,
+      "itemMetadata": 5,
+      "itemIdentifier": "thedalekmod:iFood",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:food",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:apple",
+        "data": 0
+      },
+      {
+        "item": "thedalekmod:ifood",
+        "data": 19
+      }
+    ],
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:dirt",
+      "data": 0
+    },
+    {
+      "item": "minecraft:egg"
+    },    
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:fruitcake",
+    "data": 0
+  }
+}

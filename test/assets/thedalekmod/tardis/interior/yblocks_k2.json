@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/yblocks_k2.png",
+  "cdnPath": "tardis/yblocks_k2",
+  "interiorName": "Lynoleum\u0027s Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 27,
+    "y": 63,
+    "z": 7
+  },
+  "spawnRotation": 45.0
+}

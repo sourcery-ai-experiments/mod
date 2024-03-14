@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:decoration",
+  "ingredients": [
+    {
+      "item": "minecraft:lit_pumpkin"
+    },
+    {
+      "item": "thedalekmod:dlknug"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:dalekpumpkin",
+    "data": 0
+  }
+}

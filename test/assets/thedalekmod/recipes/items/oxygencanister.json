@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:spacesuit",
+  "pattern": [
+    "RIP",
+	"P P",
+	"PPP"
+  ],
+  "key": {
+    "I": {
+		"item": "minecraft:iron_ingot",
+		"data": 0
+	},
+    "P": {
+		"item": "thedalekmod:plasticChunk",
+		"data": 0
+	},
+    "R": {
+		"item": "minecraft:redstone",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:oxygen_canister",
+	"data": 0
+  }
+}

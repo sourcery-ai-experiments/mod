@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:k9",
+  "pattern": [
+  " R ",
+	"TBH",
+	" R "
+  ],
+  "key": {
+    "H": {
+		"item": "thedalekmod:k9_head",
+		"data": 0
+	},
+    "B": {
+		"item": "thedalekmod:k9_body",
+		"data": 0
+	},
+    "T": {
+		"item": "thedalekmod:k9_tail",
+		"data": 0
+	},
+    "R": {
+		"item": "thedalekmod:k9_regen_unit",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:k9_aussie",
+	"data": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/dm_d_int.png",
+  "cdnPath": "tardis/dm_d_int",
+  "fileLocation": "INTERNAL",
+  "interiorName": "Dalek Mod 2014 D Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 23,
+    "y": 67,
+    "z": 9
+  },
+  "spawnRotation": 40.0
+}

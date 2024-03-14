@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Project
+Implementation-Version: 64.1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+FMLAT: thedalekmod_at.cfg
+Implementation-Timestamp: 2021-10-26T10:39:40+0100
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

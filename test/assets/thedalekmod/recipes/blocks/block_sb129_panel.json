@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis_levers",
+  "pattern": [
+    "UDU",
+    "SSS",
+    "ULU"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "U": {
+      "item": "thedalekmod:cysteelingot"
+    },
+    "D": {
+      "item": "thedalekmod:tardisdisplay"
+    },
+    "L": [
+      {
+        "item": "thedalekmod:dematlever"
+      },
+      {
+        "item": "thedalekmod:toyota_gold_lever"
+      },
+      {
+        "item": "thedalekmod:toyota_handbrake"
+      },
+      {
+        "item": "thedalekmod:btecoralhandbrake"
+      },
+      {
+        "item": "thedalekmod:btecorallever"
+      },
+      {
+        "item": "thedalekmod:btecoppertardishandbrake"
+      },
+      {
+        "item": "thedalekmod:crystaline_handbrake"
+      }
+    ]
+  },
+  "result": {
+    "item": "thedalekmod:sb129_panel"
+  }
+}

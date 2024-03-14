@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "thedalekmod:blocks/the_wire_b",
+        "particle": "thedalekmod:blocks/the_wire_b"
+	},
+	"elements": [
+		{
+			"from": [0.5, 0, 0.4],
+			"to": [15.5, 26, 15.4],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [3.75, 3.75, 7.5, 10.25], "texture": "#0"},
+				"east": {"uv": [0, 3.75, 3.75, 10.25], "texture": "#0"},
+				"south": {"uv": [11.25, 3.75, 15, 10.25], "texture": "#0"},
+				"west": {"uv": [7.5, 3.75, 11.25, 10.25], "texture": "#0"},
+				"up": {"uv": [7.5, 3.75, 3.75, 0], "texture": "#0"},
+				"down": {"uv": [11.25, 0, 7.5, 3.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 16, 0.5],
+			"to": [13, 23, 1.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 18, 8]},
+			"faces": {
+				"north": {"uv": [0.25, 11.5, 2.75, 13.25], "texture": "#0"},
+				"east": {"uv": [0, 11.5, 0.25, 13.25], "texture": "#0"},
+				"south": {"uv": [3, 11.5, 5.5, 13.25], "texture": "#0"},
+				"west": {"uv": [2.75, 11.5, 3, 13.25], "texture": "#0"},
+				"up": {"uv": [2.75, 11.5, 0.25, 11.25], "texture": "#0"},
+				"down": {"uv": [5.25, 11.25, 2.75, 11.5], "texture": "#0"}
+			}
+		}
+	]
+}

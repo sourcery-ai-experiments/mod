@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/ambient_int.png",
+  "cdnPath": "tardis/ambient_int",
+  "interiorName": "Ambient Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 7,
+    "y": 65,
+    "z": 4
+  },
+  "spawnRotation": 0.0
+}

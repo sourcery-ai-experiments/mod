@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:cartridges",
+    "ingredients": [
+        {
+            "item": "thedalekmod:chameleon_cartridge",
+            "data": 35
+        }
+    ],
+  "result": {
+    "item": "thedalekmod:chameleon_cartridge",
+	"data": 32
+  }
+}

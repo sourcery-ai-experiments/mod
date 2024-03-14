@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    " G ",
+    "GCG",
+    "GCG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:stained_glass",
+      "data": 1
+    },
+    "C": {
+      "item": "thedalekmod:crystaline",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:crystaline_rotor",
+    "data": 0
+  }
+}

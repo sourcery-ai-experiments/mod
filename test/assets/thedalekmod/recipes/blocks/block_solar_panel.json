@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    " D ",
+    " T ",
+    "TCT"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:daylight_detector"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:solar_panel"
+  }
+}

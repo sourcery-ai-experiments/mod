@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/eight_int.png",
+  "cdnPath": "tardis/eight_int",
+  "interiorName": "Eighth Doctor\u0027s Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 49,
+    "y": 67,
+    "z": 32
+  },
+  "spawnRotation": 90.0
+}

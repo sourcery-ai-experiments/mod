@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "dm:food",
+	"pattern": [
+		"KKK",
+		"SPC",
+		"BBB"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:bread",
+			"data": 0
+		},
+		"S": {
+			"item": "minecraft:beef",
+			"data": 0
+		},
+		"P": {
+			"item": "minecraft:porkchop",
+			"data": 0
+		},
+		"K": {
+			"item": "minecraft:dye",
+			"data": 1
+		},
+		"C": {
+			"item": "minecraft:chicken",
+			"data": 0
+		}
+	},
+	"result": {
+		"item": "thedalekmod:iFood",
+		"data": 3,
+		"count": 2
+	}
+}

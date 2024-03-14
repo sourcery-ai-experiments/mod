@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis_controls",
+  "pattern": [
+    " TL",
+    "T C",
+    "CT "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lever"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    }
+    },
+    "result": {
+      "item": "thedalekmod:toyota_front_panel_left"
+    }
+  }
+}

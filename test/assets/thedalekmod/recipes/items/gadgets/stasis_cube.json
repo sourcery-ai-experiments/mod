@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:gadget",
+  "pattern": [
+    " S ",
+    "SCS",
+    " S "
+  ],
+  "key": {
+    "C": {
+      "item": "thedalekmod:dimcircuit"
+    },
+    "S": {
+      "item": "thedalekmod:silicon_block"
+    }
+   },
+  "result": {
+    "item": "thedalekmod:stasis_cube",
+    "data": 0
+  }
+}

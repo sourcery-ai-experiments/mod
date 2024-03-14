@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:ore",
+  "ingredients": [
+    {
+      "item": "thedalekmod:metalert_block"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:metalertingot",
+    "count": 9
+  }
+}

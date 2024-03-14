@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardisdoors",
+  "pattern": [
+    "RRR",
+    "RDR",
+    "RDR"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:iron_door",
+      "data": 0
+    },
+    "R": {
+      "item": "thedalekmod:hartnellroundel1",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:brachi_roundel_door",
+    "data": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:regen",
+  "pattern": [
+    "CCC",
+	"CBC",
+	"CCC"
+  ],
+  "key": {
+    "B": {
+		"item": "minecraft:book",
+		"data": 0
+	},
+    "C": {
+		"item": "minecraft:dye",
+		"data": 4
+	}
+  },
+  "result": {
+    "item": "thedalekmod:river_diary",
+	"data": 0
+  }
+}

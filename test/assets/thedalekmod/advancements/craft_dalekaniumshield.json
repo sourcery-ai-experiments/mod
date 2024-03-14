@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:dalekanium_shield"
+        },
+        "title": {
+            "text": "Craft Dalekanium Shield",
+            "color":"gold"
+        },
+        "description": {
+            "text": "Protects against lasers"
+        }
+    },
+    "parent": "thedalekmod:kill_dalek",
+    "criteria": {
+          "get_star": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:dalekanium_shield"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 5
+  }
+}

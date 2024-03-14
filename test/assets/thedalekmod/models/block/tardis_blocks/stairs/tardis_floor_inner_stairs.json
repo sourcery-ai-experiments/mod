@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "thedalekmod:blocks/toyota/spin/a/spin_5_top",
+        "top": "thedalekmod:blocks/toyota/spin/a/spin_5_top",
+        "side": "thedalekmod:blocks/toyota/spin/a/spin_5_top"
+    }
+}

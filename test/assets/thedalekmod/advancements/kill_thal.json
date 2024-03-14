@@ -1,0 +1,30 @@
+{
+    "display": {
+        "description": {
+            "text": "Attack a Kaled Bunker in the Desert",
+            "color": "gray"
+        },
+        "title": {
+            "text": "Genesis of the Daleks",
+            "color": "gold"
+        },
+        "icon": {
+            "item": "thedalekmod:davros_2008",
+            "data": 0
+        }
+    },
+    "criteria": {
+        "killed_monoid": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "thedalekmod:kaled"
+                }
+            }
+        }
+    },
+    "requirements": [
+        ["killed_monoid"]
+    ],
+    "parent": "thedalekmod:dimension_change_skaro"
+}

@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/coral_int.png",
+  "cdnPath": "tardis/coral_int",
+  "interiorName": "Coral Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 24,
+    "y": 71,
+    "z": 36
+  },
+  "spawnRotation": 180
+}

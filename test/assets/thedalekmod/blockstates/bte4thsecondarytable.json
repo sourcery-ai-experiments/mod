@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "normal": {
+      "model": "thedalekmod:te_base"
+    },
+    "facing=north": {
+      "model": "thedalekmod:te_base"
+    },
+    "facing=south": {
+      "model": "thedalekmod:te_base"
+    },
+    "facing=west": {
+      "model": "thedalekmod:te_base"
+    },
+    "facing=east": {
+      "model": "thedalekmod:te_base"
+    }
+  }
+}

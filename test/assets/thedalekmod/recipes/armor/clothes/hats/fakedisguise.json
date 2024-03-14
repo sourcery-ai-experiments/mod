@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:ihat",
+  "pattern": [
+  "W W",
+	" G ",
+	" N "
+  ],
+  "key": {
+    "W": {
+		  "item": "minecraft:wool",
+		  "data": 15
+	},
+    "G": {
+      "item": "thedalekmod:blackglasses",
+      "data": 0
+  },
+    "N": {
+      "item": "minecraft:rotten_flesh",
+      "data": 0
+  }
+  },
+  "result": {
+    "item": "thedalekmod:ihatbase",
+	"data": 10
+  }
+}

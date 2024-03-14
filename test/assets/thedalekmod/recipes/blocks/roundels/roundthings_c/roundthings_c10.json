@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    " O ",
+    "OSO",
+    " O "
+  ],
+      "key": {
+      "S": {
+      "item": "minecraft:glowstone_dust",
+      "data": 0
+    },
+      "O": {
+      "item": "thedalekmod:coraltardis_block",
+      "data": 2
+    }
+  },
+  "result": {
+    "item": "thedalekmod:roundthings_c",
+    "data": 10,
+    "count": 5
+  }
+}

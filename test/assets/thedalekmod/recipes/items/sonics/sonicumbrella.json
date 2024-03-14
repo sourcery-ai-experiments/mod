@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:sonic",
+  "pattern": [
+    "WWW",
+	" S ",
+	"QC "
+  ],
+  "key": {
+    "C": {
+		"item": "thedalekmod:circuit",
+		"data": 0
+	},
+    "W": {
+		"item": "minecraft:wool",
+		"data": 15
+	},
+    "Q": {
+		"item": "thedalekmod:sonic_crystal",
+		"data": 0
+	},
+    "S": {
+		"item": "minecraft:stick",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:umbrella",
+	"data": 0
+  }
+}

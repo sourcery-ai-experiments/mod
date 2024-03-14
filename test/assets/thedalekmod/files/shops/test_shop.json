@@ -1,0 +1,41 @@
+{
+  "shopName": "Fast Food",
+  "items": [
+    {
+      "itemPrice": 20,
+      "itemAmount": 1,
+      "itemMetadata": 0,
+      "itemIdentifier": "thedalekmod:iFood"
+    },
+    {
+      "itemPrice": 20,
+      "itemAmount": 1,
+      "itemMetadata": 1,
+      "itemIdentifier": "thedalekmod:iFood"
+    },
+    {
+      "itemPrice": 20,
+      "itemAmount": 1,
+      "itemMetadata": 2,
+      "itemIdentifier": "thedalekmod:iFood"
+    },
+    {
+      "itemPrice": 20,
+      "itemAmount": 1,
+      "itemMetadata": 3,
+      "itemIdentifier": "thedalekmod:iFood"
+    },
+    {
+      "itemPrice": 10,
+      "itemAmount": 1,
+      "itemMetadata": 4,
+      "itemIdentifier": "thedalekmod:iFood"
+    },
+    {
+      "itemPrice": 15,
+      "itemAmount": 1,
+      "itemMetadata": 5,
+      "itemIdentifier": "thedalekmod:iFood"
+    }
+  ]
+}

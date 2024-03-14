@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "thedalekmod:blocks/toyota/spin/a/ToyotaRoof",
+        "top": "thedalekmod:blocks/toyota/spin/a/ToyotaRoof",
+        "side": "thedalekmod:blocks/toyota/spin/a/ToyotaRoof"
+    }
+}

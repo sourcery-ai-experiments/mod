@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "thedalekmod:blocks/coral/coral_console_greenlight",
+        "bottom": "thedalekmod:blocks/coral/coral_console_greenlight",
+        "top": "thedalekmod:blocks/coral/coral_console_greenlight",
+        "side": "thedalekmod:blocks/coral/coral_console_greenlight"
+    }
+}

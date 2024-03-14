@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/crystaline_int.png",
+  "cdnPath": "tardis/crystaline_int",
+  "interiorName": "Crystaline Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 20,
+    "y": 62,
+    "z": 6
+  },
+  "spawnRotation": 0.0
+}

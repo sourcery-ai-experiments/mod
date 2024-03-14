@@ -1,0 +1,34 @@
+{
+   "variants":{
+      "direction=n":{
+         "model":"thedalekmod:copper_chair"
+      },
+      "direction=ne":{
+         "model":"thedalekmod:copper_chair_rot",
+         "y": 90
+      },
+      "direction=e":{
+         "model":"thedalekmod:copper_chair",
+         "y": 90
+      },
+      "direction=se":{
+         "model":"thedalekmod:copper_chair_rot",
+         "y": 180
+      },
+      "direction=s":{
+         "model":"thedalekmod:copper_chair",
+         "y": 180
+      },
+      "direction=sw":{
+         "model":"thedalekmod:copper_chair_rot",
+         "y": 270
+      },
+      "direction=w":{
+         "model":"thedalekmod:copper_chair",
+         "y": 270
+      },
+      "direction=nw":{
+         "model":"thedalekmod:copper_chair_rot"
+      }
+   }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:weapon",
+  "pattern": [
+    " T ",
+    " T ",
+    " I "
+  ],
+  "key": {
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:acesbaseballbat"
+  }
+}

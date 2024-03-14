@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis_monitors",
+  "pattern": [
+    "SSS",
+    "BMB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "thedalekmod:brassingot"
+    },
+    "M": {
+      "item": "thedalekmod:tardisdisplay"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:2010docmonitor"
+  }
+}

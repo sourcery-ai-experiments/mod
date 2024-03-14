@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    " O ",
+    "OSO",
+    " O "
+  ],
+      "key": {
+      "S": {
+      "item": "thedalekmod:yellow_clay",
+      "data": 0
+    },
+      "O": {
+      "item": "thedalekmod:plasticchunk",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:roundthings_a",
+    "data": 4,
+    "count": 4
+  }
+}

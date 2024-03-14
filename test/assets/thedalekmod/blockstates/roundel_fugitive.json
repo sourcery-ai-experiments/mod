@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "normal": {
+      "model": "thedalekmod:tardis_blocks/roundels/ruth/ruth1"
+    },
+    "facing=north": {
+      "model": "thedalekmod:tardis_blocks/roundels/ruth/ruth1"
+    },
+    "facing=south": {
+      "model": "thedalekmod:tardis_blocks/roundels/ruth/ruth1"
+    },
+    "facing=west": {
+      "model": "thedalekmod:tardis_blocks/roundels/ruth/ruth1"
+    },
+    "facing=east": {
+      "model": "thedalekmod:tardis_blocks/roundels/ruth/ruth1"
+    }
+  }
+}

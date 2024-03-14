@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/hellbent_int.png",
+  "cdnPath": "tardis/hellbent_int",
+  "interiorName": "Hellbent Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 5,
+    "y": 59,
+    "z": 11
+  },
+  "spawnRotation": 270.0
+}

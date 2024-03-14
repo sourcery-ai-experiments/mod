@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:gun",
+  "pattern": [
+    "QII",
+    " CS",
+    "  I"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "C": {
+      "item": "thedalekmod:solarcell"
+    },
+    "Q": {
+      "item": "thedalekmod:sonic_crystal"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:timelord_rifle"
+  }
+}

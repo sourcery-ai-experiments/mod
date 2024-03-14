@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:sonic",
+  "pattern": [
+    "IQ ",
+    " CB",
+    " T "
+  ],
+  "key": {
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "B": {
+      "item": "minecraft:wooden_button"
+    },
+    "Q": {
+      "item": "thedalekmod:sonic_crystal"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "I": {
+      "item": "minecraft:stained_glass",
+      "data": 3
+    }
+  },
+  "result": {
+    "item": "thedalekmod:killer_sonic"
+  }
+}

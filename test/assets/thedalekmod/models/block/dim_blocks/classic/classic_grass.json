@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "thedalekmod:blocks/dim_blocks/classic/classic_dirt",
+        "bottom": "thedalekmod:blocks/dim_blocks/classic/classic_dirt",
+        "top": "thedalekmod:blocks/dim_blocks/classic/classic_grass_top",
+        "side": "thedalekmod:blocks/dim_blocks/classic/classic_grass_side"
+    }
+}

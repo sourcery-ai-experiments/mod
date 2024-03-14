@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_side_alt",
+    "textures": {
+        "edge": "thedalekmod:blocks/misc/glass/pane_top",
+        "pane": "thedalekmod:blocks/misc/glass/pane"
+    }
+}

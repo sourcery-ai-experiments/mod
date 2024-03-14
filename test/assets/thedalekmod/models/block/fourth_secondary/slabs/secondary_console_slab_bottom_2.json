@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "thedalekmod:blocks/fourthsecondary/fourthsecondary_block_5",
+        "top": "thedalekmod:blocks/fourthsecondary/fourthsecondary_block_5",
+        "side": "thedalekmod:blocks/fourthsecondary/fourthsecondary_block_5"
+    }
+}

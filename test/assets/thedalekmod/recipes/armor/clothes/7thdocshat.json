@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "dm:clothes",
+	"pattern": [
+		" W ",
+		"GRG"
+	],
+	"key": {
+		"W": {
+			"item": "minecraft:wool",
+			"data": 0
+		},
+		"G": {
+			"item": "minecraft:wool",
+			"data": 13
+		},
+		"R": {
+			"item": "minecraft:wool",
+			"data": 14
+		}
+	},
+	"result": {
+		"item": "thedalekmod:hat7th",
+		"data": 0
+	}
+}

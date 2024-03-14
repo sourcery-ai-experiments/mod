@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:sonic",
+  "pattern": [
+    " Q ",
+    "GCB",
+    " T "
+  ],
+  "key": {
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "G": {
+      "item": "thedalekmod:brassingot"
+    },
+    "B": {
+      "item": "minecraft:stone_button"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "Q": {
+      "item": "thedalekmod:sonic_crystal"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:laser_screwdriver"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/dm_c_int.png",
+  "cdnPath": "tardis/dm_c_int",
+  "fileLocation": "INTERNAL",
+  "interiorName": "2014 Dalek Mod C Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 68,
+    "y": 73,
+    "z": 13
+  },
+  "spawnRotation": 0.0
+}

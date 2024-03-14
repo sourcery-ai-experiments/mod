@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    " BB",
+    "BBB",
+    "N  "
+  ],
+  "key": {
+    "B": {
+      "item": "thedalekmod:brassingot"
+    },
+    "N": {
+      "item": "minecraft:jukebox",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:btecoppertardispanelgramophone"
+  }
+}

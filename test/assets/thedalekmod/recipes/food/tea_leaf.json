@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:food",
+  "ingredients": [
+    {
+      "item": "thedalekmod:tea_leaves"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:tea_leaf",
+    "amount": 4
+  }
+}

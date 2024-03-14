@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/gamma_int.png",
+  "cdnPath": "tardis/gamma_int",
+  "fileLocation": "INTERNAL",
+  "interiorName": "Gamma Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 7,
+    "y": 81,
+    "z": 26
+  },
+  "spawnRotation": -90.0
+}

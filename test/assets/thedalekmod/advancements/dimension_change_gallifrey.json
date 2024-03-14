@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:thanaplant"
+        },
+        "title": {
+            "translate": "Our Childhood, Our Home"
+        },
+        "description": {
+            "translate": "Travel to Gallifrey"
+        }
+    },
+    "parent": "thedalekmod:lonsdaleite",
+    "criteria": {
+        "enter_tardis": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "GALLIFREY"
+            }
+        }
+    }
+}

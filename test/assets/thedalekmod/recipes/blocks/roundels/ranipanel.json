@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "GG",
+    "GG"
+  ],
+  "key": {
+    "G": {
+        "item": "thedalekmod:braniwall",
+        "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:branipanel",
+    "data": 0,
+  "count": 4
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    " R ",
+    "TLT",
+    "DGD"
+  ],
+  "key": {
+    "G": {
+      "item": "thedalekmod:gear"
+    },
+    "D": {
+      "item": "thedalekmod:dalekaniumblock"
+    },
+    "L": {
+      "item": "thedalekmod:lonsdaleite"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "R": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:prvtransmitter",
+    "data": 0
+  }
+}

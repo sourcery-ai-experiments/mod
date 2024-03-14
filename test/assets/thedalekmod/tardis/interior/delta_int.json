@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/delta_int.png",
+  "cdnPath": "tardis/delta_int",
+  "fileLocation": "INTERNAL",
+  "interiorName": "Delta Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 30,
+    "y": 69,
+    "z": 11
+  },
+  "spawnRotation": 45.0
+}

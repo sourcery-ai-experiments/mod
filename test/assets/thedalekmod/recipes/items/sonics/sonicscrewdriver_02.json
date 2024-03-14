@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:sonic",
+  "pattern": [
+    " G ",
+    "QTB",
+    "CS "
+  ],
+  "key": {
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "B": {
+      "item": "minecraft:stone_button"
+    },
+    "Q": {
+      "item": "thedalekmod:sonic_crystal"
+    },
+    "G": {
+      "item": "minecraft:stained_glass",
+      "data": 0
+    },
+    "S": {
+      "item": "thedalekmod:cysteelingot"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:sonicscrewdriver_02"
+  }
+}

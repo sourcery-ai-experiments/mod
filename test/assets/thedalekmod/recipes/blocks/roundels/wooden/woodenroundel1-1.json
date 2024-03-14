@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    "OOO",
+    "OIO",
+    "OOO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:planks",
+      "data": 1
+    },
+    "I": {
+      "item": "minecraft:concrete",
+      "data": 12
+    }
+  },
+  "result": {
+    "item": "thedalekmod:bfourth",
+    "data": 5,
+    "count": 8
+  }
+}

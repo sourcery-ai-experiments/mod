@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:ore",
+  "ingredients": [
+    {
+      "item": "thedalekmod:blue_quartz"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:blue_quartz_item",
+    "count": 4
+  }
+}

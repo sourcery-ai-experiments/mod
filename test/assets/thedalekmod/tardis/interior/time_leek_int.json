@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/time_leek_interior.png",
+  "cdnPath": "tardis/time_leek_int",
+  "fileLocation": "INTERNAL",
+  "interiorName": "Time Leak Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 37,
+    "y": 63,
+    "z": 12
+  },
+  "spawnRotation": 0.0
+}

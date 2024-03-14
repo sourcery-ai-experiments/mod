@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "QQ",
+    "QQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "thedalekmod:vortis_rock"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:vortis_brick",
+    "count": 4
+  }
+}

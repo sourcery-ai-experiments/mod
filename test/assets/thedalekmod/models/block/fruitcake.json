@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+        "0": "thedalekmod:blocks/fruitcake",
+        "particle": "thedalekmod:blocks/fruitcake"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [13, 4, 13],
+			"faces": {
+				"north": {"uv": [0, 5, 5, 7], "texture": "#0"},
+				"east": {"uv": [0, 5, 5, 7], "texture": "#0"},
+				"south": {"uv": [0, 5, 5, 7], "texture": "#0"},
+				"west": {"uv": [0, 5, 5, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 5, 5], "texture": "#0"},
+				"down": {"uv": [0, 0, 5, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2.8, -0.2, 2.8],
+			"to": [13.2, 4.2, 13.2],
+			"faces": {
+				"north": {"uv": [5, 5, 10, 7], "texture": "#0"},
+				"east": {"uv": [5, 5, 10, 7], "texture": "#0"},
+				"south": {"uv": [5, 5, 10, 7], "texture": "#0"},
+				"west": {"uv": [5, 5, 10, 7], "texture": "#0"},
+				"up": {"uv": [5, 0, 10, 5], "texture": "#0"},
+				"down": {"uv": [5, 5, 10, 10], "texture": "#0"}
+			}
+		}
+	]
+}

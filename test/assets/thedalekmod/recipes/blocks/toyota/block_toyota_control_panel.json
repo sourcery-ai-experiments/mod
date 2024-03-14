@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:decoration",
+  "pattern": [
+    "SCS",
+    "TBT"
+  ],
+  "key": {
+    "T": {
+      "item": "thedalekmod:spin_a",
+      "data": 5
+    },
+    "B": {
+      "item": "thedalekmod:blue_quartz_item",
+      "data": 0
+    },
+    "C": {
+      "item": "thedalekmod:circuit",
+      "data": 0
+    },
+    "S": {
+      "item": "minecraft:lever"
+    }
+   },
+  "result": {
+    "item": "thedalekmod:toyota_control_table",
+    "data": 0
+  }
+}

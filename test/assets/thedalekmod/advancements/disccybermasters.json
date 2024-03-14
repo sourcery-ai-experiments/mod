@@ -1,0 +1,30 @@
+{
+  "display": {
+    "description": {
+      "text": "Only dropped by Cyber Masters in underground Cyber Cities",
+      "color": "gray"
+    },
+    "title": {
+        "text":"Digitally Mastered"
+        },
+    "icon": {
+      "item": "thedalekmod:disccybermasters"
+    }
+  },
+  "criteria": {
+    "cyberbeats": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:disccybermasters"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+    "parent": "thedalekmod:get_temporalmap"
+}

@@ -1,0 +1,32 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:us_flag"
+        },
+        "title": {
+            "translate": "And a Giant Leap for Mankind!"
+        },
+        "description": {
+            "translate": "Find Apollo 11"
+        }
+    },
+    "parent": "thedalekmod:dimension_change_moon",
+    "criteria": {
+        "enter_tardis": {
+      "trigger": "minecraft:location",
+      "conditions": {
+          "biome": "thedalekmod:moon",
+          "position": {
+            "x": {
+              "min": -7,
+              "max": 10
+            },
+            "z": {
+              "min": -8,
+              "max": 8
+            }
+          }
+      }
+    }
+    }
+}

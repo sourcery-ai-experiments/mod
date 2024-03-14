@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:awabloom"
+        },
+        "title": {
+            "translate": "Blue tranquility"
+        },
+        "description": {
+            "translate": "Find a peaceful Bluelands biome"
+        }
+    },
+    "parent": "thedalekmod:dimension_change_mondas",
+    "criteria": {
+        "bluelands": {
+       "trigger": "minecraft:location",
+      "conditions": {     
+          "biome": "thedalekmod:mondasbluelands"
+        }
+      }
+    },
+    "rewards": {
+    "experience": 10
+  }
+}

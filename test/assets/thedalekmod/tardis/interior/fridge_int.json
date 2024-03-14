@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/fridge_int.png",
+  "cdnPath": "tardis/fridge_int",
+  "interiorName": "Fridge Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 14,
+    "y": 72,
+    "z": 19
+  },
+  "spawnRotation": -90.0
+}

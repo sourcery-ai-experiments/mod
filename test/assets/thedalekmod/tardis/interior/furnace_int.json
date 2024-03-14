@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/furnace_int.png",
+  "cdnPath": "tardis/furnace_int",
+  "interiorName": "Furnace Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 20,
+    "y": 68,
+    "z": 14
+  },
+  "spawnRotation": 90
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:clockwork",
+  "pattern": [
+    "PCP",
+    "CCC",
+    "PCP"
+  ],
+  "key": {
+    "P": {
+      "item": "thedalekmod:plasticblock",
+      "data": 6
+    },
+    "C": {
+      "item": "thedalekmod:clockworkcog"
+    }
+    },
+    "result": {
+      "item": "thedalekmod:clockworkblock",
+      "data": 5,
+      "count": 4
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "dm:christmas",
+	"pattern": [
+		"LSL",
+		"RsR",
+		"LRL"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:stick",
+			"data": 0
+		},
+		"R": {
+			"item": "minecraft:dye",
+			"data": 1
+		},
+		"s": {
+			"item": "minecraft:snow_layer",
+			"data": 0
+		},
+		"L": [{
+				"item": "minecraft:leaves",
+				"data": 0
+			},
+			{
+				"item": "minecraft:leaves",
+				"data": 1
+			},
+			{
+				"item": "minecraft:leaves",
+				"data": 2
+			},
+			{
+				"item": "minecraft:leaves",
+				"data": 3
+			},
+			{
+				"item": "minecraft:leaves2",
+				"data": 0
+			},
+			{
+				"item": "minecraft:leaves2",
+				"data": 1
+			},
+			{
+				"item": "thedalekmod:classicleaves"
+			}
+		]
+	},
+	"result": {
+		"item": "thedalekmod:wreath",
+		"data": 0
+	}
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "dm:food",
+    "pattern": [
+        "LO",
+        "WL"
+    ],
+    "key": {
+        "W": {
+      "type": "minecraft:item_nbt",
+      "item": "minecraft:potion",
+      "nbt": {
+        "Potion": "minecraft:water"
+      }
+    },
+    "L": {    
+      "item": "thedalekmod:tea_leaf"
+    },
+    "O": {
+      "item": "minecraft:sugar"
+      }
+    },
+  "result": {
+    "item": "thedalekmod:tea",
+    "amount": 1,
+    "data": 0
+  }
+}

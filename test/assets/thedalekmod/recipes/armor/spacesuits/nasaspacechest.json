@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:spacesuit",
+  "pattern": [
+    "W W",
+    "WGW",
+    "WWW"
+    ],
+    "key": {
+      "G": {
+      "item": "minecraft:wool",
+      "data": 7
+    },
+      "W": {
+      "item": "minecraft:wool",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:nasaSuit_1",
+	"data": 0
+  }
+}

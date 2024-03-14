@@ -1,0 +1,6 @@
+{
+  "parent": "block/trapdoor_top",
+  "textures": {
+    "texture": "thedalekmod:blocks/coral/mesh_door"
+  }
+}

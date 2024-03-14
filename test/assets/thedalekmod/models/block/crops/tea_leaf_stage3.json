@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "thedalekmod:blocks/crops/tea_leaf_stage3"
+    }
+}

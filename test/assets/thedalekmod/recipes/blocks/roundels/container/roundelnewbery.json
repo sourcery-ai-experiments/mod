@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:roundels",
+  "ingredients": [
+    {
+      "item": "thedalekmod:bfourth",
+      "data": 5
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:roundel_newbery"
+  }
+}

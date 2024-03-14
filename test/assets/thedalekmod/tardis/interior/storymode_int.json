@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/storymode_int.png",
+  "cdnPath": "tardis/storymode_int",
+  "interiorName": "Story Mode Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 17,
+    "y": 64,
+    "z": 10
+  },
+  "spawnRotation": 90.0
+}

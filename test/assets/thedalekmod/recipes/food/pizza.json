@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:food",
+  "pattern": [
+    "BBB",
+    "CPC",
+    " C "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bread",
+      "data": 0
+    },
+    "C": {
+      "item": "thedalekmod:ifood",
+      "data": 14
+    },
+    "P": {
+      "item": "minecraft:cooked_porkchop",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:ifood",
+    "count": 6,
+    "data": 10
+  }
+}

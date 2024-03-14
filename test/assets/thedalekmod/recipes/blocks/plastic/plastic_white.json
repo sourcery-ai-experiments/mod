@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:plastic",
+  "pattern": [
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "type": "forge:ore_dict",
+      "ore": "ingotPlastic"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:plasticblock",
+    "data": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "CPC",
+    "CPC"
+  ],
+  "key": {
+    "C": {
+      "item": "thedalekmod:blue_quartz_item",
+      "data": 0
+    },
+   "P": {
+      "item": "thedalekmod:plasticchunk",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:toyota_railing",
+    "data": 0,
+    "count": 4
+  }
+}

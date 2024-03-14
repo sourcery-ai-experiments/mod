@@ -1,0 +1,31 @@
+{
+  "display": {
+    "description": {
+      "text": "Craft a TARDIS shell",
+      "color": "gray"
+    },
+    "title": {
+        "text":"The start of Time Travel",
+        "color":"grey"
+        },
+    "icon": {
+      "item": "thedalekmod:tardis_shell"
+    }
+  },
+  "criteria": {
+    "craft_tardis": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:tardis_shell"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+    "parent": "thedalekmod:get_zeiton"
+}

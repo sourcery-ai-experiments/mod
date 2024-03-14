@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/war_int.png",
+  "cdnPath": "tardis/war_int",
+  "interiorName": "War Doctor\u0027s Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 24,
+    "y": 63,
+    "z": 16
+  },
+  "spawnRotation": 90.0
+}

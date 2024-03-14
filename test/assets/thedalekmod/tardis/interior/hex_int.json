@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/hex_int.png",
+  "cdnPath": "tardis/hex_int",
+  "interiorName": "Hexon Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 9,
+    "y": 61,
+    "z": 3
+  },
+  "spawnRotation": 0.0
+}

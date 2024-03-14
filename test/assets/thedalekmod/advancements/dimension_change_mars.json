@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:mars_red_sand"
+        },
+        "title": {
+            "translate": "The Red Planet"
+        },
+        "description": {
+            "translate": "Travel to Mars"
+        }
+    },
+    "parent": "thedalekmod:spacesuit",
+    "criteria": {
+        "enter_tardis": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "MARS"
+            }
+        }
+    }
+}

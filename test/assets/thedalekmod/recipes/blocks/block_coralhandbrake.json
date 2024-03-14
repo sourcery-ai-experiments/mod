@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:tardis_levers",
+  "ingredients": [
+    {
+      "item": "thedalekmod:toyota_handbrake"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:btecoralhandbrake",
+    "data": 0
+  }
+}

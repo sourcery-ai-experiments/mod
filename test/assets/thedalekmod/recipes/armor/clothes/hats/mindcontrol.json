@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:ihat",
+  "pattern": [
+    "CSC",
+    "SRS",
+    "CSC"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:ihatbase",
+    "data": 2
+  }
+}

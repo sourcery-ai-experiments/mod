@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis",
+  "pattern": [
+    "PMP",
+    "ESC",
+    "PcP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:ender_pearl"
+    },
+    "S": {
+      "item": "thedalekmod:tardis_shell"
+    },
+    "M": {
+      "item": "minecraft:map"
+    },
+    "E": {
+      "item": "minecraft:end_crystal"
+    },
+    "c": {
+      "item": "minecraft:clock"
+    },
+    "C": {
+      "item": "thedalekmod:chameleon_cartridge",
+      "data": 10
+    }
+  },
+  "result": {
+    "item": "thedalekmod:tardisitem",
+    "data": 10
+  }
+}

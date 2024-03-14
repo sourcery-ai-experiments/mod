@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:sonic_crystal"
+        },
+        "title": {
+            "text": "Sonic Crystal",
+            "color":"blue"
+        },
+        "description": {
+            "text": "Look for Crystal ore in the overworld"
+        }
+    },
+    "parent": "thedalekmod:thedalekmod",
+    "criteria": {
+          "get_star": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:sonic_crystal"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 5
+  }
+}

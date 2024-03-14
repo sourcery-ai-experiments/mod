@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    "O O",
+    " I ",
+    "O O"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:prismarine",
+      "data": 1
+    },
+    "I": {
+      "item": "minecraft:sea_lantern",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:brickroundel",
+    "data": 7,
+    "count": 5
+  }
+}

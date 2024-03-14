@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:gun",
+  "pattern": [
+    "SSS",
+    "CBS",
+    "  S"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "B": {
+      "item": "minecraft:stone_button"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:iunit_gun"
+  }
+}

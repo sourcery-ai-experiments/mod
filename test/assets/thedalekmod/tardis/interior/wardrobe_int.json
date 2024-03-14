@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/wardrobe_int.png",
+  "cdnPath": "tardis/wardrobe_int",
+  "interiorName": "Wardrobe Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 25,
+    "y": 68,
+    "z": 15
+  },
+  "spawnRotation": 0.0
+}

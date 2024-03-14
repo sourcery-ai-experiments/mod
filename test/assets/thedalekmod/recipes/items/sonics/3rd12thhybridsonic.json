@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:sonic",
+  "pattern": [
+    " G ",
+    "QCB",
+    " T "
+  ],
+  "key": {
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "Q": {
+      "item": "thedalekmod:sonic_crystal"
+    },
+    "G": {
+      "item": "minecraft:stained_glass",
+      "data": 3
+    },
+    "B": {
+      "item": "minecraft:stone_button"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:custom_sonic_3rd_12th"
+  }
+}

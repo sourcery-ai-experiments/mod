@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    " O ",
+    "OSO",
+    " O "
+  ],
+      "key": {
+      "S": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+      "O": {
+      "item": "thedalekmod:granite",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:master_dark_roundel_a",
+    "data": 0,
+    "count": 4
+  }
+}

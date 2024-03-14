@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:sonic",
+  "pattern": [
+  " D",
+	" B",
+	"NG"
+  ],
+  "key": {
+    "D": {
+		"item": "thedalekmod:plasticblock",
+		"data": 11
+	},
+    "B": {
+		"item": "thedalekmod:plasticblock",
+		"data": 3
+	},
+    "G": {
+		"item": "thedalekmod:plasticblock",
+		"data": 13
+	},
+    "N": {
+		"item": "minecraft:noteblock",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:2nd_doc_recorder",
+	"data": 0
+  }
+}

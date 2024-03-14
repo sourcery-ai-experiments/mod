@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/chronotis_int.png",
+  "cdnPath": "tardis/chronotis_int",
+  "interiorName": "Chronotis Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 11,
+    "y": 64,
+    "z": 6
+  },
+  "spawnRotation": 0.0
+}

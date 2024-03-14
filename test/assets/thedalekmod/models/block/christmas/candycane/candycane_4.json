@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "thedalekmod:blocks/christmas/candycane/candycane_4",
+        "bottom": "thedalekmod:blocks/christmas/candycane/candycane_4_top",
+        "top": "thedalekmod:blocks/christmas/candycane/candycane_4_top",
+        "side": "thedalekmod:blocks/christmas/candycane/candycane_4"
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:sonic",
+  "pattern": [
+    "TsT",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "s": {
+      "item": "thedalekmod:sonicscrewdriver_11"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:sonic_cane"
+  }
+}

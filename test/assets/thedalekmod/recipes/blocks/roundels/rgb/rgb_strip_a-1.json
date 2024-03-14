@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:rgbroundels",
+  "pattern": [
+    "OOO",
+    "RGB",
+    "OOO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:concrete",
+      "data": 15
+    },
+    "R": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "G": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "B": {
+      "item": "minecraft:dye",
+      "data": 4
+    }
+  },
+  "result": {
+    "item": "thedalekmod:rgb_strip_a",
+    "count": 8
+  }
+}

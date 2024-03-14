@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:plastic",
+  "ingredients": [
+    {
+      "item": "thedalekmod:plasticblock",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:plasticchunk",
+    "data": 0,
+    "count": 4
+  }
+}

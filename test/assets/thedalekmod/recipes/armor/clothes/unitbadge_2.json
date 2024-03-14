@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:clothes",
+  "ingredients": [
+    {
+      "item": "thedalekmod:unit_badge"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:unit_badge_2",
+    "data": 0
+  }
+}

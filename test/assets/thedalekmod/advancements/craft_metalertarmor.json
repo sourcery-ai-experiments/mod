@@ -1,0 +1,62 @@
+{
+  "display": {
+    "description": {
+      "text": "Get a full set of Metalert Armor",
+      "color": "gray"
+    },
+    "title": {
+        "text":"Radiation Protection",
+        "color":"red"
+        },
+    "icon": {
+      "item": "thedalekmod:metalertarmor_0"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "suit1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:metalertarmor_0"
+          }
+        ]
+      }
+    },
+        "suit2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:metalertarmor_1"
+          }
+        ]
+      }
+    },
+        "suit3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:metalertarmor_2"
+          }
+        ]
+      }
+    },
+        "suit4": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:metalertarmor_3"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 30
+  },
+    "parent": "thedalekmod:get_metalert"
+}

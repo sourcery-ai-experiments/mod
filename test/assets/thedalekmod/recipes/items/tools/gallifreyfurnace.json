@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tool",
+  "pattern": [
+    "LLL",
+    "L L",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "thedalekmod:gallifreystone"
+    }
+  },
+  "result": {
+    "item": "minecraft:furnace"
+  }
+}

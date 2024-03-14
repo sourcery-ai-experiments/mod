@@ -1,0 +1,40 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:boti_painting"
+        },
+        "title": {
+            "text": "Gallifrey Art",
+            "color":"orange"
+        },
+        "description": {
+            "text": "Make a BOTI painting"
+        }
+    },
+    "parent": "thedalekmod:get_dimcircuit",
+    "criteria": {
+          "get_star": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:stasis_cube"
+          }
+        ]
+      }
+    },
+              "get_painting": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:boti_painting"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 100
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:rgbroundels",
+  "pattern": [
+    " O ",
+    "OIO",
+    " O "
+  ],
+  "key": {
+    "O": {
+      "item": "thedalekmod:granite",
+      "data": 0
+    },
+    "I": [
+      {
+        "item": "minecraft:dye",
+        "data": 1
+      },
+      {
+        "item": "minecraft:dye",
+        "data": 2
+      }
+    ]
+  },
+  "result": {
+    "item": "thedalekmod:rgb_roundel_a",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "thedalekmod:roundel_half" },
+        "facing=south": { "model": "thedalekmod:roundel_half", "y": 180 },
+        "facing=west":  { "model": "thedalekmod:roundel_half", "y": 270 },
+        "facing=east":  { "model": "thedalekmod:roundel_half", "y": 90 }
+    }
+}

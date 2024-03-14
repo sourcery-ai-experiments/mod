@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    " O ",
+    "OIO",
+    " O "
+  ],
+  "key": {
+    "O": {
+      "item": "thedalekmod:bfourth",
+      "data": 4
+    },
+    "I": {
+      "item": "minecraft:stained_glass",
+      "data": 11
+    }
+  },
+  "result": {
+    "item": "thedalekmod:bfourth",
+    "data": 8,
+    "count": 4
+  }
+}

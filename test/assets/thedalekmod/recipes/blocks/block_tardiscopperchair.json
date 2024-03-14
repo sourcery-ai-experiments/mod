@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:decoration",
+  "pattern": [
+  "X  ",
+	"XXX",
+	" S "
+  ],
+  "key": {
+    "X": {
+		"item": "minecraft:sandstone",
+		"data": 0
+	},
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+	}
+  },
+  "result": {
+    "item": "thedalekmod:tardiscopperchair"
+  }
+}

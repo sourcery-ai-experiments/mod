@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "thedalekmod:blocks/tardis_blocks/master/master_floor",
+        "bottom": "thedalekmod:blocks/tardis_blocks/master/master_floor",
+        "top": "thedalekmod:blocks/tardis_blocks/master/master_floor",
+        "side": "thedalekmod:blocks/tardis_blocks/master/master_pillar"
+    }
+}

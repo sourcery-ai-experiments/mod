@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "thedalekmod:mesh"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:bcoralslab1",
+    "data": 0,
+    "count": 6
+  }
+}

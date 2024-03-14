@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "thedalekmod:blocks/fourthsecondary/fourthsecondary_block_3",
+        "bottom": "thedalekmod:blocks/fourthsecondary/fourthsecondary_block_top_2",
+        "top": "thedalekmod:blocks/fourthsecondary/fourthsecondary_block_top_2",
+        "side": "thedalekmod:blocks/fourthsecondary/fourthsecondary_block_3"
+    }
+}

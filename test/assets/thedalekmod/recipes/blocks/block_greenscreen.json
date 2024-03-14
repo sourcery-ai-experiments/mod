@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:decoration",
+  "ingredients": [
+    {
+      "item": "minecraft:concrete",
+	  "data": 5
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:greenscreen",
+    "data": 0
+  }
+}

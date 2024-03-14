@@ -1,0 +1,20 @@
+{
+"variants": {
+"type=0": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_1"},
+"type=1": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_2"},
+"type=2": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_3"},
+"type=3": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_4"},
+"type=4": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_5"},
+"type=5": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_6"},
+"type=6": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_7"},
+"type=7": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_8"},
+"type=8": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_9"},
+"type=9": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_10"},
+"type=10": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_11"},
+"type=11": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_12"},
+"type=12": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_13"},
+"type=13": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_14"},
+"type=14": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_15"},
+"type=15": {"model": "thedalekmod:dim_blocks/classic/wool/classic_wool_16"}
+}
+}

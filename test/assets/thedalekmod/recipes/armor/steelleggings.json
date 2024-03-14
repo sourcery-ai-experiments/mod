@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:armor",
+  "pattern": [
+    "DDD",
+    "D D",
+    "D D"
+  ],
+  "key": {
+    "D": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:steelarmor_3"
+  }
+}

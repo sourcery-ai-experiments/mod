@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:transport",
+  "pattern": [
+    " WS",
+    "WcL",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "thedalekmod:granite",
+      "data": 0
+    },
+    "S": {
+      "item": "minecraft:glass",
+      "data": 0
+    },
+    "L": {
+      "item": "minecraft:redstone_lamp",
+      "data": 0
+    },
+    "c": {
+      "item": "thedalekmod:engine"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:magpie_van"
+  }
+}

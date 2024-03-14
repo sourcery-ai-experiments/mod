@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:roundels",
+  "ingredients": [
+    {
+      "item": "thedalekmod:master_light_roundel_a",
+      "data": 0
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:roundel_master"
+  }
+}

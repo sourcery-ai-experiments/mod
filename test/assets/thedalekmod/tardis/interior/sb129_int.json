@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/sb129_int.png",
+  "cdnPath": "tardis/sb129_int",
+  "fileLocation": "INTERNAL",
+  "interiorName": "SB-129 Interior",
+  "playerSpawnOffset": {
+    "x": 3,
+    "y": 60,
+    "z": 3
+  },
+  "spawnRotation": 0.0
+}

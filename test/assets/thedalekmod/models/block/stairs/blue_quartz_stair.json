@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "thedalekmod:blocks/dim_blocks/vortis/blue_quartz",
+        "top": "thedalekmod:blocks/dim_blocks/vortis/blue_quartz",
+        "side": "thedalekmod:blocks/dim_blocks/vortis/blue_quartz"
+    }
+}

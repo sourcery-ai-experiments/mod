@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:k9",
+  "pattern": [
+    "II ",
+    "CG ",
+    "SII"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "G": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 14
+    }
+  },
+  "result": {
+    "item": "thedalekmod:k9_head"
+  }
+}

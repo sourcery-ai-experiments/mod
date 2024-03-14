@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:spacesuit",
+  "pattern": [
+    "WWW",
+    "WGW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "thedalekmod:plasticchunk"
+    },
+    "G": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "thedalekmod:nasaSuit_0",
+    "data": 0
+  }
+}

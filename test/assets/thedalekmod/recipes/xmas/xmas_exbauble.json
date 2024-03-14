@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:weapon",
+  "pattern": [
+  " I ",
+	"IGI",
+	" I "
+  ],
+  "key": {
+    "I": {
+		"item": "minecraft:gold_ingot",
+		"data": 0
+	},
+    "G": {
+		"item": "minecraft:gunpowder",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:iBauble",
+	"data": 0
+  }
+}

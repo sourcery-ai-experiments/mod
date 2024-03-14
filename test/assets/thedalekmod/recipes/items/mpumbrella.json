@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:other",
+  "pattern": [
+    "WWW",
+    "FS ",
+    "ES "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:poppinsumbrella"
+  }
+}

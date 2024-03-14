@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:gadget",
+  "pattern": [
+    "SH ",
+    "CGS",
+    "SCS"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "G": {
+      "item": "thedalekmod:bfloorgrate"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:oxygen_tank_refiller"
+  }
+}

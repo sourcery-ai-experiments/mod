@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "PPP",
+    "GCG",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "P": {
+      "item": "minecraft:glass_pane"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "G": {
+      "item": "minecraft:glowstone"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:tardisdisplay"
+  }
+}

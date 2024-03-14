@@ -1,0 +1,34 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "thedalekmod:blocks/dalek_city/server",
+		"particle": "thedalekmod:blocks/dalek_city/server"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 31, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 7.7485], "texture": "#0"},
+				"east": {"uv": [7.99975, 7.7495, 11.99875, 15.49775], "texture": "#0"},
+				"south": {"uv": [4, 0, 8, 7.75], "texture": "#0"},
+				"west": {"uv": [4, 7.7495, 7.99975, 15.49875], "texture": "#0"},
+				"up": {"uv": [0, 7.7495, 4, 11.74925], "texture": "#0"},
+				"down": {"uv": [4, 15.749, 0, 11.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-0.5, -0.5, -0.5],
+			"to": [16.5, 31.5, 16.5],
+			"faces": {
+				"north": {"uv": [7.99975, 0, 11.99875, 7.74925], "texture": "#0"},
+				"east": {"uv": [11.9995, 0, 15.9985, 7.7485], "texture": "#0"},
+				"south": {"uv": [11.9995, 0, 15.9985, 7.7485], "texture": "#0"},
+				"west": {"uv": [11.9995, 0, 15.9985, 7.7485], "texture": "#0"},
+				"up": {"uv": [11.9995, 7.7495, 15.9985, 11.7475], "texture": "#0"},
+				"down": {"uv": [11.9995, 11.75, 15.9985, 15.74725], "texture": "#0"}
+			}
+		}
+	]
+}

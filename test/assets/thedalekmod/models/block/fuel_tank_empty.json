@@ -1,0 +1,7 @@
+{
+   "parent":"thedalekmod:block/fuel_tank_full",
+   "textures":{
+      "1": "thedalekmod:blocks/fuelbank_empty",
+      "particle": "thedalekmod:blocks/fuelbank_empty"
+   }
+}

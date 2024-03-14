@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/rgb_int.png",
+  "cdnPath": "tardis/rgb_int",
+  "fileLocation": "INTERNAL",
+  "interiorName": "RGB Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 40,
+    "y": 72,
+    "z": 19
+  },
+  "spawnRotation": 0
+}

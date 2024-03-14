@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:tardis_blocks",
+    "ingredients": [
+        {
+            "item": "thedalekmod:2013_TARDIS_Steel_Walls"
+        }
+    ],
+    "result": {
+        "item": "thedalekmod:2013_TARDIS_Floor",
+		"count": 1
+    }
+}

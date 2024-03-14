@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    " O ",
+    "OIO",
+    " O "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:concrete",
+      "data": 0
+    },
+    "I": {
+      "item": "minecraft:quartz",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:white_concrete_roundel_a",
+    "data": 0,
+    "count": 4
+  }
+}

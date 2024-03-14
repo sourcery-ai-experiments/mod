@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/nether_int.png",
+  "cdnPath": "tardis/nether_int",
+  "interiorName": "Nether Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 9,
+    "y": 60,
+    "z": 3
+  },
+  "spawnRotation": 0.0
+}

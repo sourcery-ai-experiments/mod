@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": { "model": "thedalekmod:dalek_city/monitor" },
+    "facing=up":  { "model": "thedalekmod:dalek_city/monitor" },
+    "facing=east":  { "model": "thedalekmod:dalek_city/monitor", "y": 270 },
+    "facing=south":  { "model": "thedalekmod:dalek_city/monitor"},
+    "facing=west":  { "model": "thedalekmod:dalek_city/monitor", "y": 90 },
+    "facing=north":  { "model": "thedalekmod:dalek_city/monitor", "y": 180 }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/blank_template.png",
+  "cdnPath": "tardis/template_int",
+  "interiorName": "Blank Template Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 3,
+    "y": 59,
+    "z": 4
+  },
+  "spawnRotation": -90
+}

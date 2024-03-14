@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "thedalekmod:blocks/toyota/toyota_wall/a/ty_10",
+        "bottom": "blocks/hardened_clay_stained_cyan",
+        "top": "blocks/hardened_clay_stained_cyan",
+        "side": "thedalekmod:blocks/toyota/toyota_wall/a/ty_10"
+    }
+}

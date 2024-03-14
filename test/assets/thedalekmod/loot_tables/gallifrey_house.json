@@ -1,0 +1,190 @@
+{
+    "pools": [
+        {
+        "name": "main",
+            "rolls": 2,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:bone",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:gunpowder",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 4
+                            }
+                        }
+                    ]
+                },
+                                {
+                    "type": "item",
+                    "name": "thedalekmod:tardiskey",
+                    "weight": 1
+                },
+                {
+                          "type": "item",
+          "name": "minecraft:planks",
+          "weight": 5,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 4
+            },
+                                    {
+                            "function": "set_count",
+                            "count": {
+                                "min": 4,
+                                "max": 10
+                            }
+                        }
+          ]
+          },
+                                    {
+          "type": "item",
+          "name": "thedalekmod:coraltardis_block",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 15
+            },
+                                    {
+                            "function": "set_count",
+                            "count": {
+                                "min": 4,
+                                "max": 10
+                            }
+                        }
+          ]
+          },
+          {
+          "type": "item",
+          "name": "thedalekmod:brickroundel",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 2
+            },
+                                    {
+                            "function": "set_count",
+                            "count": {
+                                "min": 5,
+                                "max": 12
+                            }
+                        }
+          ]
+          },
+          {
+          "type": "item",
+          "name": "minecraft:stained_glass",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_data",
+              "data": 1
+            },
+                                    {
+                            "function": "set_count",
+                            "count": {
+                                "min": 3,
+                                "max": 10
+                            }
+                        }
+          ]
+          },
+                {
+                "type": "item",
+                    "name": "thedalekmod:zeiton7crystal",
+                    "weight": 1
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:book",
+                    "weight": 4,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "thedalekmod:green_brick",
+                    "weight": 3,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 3,
+                                "max": 6
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "thedalekmod:gallifrey_chiseled",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 3,
+                                "max": 6
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "thedalekmod:yellow_brick",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 2,
+                                "max": 6
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:string",
+                    "weight": 2,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 4
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

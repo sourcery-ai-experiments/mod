@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:metalert_ore"
+        },
+        "title": {
+            "text": "Metalert",
+            "color":"red"
+        },
+        "description": {
+            "text": "Mine this with a Lonsdaleite pickaxe, below y level 18."
+        }
+    },
+    "parent": "thedalekmod:dimension_change_skaro",
+    "criteria": {
+          "get_star": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:metalertingot"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 10
+  }
+}

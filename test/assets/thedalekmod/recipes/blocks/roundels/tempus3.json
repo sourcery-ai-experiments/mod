@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    "O O",
+    " I ",
+    "O O"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 9
+    },
+    "I": {
+      "item": "thedalekmod:plasticblock",
+      "data": 11
+    }
+  },
+  "result": {
+    "item": "thedalekmod:roundel_tempus",
+    "data": 3,
+    "count": 4
+  }
+}

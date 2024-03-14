@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis_blocks",
+  "pattern": [
+    "STS",
+    "TST",
+    "STS"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:2013_TARDIS_Steel_Walls",
+    "count": 32
+  }
+}

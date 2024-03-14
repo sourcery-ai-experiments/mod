@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/fedora_int.png",
+  "cdnPath": "tardis/fedora_int",
+  "interiorName": "Fedora Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 32,
+    "y": 68,
+    "z": 17
+  },
+  "spawnRotation": 0.0
+}

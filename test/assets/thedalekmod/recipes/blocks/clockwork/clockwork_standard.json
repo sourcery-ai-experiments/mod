@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:clockwork",
+  "pattern": [
+    "BCB",
+    "CCC",
+    "BCB"
+  ],
+  "key": {
+    "B": {
+      "item": "thedalekmod:brassingot"
+    },
+    "C": {
+      "item": "thedalekmod:clockworkcog"
+    }
+    },
+    "result": {
+      "item": "thedalekmod:clockworkblock",
+      "data": 0,
+      "count": 4
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:transport",
+  "pattern": [
+    "  G",
+	"YCY",
+	"WYW"
+  ],
+  "key": {
+    "W": {
+		  "item": "minecraft:concrete",
+		  "data": 15
+	},
+    "G": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 0
+  },
+    "Y": {
+      "item": "minecraft:concrete",
+      "data": 4
+  },
+    "C": {
+      "item": "thedalekmod:engine",
+      "data": 0
+  }
+  },
+  "result": {
+    "item": "thedalekmod:bessie",
+	"data": 0
+  }
+}

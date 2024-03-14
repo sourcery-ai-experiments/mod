@@ -1,0 +1,1861 @@
+{
+  "exter": {
+    "category": "hostile",
+    "subtitle": "dm.subtitle.exterminate",
+    "sounds": [{
+      "name": "thedalekmod:exter",
+      "stream": false
+    }]
+  },
+  "jingle_bells": {
+    "category": "hostile",
+    "subtitle": "dm.subtitle.jingle_bells",
+    "sounds": [{
+      "name": "thedalekmod:jingle_bells",
+      "stream": false
+    }]
+  },
+  "moment_wave": {
+    "category": "moment",
+    "subtitle": "dm.subtitle.moment_wave",
+    "sounds": [
+      {
+        "name": "thedalekmod:moment_wave",
+        "stream": true
+      }
+    ]
+  },
+  "moment_open": {
+    "category": "moment",
+    "subtitle": "dm.subtitle.moment_open",
+    "sounds": [
+      {
+        "name": "thedalekmod:moment_open",
+        "stream": true
+      }
+    ]
+  },
+  "moment_active": {
+    "category": "moment",
+    "subtitle": "dm.subtitle.moment_active",
+    "sounds": [
+      {
+        "name": "thedalekmod:moment_active",
+        "stream": true
+      }
+    ]
+  },
+  "hand_jar": {
+    "category": "hand_jar",
+    "subtitle": "dm.subtitle.hand_jar",
+    "sounds": [
+      {
+        "name": "thedalekmod:hand_jar",
+        "stream": true
+      }
+    ]
+  },
+  "water_pistol_shoot": {
+    "category": "hostile",
+    "subtitle": "dm.subtitle.water_pistol_shoot",
+    "sounds": [{
+      "name": "thedalekmod:water_pistol_shoot",
+      "stream": false
+    }]
+  },
+  "tardis_powerup": {
+    "category": "master",
+    "subtitle": "dm.subtitle.tardis_powerup",
+    "sounds": [{
+      "name": "thedalekmod:tardis_powerup",
+      "stream": false
+    }]
+  },
+  "cold": {
+    "category": "master",
+    "subtitle": "dm.subtitle.freezing",
+    "sounds": [{
+      "name": "thedalekmod:cold",
+      "stream": true
+    }]
+  },
+  
+  "earthshock_cyber_gun": {
+    "category": "master",
+    "subtitle": "dm.subtitle.earthshock_cyber_gun",
+    "sounds": [{
+      "name": "thedalekmod:cybermen/earthshock/earthshock_cyber_gun",
+      "stream": false
+    }]
+  },
+  "unit_gun": {
+    "category": "hostile",
+    "subtitle": "dm.subtitle.unit_gun",
+    "sounds": [{
+      "name": "thedalekmod:unit_gun",
+      "stream": false
+    }]
+  },
+  "pistol_shot": {
+    "category": "hostile",
+    "subtitle": "dm.subtitle.pistol_shot",
+    "sounds": [{
+      "name": "thedalekmod:pistol_shot",
+      "stream": false
+    }]
+  },
+  "tardis_malfunction": {
+    "category": "master",
+    "subtitle": "dm.subtitle.tardis_malfunction",
+    "sounds": [{
+      "name": "thedalekmod:tardis_malfunction",
+      "stream": true
+    }]
+  },
+  "tardis_out_of_bounds": {
+    "category": "master",
+    "subtitle": "dm.subtitle.tardis_out_of_bounds",
+    "sounds": [{
+      "name": "thedalekmod:tardis_out_of_bounds",
+      "stream": true
+    }]
+  },
+  "circuit_added": {
+    "category": "master",
+    "subtitle": "thedalekmod:circuit_added",
+    "sounds": [{
+      "name": "thedalekmod:circuit_added",
+      "stream": false
+    }]
+  },
+  "toclafane_zap": {
+    "category": "hostile",
+    "subtitle": "dm.subtitle.toclafane_zap",
+    "sounds": [{
+      "name": "thedalekmod:toclafane_zap",
+      "stream": false
+    }]
+  },
+  "toclafane_speak": {
+    "category": "hostile",
+    "subtitle": "dm.subtitle.toclafane_speak",
+    "sounds": [{
+      "name": "thedalekmod:toclafane_speak",
+      "stream": false
+    }]
+  },
+  "bessie_horn": {
+    "category": "master",
+    "subtitle": "dm.subtitle.bessie_horn",
+    "sounds": [{
+      "name": "thedalekmod:bessie_horn",
+      "stream": false
+    }]
+  },
+  "autongun": {
+    "category": "hostile",
+    "subtitle": "dm.subtitle.autongun",
+    "sounds": [{
+      "name": "thedalekmod:autongun",
+      "stream": false
+    }]
+  },
+  "cyberincom": {
+    "category": "hostile",
+    "subtitle": "dm.subtitle.cyberincom",
+    "sounds": [{
+      "name": "thedalekmod:cybermen/modern/cyberincom",
+      "stream": false
+    }]
+  },
+  "cyberstomp": {
+    "subtitle": "dm.subtitle.cyberstomp",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:cybermen/modern/cyberstomp",
+      "stream": false
+    }]
+  },
+  "dalekdestroy": {
+    "category": "hostile",
+    "subtitle": "dm.subtitle.dalekdestroy",
+    "sounds": [{
+      "name": "thedalekmod:dalekdestroy",
+      "stream": false
+    }]
+  },
+  "dalekscream": {
+    "subtitle": "dm.subtitle.dalekscream",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:dalekscream",
+      "stream": false
+    }]
+  },
+  "dalekshoot": {
+    "subtitle": "dm.subtitle.dalekshoot",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:dalekshoot",
+      "stream": false
+    }]
+  },
+  "delete": {
+    "subtitle": "dm.subtitle.delete",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:delete",
+      "stream": false
+    }]
+  },
+  "deleted": {
+    "subtitle": "dm.subtitle.delete",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:deleted",
+      "stream": false
+    }]
+  },
+  "empchildaymm": {
+    "subtitle": "dm.subtitle.empchildaymm",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:empchildaymm",
+      "stream": false
+    }]
+  },
+  "k9aff": {
+    "category": "neutral",
+    "subtitle": "dm.subtitle.k9aff",
+    "sounds": [{
+      "name": "thedalekmod:k9/k9aff",
+      "stream": false
+    }]
+  },
+  "k9fail": {
+    "category": "neutral",
+    "subtitle": "dm.subtitle.k9fail",
+    "sounds": [{
+      "name": "thedalekmod:k9/k9fail",
+      "stream": false
+    }]
+  },
+  "k9born": {
+    "category": "neutral",
+    "subtitle": "dm.subtitle.k9born",
+    "sounds": [{
+      "name": "thedalekmod:k9/k9born",
+      "stream": false
+    }]
+  },
+  "k9born_aussie": {
+    "category": "neutral",
+    "subtitle": "dm.subtitle.k9born_aussie",
+    "sounds": [{
+      "name": "thedalekmod:k9/k9born_aussie",
+      "stream": false
+    }]
+  },
+  "k9threatdetect": {
+    "subtitle": "dm.subtitle.k9threatdetect",
+    "category": "neutral",
+    "sounds": [{
+      "name": "thedalekmod:k9/k9threatdetect",
+      "stream": false
+    }]
+  },
+  "k9laser": {
+    "subtitle": "dm.subtitle.k9laser",
+    "category": "neutral",
+    "sounds": [{
+      "name": "thedalekmod:k9/k9laser",
+      "stream": false
+    }]
+  },
+  "k9funk": {
+    "subtitle": "dm.subtitle.k9funk",
+    "category": "neutral",
+    "sounds": [{
+      "name": "thedalekmod:k9/k9funk",
+      "stream": false
+    }]
+  },
+  "sonicscrewdriver": {
+    "subtitle": "dm.subtitle.sonicscrewdriver",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:sonicscrewdriver",
+      "stream": false
+    }]
+  },
+  "laser_sonic": {
+    "subtitle": "dm.subtitle.laser_sonic",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:laser_sonic",
+      "stream": false
+    }]
+  },
+  "8_flight": {
+    "subtitle": "dm.subtitle.flight_8",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:flight_8",
+      "stream": false
+    }]
+  },
+  "rpg_shoot": {
+    "subtitle": "dm.subtitle.rpg_shoot",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:rpg_shoot",
+      "stream": false
+    }]
+  },
+  "tardis": {
+    "category": "master",
+    "subtitle": "dm.subtitle.tardis",
+    "sounds": [{
+      "name": "thedalekmod:tardis",
+      "stream": true
+    }]
+  },
+  "tardisDemat": {
+    "subtitle": "dm.subtitle.tardisDemat",
+    "category": "environment",
+    "sounds": [{
+      "name": "thedalekmod:tardisDemat",
+      "stream": false
+    }]
+  },
+  "cyberman_shoot": {
+    "subtitle": "dm.subtitle.cyberman_shoot",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:cybermen/modern/cyberman_shoot",
+      "stream": false
+    }]
+  },
+  "tardis.hum.default_hum": {
+    "category": "master",
+    "subtitle": "dm.subtitle.TardisMUH",
+    "sounds": [{
+      "name": "thedalekmod:tardis/hum/default_hum",
+      "stream": false
+    }]
+  },
+  "tardis.hum.hartnell_hum": {
+    "category": "master",
+    "subtitle": "dm.subtitle.ClassicHum",
+    "sounds": [{
+      "name": "thedalekmod:tardis/hum/hartnell_hum",
+      "stream": false
+    }]
+  },
+  "tardis.hum.coral_hum": {
+    "category": "master",
+    "subtitle": "dm.subtitle.coralhum",
+    "sounds": [{
+      "name": "thedalekmod:tardis/hum/coral_hum",
+      "stream": false
+    }]
+  },
+  "tardis.hum.toyota_hum": {
+    "category": "master",
+    "subtitle": "dm.subtitle.toyotahum",
+    "sounds": [{
+      "name": "thedalekmod:tardis/hum/toyota_hum",
+      "stream": false
+    }]
+  },
+  "tardis.hum.war_hum": {
+    "category": "master",
+    "subtitle": "dm.subtitle.warhum",
+    "sounds": [{
+      "name": "thedalekmod:tardis/hum/war_hum",
+      "stream": false
+    }]
+  },
+  "tardis.hum.thirteen_hum": {
+    "category": "master",
+    "subtitle": "dm.subtitle.thirteenhum",
+    "sounds": [{
+      "name": "thedalekmod:tardis/hum/thirteen_hum",
+      "stream": false
+    }]
+  },
+  "tardisRemat": {
+    "category": "environment",
+    "subtitle": "dm.subtitle.tardisRemat",
+    "sounds": [{
+      "name": "thedalekmod:tardisRemat",
+      "stream": false
+    }]
+  },
+  "tardis.consoleShutdown": {
+    "category": "master",
+    "subtitle": "dm.subtitle.consoleShutdown",
+    "sounds": [{
+      "name": "thedalekmod:tardis/consoleShutdown",
+      "stream": false
+    }]
+  },
+  "tardis.ed_door_closee": {
+    "category": "master",
+    "subtitle": "dm.subtitle.Ed_door_close",
+    "sounds": [{
+      "name": "thedalekmod:tardis/Ed_door_close",
+      "stream": false
+    }]
+  },
+  "tardis.Ed_door_open": {
+    "subtitle": "dm.subtitle.Ed_door_open",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:tardis/Ed_door_open",
+      "stream": false
+    }]
+  },
+  "tardis.rematLoop": {
+    "subtitle": "dm.subtitle.rematLoop",
+    "category": "environment",
+    "sounds": [{
+      "name": "thedalekmod:tardis/rematLoop",
+      "stream": false
+    }]
+  },
+  "youwillbecome": {
+    "subtitle": "dm.subtitle.youwillbecome",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:youwillbecome",
+      "stream": false
+    }]
+  },
+  "xp": {
+    "subtitle": "dm.subtitle.xp",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:xp",
+      "stream": false
+    }]
+  },
+  "brachaki": {
+    "subtitle": "dm.subtitle.brachaki_door",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:brachaki_door",
+      "stream": false
+    }]
+  },
+  "bessie": {
+    "subtitle": "dm.subtitle.bessie",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:bessie",
+      "stream": false
+    }]
+  },
+  "click": {
+  "subtitle": "dm.subtitle.tick",
+  "category": "hostile",
+  "sounds": [{
+    "name": "thedalekmod:click",
+    "stream": false
+  }]
+},
+  "tick": {
+    "subtitle": "dm.subtitle.tick",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:click",
+      "stream": false
+    }]
+  },
+  "oldbrass": {
+    "subtitle": "dm.subtitle.oldbrass",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:oldbrass",
+      "stream": false
+    }]
+  },
+  "stormexter": {
+    "subtitle": "dm.subtitle.stormexter",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:storm_exterminate",
+      "stream": false
+    }]
+  },
+  "stormdead": {
+    "category": "hostile",
+    "subtitle": "dm.subtitle.stormdead",
+    "sounds": [{
+      "name": "thedalekmod:storm_death",
+      "stream": false
+    }]
+  },
+  "stormsong": {
+    "subtitle": "dm.subtitle.stormsong",
+    "category": "music",
+    "sounds": [{
+      "name": "thedalekmod:stormsong",
+      "stream": true
+    }]
+  },
+  "classicgun": {
+    "subtitle": "dm.subtitle.classicgun",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:classicdalekgun",
+      "stream": false
+    }]
+  },
+  "swdfire": {
+    "subtitle": "dm.subtitle.swdfire",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:swdfire",
+      "stream": false
+    }]
+  },
+  "tardisDoorOpen": {
+    "subtitle": "dm.subtitle.tardisDoorOpen",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:tardisDoorOpen",
+      "stream": false
+    }]
+  },
+  "tardisDoorShut": {
+    "subtitle": "dm.subtitle.tardisDoorShut",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:tardisDoorShut",
+      "stream": false
+    }]
+  },
+  "stormshift": {
+    "subtitle": "dm.subtitle.stormshift",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:stormshift",
+      "stream": false
+    }]
+  },
+  "60sannihilate": {
+    "subtitle": "dm.subtitle.60sannihilate",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:60sdalek/annihilate",
+      "stream": false
+    }]
+  },
+  "60sdalekscannotbedefeated": {
+    "subtitle": "dm.subtitle.60salekscannotbedefeated",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:60sdalek/dalekscannotbedefeated",
+      "stream": false
+    }]
+  },
+  "60sexterminatethem": {
+    "subtitle": "dm.subtitle.60sexterminatethem",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:60sdalek/exterminatethem",
+      "stream": false
+    }]
+  },
+  "60sexterminate_1": {
+    "subtitle": "dm.subtitle.60sexterminate_1",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:60sdalek/exterminate_1",
+      "stream": false
+    }]
+  },
+  "60sexterminate_2": {
+    "subtitle": "dm.subtitle.60sexterminate_2",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:60sdalek/exterminate_2",
+      "stream": false
+    }]
+  },
+  "60sexterminate_3": {
+    "subtitle": "dm.subtitle.60sexterminate_3",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:60sdalek/exterminate_3",
+      "stream": false
+    }]
+  },
+  "60sfaceextermination": {
+    "subtitle": "dm.subtitle.60sfaceextermination",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:60sdalek/faceextermination",
+      "stream": false
+    }]
+  },
+  "60slocateanddestroy": {
+    "subtitle": "dm.subtitle.60slocateanddestroy",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:60sdalek/locateanddestroy",
+      "stream": false
+    }]
+  },
+  "60snothingcanstopthedaleks": {
+    "subtitle": "dm.subtitle.60snothingcanstopthedaleks",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:60sdalek/nothingcanstopthedaleks",
+      "stream": false
+    }]
+  },
+  "60sonedalek": {
+    "subtitle": "dm.subtitle.60sonedalek",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:60sdalek/onedalek",
+      "stream": false
+    }]
+  },
+  "60syouwillbeexterminated": {
+    "subtitle": "dm.subtitle.60syoumustbeexterminated",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:60sdalek/youwillbeexterminated",
+      "stream": false
+    }]
+  },
+  "70salert": {
+    "subtitle": "dm.subtitle.70salert",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/alert",
+      "stream": false
+    }]
+  },
+  "70sdonotmove": {
+    "subtitle": "dm.subtitle.70sdonotmove",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/donotmove",
+      "stream": false
+    }]
+  },
+  "70sexterminate": {
+    "subtitle": "dm.subtitle.70sexterminate",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/exterminate",
+      "stream": false
+    }]
+  },
+  "70sexterminate_2": {
+    "subtitle": "dm.subtitle.70sexterminate_2",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/exterminate_2",
+      "stream": false
+    }]
+  },
+  "70sexterminate_3": {
+    "subtitle": "dm.subtitle.70sexterminate_3",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/exterminate_3",
+      "stream": false
+    }]
+  },
+  "70sexterminate_4": {
+    "subtitle": "dm.subtitle.70sexterminate_4",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/exterminate_4",
+      "stream": false
+    }]
+  },
+  "70sexterminate_5": {
+    "subtitle": "dm.subtitle.70sexterminate_5",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/exterminate_5",
+      "stream": false
+    }]
+  },
+  "70shault": {
+    "subtitle": "dm.subtitle.70shault",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/hault",
+      "stream": false
+    }]
+  },
+  "70ssurrender": {
+    "subtitle": "dm.subtitle.70ssurrender",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/surrender",
+      "stream": false
+    }]
+  },
+  "70ssurrender_2": {
+    "subtitle": "dm.subtitle.70ssurrender_2",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/surrender_2",
+      "stream": false
+    }]
+  },
+  "70ssurrender_3": {
+    "subtitle": "dm.subtitle.70ssurrender_3",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/surrender_3",
+      "stream": false
+    }]
+  },
+  "70ssurrender_4": {
+    "subtitle": "dm.subtitle.70ssurrender_4",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/surrender_4",
+      "stream": false
+    }]
+  },
+  "70syoumustbeexterminated": {
+    "subtitle": "dm.subtitle.70syoumustbeexterminated",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:70sdalek/youmustbeexterminated",
+      "stream": false
+    }]
+  },
+  "80senemyexterminate": {
+    "subtitle": "dm.subtitle.80senemyexterminate",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:80sdalek/enemyexterminate",
+      "stream": false
+    }]
+  },
+  "80sexterminate": {
+    "subtitle": "dm.subtitle.80sexterminate",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:80sdalek/exterminate",
+      "stream": false
+    }]
+  },
+  "imperial.exterminate": {
+    "subtitle": "dm.subtitle.imperial.exterminate",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:imperial/exterminate",
+      "stream": false
+    }]
+  },
+  "imperial.exterminate_2": {
+    "subtitle": "dm.subtitle.imperial.exterminate_2",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:imperial/exterminate_2",
+      "stream": false
+    }]
+  },
+  "imperial.exterminate_3": {
+    "subtitle": "dm.subtitle.imperial.exterminate_3",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:imperial/exterminate_3",
+      "stream": false
+    }]
+  },
+  "imperial.exterminate_4": {
+    "subtitle": "dm.subtitle.imperial.exterminate_4",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:imperial/exterminate_4",
+      "stream": false
+    }]
+  },
+  "imperial.exterminate_5": {
+    "subtitle": "dm.subtitle.imperial.exterminate_5",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:imperial/exterminate_5",
+      "stream": false
+    }]
+  },
+  "imperial.exterminate_6": {
+    "subtitle": "dm.subtitle.imperial.exterminate_6",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:imperial/exterminate_6",
+      "stream": false
+    }]
+  },
+  "imperial.exterminate_7": {
+    "subtitle": "dm.subtitle.imperial.exterminate_7",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:imperial/exterminate_7",
+      "stream": false
+    }]
+  },
+  "imperial.exterminate_8": {
+    "subtitle": "dm.subtitle.imperial.exterminate_8",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:imperial/exterminate_8",
+      "stream": false
+    }]
+  },
+  "imperial.exterminate_9": {
+    "subtitle": "dm.subtitle.imperial.exterminate_9",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:imperial/exterminate_9",
+      "stream": false
+    }]
+  },
+  "imperial.staywhereyouare": {
+    "subtitle": "dm.subtitle.imperial.staywhereyouare",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:imperial/staywhereyouare",
+      "stream": false
+    }]
+  },
+  "newseriesdaleks.alert": {
+    "subtitle": "dm.subtitle.newseriesalert",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:newseriesdaleks/alert",
+      "stream": false
+    }]
+  },
+  "newseriesdaleks.exterminate": {
+    "subtitle": "dm.subtitle.newseriesexterminate",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:newseriesdaleks/exterminate",
+      "stream": false
+    }]
+  },
+  "newseriesdaleks.exterminate_10": {
+    "subtitle": "dm.subtitle.newseriesexterminate_10",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:newseriesdaleks/exterminate_10",
+      "stream": false
+    }]
+  },
+  "newseriesdaleks.exterminate_11": {
+    "subtitle": "dm.subtitle.newseriesexterminate_11",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:newseriesdaleks/exterminate_11",
+      "stream": false
+    }]
+  },
+  "newseriesdaleks.exterminate_2": {
+    "subtitle": "dm.subtitle.newseriesexterminate_2",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:newseriesdaleks/exterminate_2",
+      "stream": false
+    }]
+  },
+  "newseriesdaleks.exterminate_3": {
+    "subtitle": "dm.subtitle.newseriesexterminate_3",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:newseriesdaleks/exterminate_3",
+      "stream": false
+    }]
+  },
+  "newseriesdaleks.exterminate_4": {
+    "subtitle": "dm.subtitle.newseriesexterminate_4",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:newseriesdaleks/exterminate_4",
+      "stream": false
+    }]
+  },
+  "newseriesdaleks.exterminate_5": {
+    "subtitle": "dm.subtitle.newseriesexterminate_5",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:newseriesdaleks/exterminate_5",
+      "stream": false
+    }]
+  },
+  "newseriesdaleks.exterminate_6": {
+    "subtitle": "dm.subtitle.newseriesexterminate_6",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:newseriesdaleks/exterminate_6",
+      "stream": false
+    }]
+  },
+  "newseriesdaleks.exterminate_7": {
+    "subtitle": "dm.subtitle.newseriesexterminate_7",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:newseriesdaleks/exterminate_7",
+      "stream": false
+    }]
+  },
+  "newseriesdaleks.exterminate_8": {
+    "subtitle": "dm.subtitle.newseriesexterminate_8",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:newseriesdaleks/exterminate_8",
+      "stream": false
+    }]
+  },
+  "newseriesdaleks.exterminate_9": {
+    "subtitle": "dm.subtitle.newseriesexterminate_9",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:newseriesdaleks/exterminate_9",
+      "stream": false
+    }]
+  },
+  "misc.bb_shoot": {
+    "subtitle": "dm.subtitle.misc.bb_shoot",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:misc/bb_shoot",
+      "stream": false
+    }]
+  },
+  "misc.bb_explode": {
+    "subtitle": "dm.subtitle.misc.bb_explode",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:misc/bb_explode",
+      "stream": false
+    }]
+  },
+  "tardis.tt_door_close": {
+    "subtitle": "dm.subtitle.tardis.tt_door_close",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:tardis/tt_door_close",
+      "stream": false
+    }]
+  },
+  "tardis.tt_door_open": {
+    "subtitle": "dm.subtitle.tardis.tt_door_open",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:tardis/tt_door_open",
+      "stream": false
+    }]
+  },
+  "tardisflyloop": {
+    "subtitle": "dm.subtitle.tardis.tardisflyloop",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:tardis/tardisFlyLoop",
+      "stream": false
+    }]
+  },
+  "tardis.tardisland": {
+    "subtitle": "dm.subtitle.tardis.tardisland",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:tardis/tardisLand",
+      "stream": false
+    }]
+  },
+  "tardis.fridge_open": {
+    "subtitle": "dm.subtitle.tardis.fridge_open",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:tardis/fridge_open",
+      "stream": false
+    }]
+  },
+  "tardis.fridge_close": {
+    "subtitle": "dm.subtitle.tardis.fridge_close",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:tardis/fridge_close",
+      "stream": false
+    }]
+  },
+  "davros": {
+    "subtitle": "dm.subtitle.davros",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:davros_floor",
+      "stream": true
+    }]
+  },
+  "danger": {
+    "subtitle": "dm.subtitle.danger",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:danger",
+      "stream": true
+    }]
+  },
+  "title.hs_1": {
+    "subtitle": "dm.subtitle.title.hs_1",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:title/hs_1",
+      "stream": false
+    }]
+  },
+
+  "title.hs_2": {
+    "subtitle": "dm.subtitle.title.hs_2",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:title/hs_2",
+      "stream": false
+    }]
+  },
+  "title.hs_3": {
+    "subtitle": "dm.subtitle.hs_3",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:title/hs_3",
+      "stream": false
+    }]
+  },
+  "blink": {
+    "subtitle": "dm.subtitle.blink",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:blink",
+      "stream": false
+    }]
+  },
+  "pain": {
+    "subtitle": "dm.subtitle.pain",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:patients/patient_pain",
+      "stream": false
+    }]
+  },
+    "zarbi": {
+    "subtitle": "dm.subtitle.zarbi",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:zarbi",
+      "stream": false
+    }]
+  },
+  "regen_tense": {
+    "subtitle": "dm.subtitle.regen_tense",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:preregen",
+      "stream": false
+    }]
+  },
+  "10_head_shooting": {
+    "subtitle": "dm.subtitle.10_head_shooting",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:10_head_shooting",
+      "stream": false
+    }]
+  },
+  "regen_1": {
+    "category": "master",
+    "subtitle": "",
+    "sounds": [{
+      "name": "thedalekmod:regen_1",
+      "stream": true
+    }]
+  },
+
+  "ak_47": {
+    "category": "master",
+    "subtitle": "",
+    "sounds": [{
+      "name": "thedalekmod:ak_47_sound",
+      "stream": true
+    }]
+  },
+  "stand_away": {
+    "subtitle": "dm.subtitle.stand_away",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:patients/stand_away",
+      "stream": false
+    }]
+  },
+  "ding": {
+    "subtitle": "dm.subtitle.ding",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:ding",
+      "stream": false
+    }]
+  },
+  "angelwoosh": {
+    "subtitle": "dm.subtitle.woosh",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:angel_woosh",
+      "stream": false
+    }]
+  },
+  "dyinglight": {
+    "subtitle": "dm.subtitle.dyinglight",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:dyinglight",
+      "stream": false
+    }]
+  },
+  "doorlocked": {
+    "subtitle": "dm.subtitle.doorlocked",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:imlocked",
+      "stream": false
+    }]
+  },
+  "drvoicemail": {
+    "subtitle": "dm.subtitle.drvoicemail",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:voicemail",
+      "stream": true
+    }]
+  },
+  "mrsmith": {
+    "subtitle": "dm.subtitle.mrsmith",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:smith",
+      "stream": true
+    }]
+  },
+  "tllaser": {
+    "subtitle": "dm.subtitle.tllaser",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:tllaser",
+      "stream": false
+    }]
+  },
+  "tardis.handbrakes.toyotaHandbrakeDemat": {
+    "subtitle": "dm.subtitle.tardis.handbrakes.toyotaHandbrakeDemat",
+    "category": "ambient",
+    "sounds": [{
+      "name": "thedalekmod:tardis/handbrakes/toyotaHandbrakeDemat",
+      "stream": false
+    }]
+  },
+  "tardis.handbrakes.toyotaHandbrakeRemat": {
+    "subtitle": "dm.subtitle.tardis.handbrakes.toyotaHandbrakeRemat",
+    "category": "ambient",
+    "sounds": [{
+      "name": "thedalekmod:tardis/handbrakes/toyotaHandbrakeRemat",
+      "stream": false
+    }]
+  },
+  "tardis.handbrakes.goldenleverDemat": {
+    "subtitle": "dm.subtitle.tardis.handbrakes.goldenleverDemat",
+    "category": "ambient",
+    "sounds": [{
+      "name": "thedalekmod:tardis/handbrakes/goldenleverDemat",
+      "stream": false
+    }]
+  },
+  "tardis.handbrakes.goldenleverRemat": {
+    "subtitle": "dm.subtitle.tardis.handbrakes.goldenleverRemat",
+    "category": "ambient",
+    "sounds": [{
+      "name": "thedalekmod:tardis/handbrakes/goldenleverRemat",
+      "stream": false
+    }]
+  },
+  "mondasianyouwillbecome": {
+    "subtitle": "dm.subtitle.mondasianyouwillbecome",
+    "category": "hostile",
+    "sounds": [{
+      "name": "thedalekmod:mondasianyouwillbecome",
+      "stream": false
+    }]
+  },
+  "tardis.handbrakes.coralhandbrake": {
+    "subtitle": "dm.subtitle.tardis.handbrakes.coralhandbrake",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:tardis/handbrakes/coralhandbrake",
+      "stream": false
+    }]
+  },
+  "2nd-a": {
+    "category": "master",
+    "subtitle": "dm.subtitle.2nd-a",
+    "sounds": [{
+      "name": "thedalekmod:2nd-a",
+      "stream": false
+    }]
+  },
+  "4th-a": {
+    "category": "master",
+    "subtitle": "dm.subtitle.4th-a",
+    "sounds": [{
+      "name": "thedalekmod:4th-a",
+      "stream": false
+    }]
+  },
+  "8-war": {
+    "category": "master",
+    "subtitle": "dm.subtitle.8-war",
+    "sounds": [{
+      "name": "thedalekmod:8-war",
+      "stream": false
+    }]
+  },
+  "classiccyber_destroy": {
+    "category": "master",
+    "subtitle": "dm.subtitle.classiccyber_destroy",
+    "sounds": [{
+      "name": "thedalekmod:cybermen/earthshock/classiccyber_destroy",
+      "stream": false
+    }]
+  },
+  "classiccyber_excellent": {
+    "category": "master",
+    "subtitle": "dm.subtitle.classiccyber_excellent",
+    "sounds": [{
+      "name": "thedalekmod:cybermen/earthshock/classiccyber_excellent",
+      "stream": false
+    }]
+  },
+  "tenthplanet_becomelikeus": {
+    "category": "master",
+    "subtitle": "dm.subtitle.tenthplanet_becomelikeus",
+    "sounds": [{
+      "name": "thedalekmod:cybermen/tenth_planet/tenthplanet_becomelikeus",
+      "stream": false
+    }]
+  },
+  "tenthplanet_destroyed": {
+    "category": "master",
+    "subtitle": "dm.subtitle.tenthplanet_destroyed",
+    "sounds": [{
+      "name": "thedalekmod:cybermen/tenth_planet/tenthplanet_destroyed",
+      "stream": false
+    }]
+  },
+  "tenthplanet_wearecybermen": {
+    "category": "master",
+    "subtitle": "dm.subtitle.tenthplanet_wearecybermen",
+    "sounds": [{
+      "name": "thedalekmod:cybermen/tenth_planet/tenthplanet_wearecybermen",
+      "stream": false
+    }]
+  },
+  "classiccyber_destroythem": {
+    "category": "master",
+    "subtitle": "dm.subtitle.classiccyber_destroythem",
+    "sounds": [{
+      "name": "thedalekmod:cybermen/earthshock/classiccyber_destroythem",
+      "stream": false
+    }]
+  },
+  "classiccyber_emotions": {
+    "category": "master",
+    "subtitle": "dm.subtitle.classiccyber_emotions",
+    "sounds": [{
+      "name": "thedalekmod:cybermen/earthshock/classiccyber_emotions",
+      "stream": false
+    }]
+  },
+  "soundtrack.transfer": {
+    "category": "master",
+    "subtitle": "dm.subtitle.transfer",
+    "sounds": [{
+      "name": "thedalekmod:soundtrack/transfer",
+      "stream": false
+    }]
+  },
+
+  "k9_shoot": {
+    "category": "master",
+    "subtitle": "dm.subtitle.k9shoot",
+    "sounds": [{
+      "name": "thedalekmod:k9_shoot",
+      "stream": false
+    }]
+  },
+
+  "soundtrack.uncharted_waters": {
+    "category": "master",
+    "subtitle": "dm.subtitle.uncharted_waters",
+    "sounds": [{
+      "name": "thedalekmod:soundtrack/uncharted_waters",
+      "stream": false
+    }]
+  },
+  "misc.cease": {
+    "subtitle": "dm.subtitle.misc.cease",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:misc/cease",
+      "stream": false
+    }]
+  },
+  "saber_ignite": {
+    "subtitle": "dm.subtitle.misc.saber_ignite",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:misc/saber_ignite",
+      "stream": true
+    }]
+  },
+  "saber_extinguish": {
+    "subtitle": "dm.subtitle.misc.saber_extinguish",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:misc/saber_extinguish",
+      "stream": false
+    }]
+  },
+  "saber_swing": {
+    "subtitle": "dm.subtitle.misc.saber_swing",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:misc/saber_swing",
+      "stream": false
+    }]
+  },
+
+  "misc.steve": {
+    "subtitle": "dm.subtitle.misc.steve",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:misc/steve",
+      "stream": false
+    }]
+  },
+
+  "asgore": {
+    "subtitle": "dm.subtitle.misc.asgore",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:asgore",
+      "stream": false
+    }]
+  },
+
+  "dm.classic.explosion": {
+    "subtitle": "dm.classic.explosion",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:classic/explosion",
+      "stream": false
+    }]
+  },
+
+  "dm.classic.grass_step": {
+    "subtitle": "dm.classic.grass_step",
+    "category": "block",
+    "sounds": [
+      {"name": "thedalekmod:classic/grass1", "steam": false},
+      {"name": "thedalekmod:classic/grass2", "steam": false},
+      {"name": "thedalekmod:classic/grass3", "steam": false},
+      {"name": "thedalekmod:classic/grass4", "steam": false}
+    ]
+  },
+  "dm.classic.hurt": {
+    "subtitle": "dm.classic.hurt",
+    "category": "master",
+    "sounds": [
+      {"name": "thedalekmod:classic/hurt", "stream": false}
+    ]
+  },
+
+  "tardis.lock": {
+    "subtitle": "dm.subtitle.tardis.lock",
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:tardis/lock/lock_0",
+      "stream": false
+    },
+      {
+        "name": "thedalekmod:tardis/lock/lock_1",
+        "stream": false
+      },
+      {
+        "name": "thedalekmod:tardis/lock/lock_2",
+        "stream": false
+      },
+      {
+        "name": "thedalekmod:tardis/lock/lock_3",
+        "stream": false
+      },
+      {
+        "name": "thedalekmod:tardis/lock/lock_4",
+        "stream": false
+      },
+      {
+        "name": "thedalekmod:tardis/lock/lock_5",
+        "stream": false
+      }
+    ]
+  },
+  "dalek.asylum.mkmod.exter": {
+    "category": "master",
+    "sounds": [{
+      "name": "thedalekmod:asylum/modloader/exterminate_0",
+      "stream": false
+      },
+      {
+        "name": "thedalekmod:asylum/modloader/exterminate_1",
+        "stream": false
+      },
+      {
+        "name": "thedalekmod:asylum/modloader/exterminate_2",
+        "stream": false
+      },
+      {
+        "name": "thedalekmod:asylum/modloader/exterminate_3",
+        "stream": false
+      }
+    ]
+  },
+  "dalek.emperor.heathen": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:emperor/emperor_heathen",
+        "stream": false
+      }
+    ]
+  },
+  "dalek.emperor.planetmy": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:emperor/emperor_planet_will_be_my",
+        "stream": false
+      }
+    ]
+  },
+  "dalek.emperor.purify": {
+  "category": "master",
+  "sounds": [
+    {
+      "name": "thedalekmod:emperor/emperor_purify_the_earth",
+      "stream": false
+    }
+  ]
+},
+  "dalek.emperor.paradise": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:emperor/emperor_this_will_be_out_paradise",
+        "stream": false
+      }
+    ]
+  },
+  "tardis.clock_landing": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:tardis/clock_landing",
+        "stream": false
+      }
+    ]
+  },
+  "tardis.clock_takeoff": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:tardis/clock_takeoff",
+        "stream": false
+      }
+    ]
+  },
+  "tardis.clock_hum": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:tardis/hum/clock_hum",
+        "stream": false
+      }
+    ]
+  },
+  "tardis.portal.open": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:tardis/portal/open",
+        "stream": false
+      }
+    ]
+  },
+    "tardis.portal.close": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:tardis/portal/close",
+        "stream": false
+      }
+    ]
+  },
+    "tardis.portal.hum": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:tardis/portal/hum",
+        "stream": false
+      }
+    ]
+  },
+  "misc.telephone_call": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:telephone_call",
+        "stream": false
+      }
+    ]
+  },
+    "tardis.pipe": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:tardis/smw_pipe",
+        "stream": false
+      }
+    ]
+  },
+    "misc.paper_pickup": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:misc/paper_pickup",
+        "stream": false
+      }
+    ]
+  },
+    "misc.paper_place": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "thedalekmod:misc/paper_place",
+        "stream": false
+      }
+    ]
+  },
+    "judoon_1": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "thedalekmod:judoon_1",
+        "stream": false
+      }
+    ]
+      },
+    "judoon_2": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "thedalekmod:judoon_2",
+        "stream": false
+      }
+    ]
+      },
+    "judoon_3": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "thedalekmod:judoon_3",
+        "stream": false
+      }
+    ]
+          },
+    "yeti_attack": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "thedalekmod:yeti_attack",
+        "stream": false
+      }
+    ]
+          },
+    "yeti_roam": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "thedalekmod:yeti_roam",
+        "stream": false
+      }
+    ]
+  },
+    "iatd": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:songs/iatd",
+        "stream": true
+      }
+    ]
+  },
+   "pfd": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:songs/pfd",
+        "stream": true
+      }
+    ]
+  },
+   "motm": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:songs/motm",
+        "stream": true
+      }
+    ]
+  },
+   "soul": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:songs/soul",
+        "stream": true
+      }
+    ]
+  },
+    "dm_theme_14": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:songs/dm_theme_14",
+        "stream": true
+      }
+    ]
+  },
+    "dm_theme_20": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:songs/dm_theme_20",
+        "stream": true
+      }
+    ]
+      },
+    "daleks": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "thedalekmod:songs/daleks",
+        "stream": true
+      }
+    ]
+      },
+    "cybermen": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:songs/cybermen",
+        "stream": true
+      }
+    ]
+      },
+    "cybermasters": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:songs/cybermasters",
+        "stream": true
+      }
+    ]
+      },
+    "zarbidisc": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:songs/zarbi",
+        "stream": true
+      }
+    ]
+  },
+  "cyber_theme_disc": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:songs/dm_theme_cyber",
+        "stream": true
+      }
+    ]
+  },
+    "gallifrey_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:ambient/gallifrey_1",
+        "stream": true
+      }
+    ]
+  },
+    "gallifrey_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:ambient/gallifrey_2",
+        "stream": true
+      }
+    ]
+  },
+    "gallifrey_3": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:ambient/gallifrey_3",
+        "stream": true
+      }
+    ]
+  },
+    "mondas_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:ambient/mondas_1",
+        "stream": true
+      }
+    ]
+  },
+    "mondas_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:ambient/mondas_2",
+        "stream": true
+      }
+    ]
+  },
+    "mondas_3": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:ambient/mondas_3",
+        "stream": true
+      }
+    ]
+  },
+    "skaro_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:ambient/skaro_1",
+        "stream": true
+      }
+    ]
+  },
+    "skaro_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:ambient/skaro_2",
+        "stream": true
+      }
+    ]
+  },
+    "skaro_3": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "thedalekmod:ambient/skaro_3",
+        "stream": true
+      }
+    ]
+  },
+  "cybercow_3": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "thedalekmod:trenzalore/cybercow_3",
+        "stream": false
+      }
+    ]
+  },
+  "cybercow_hurt_1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "thedalekmod:trenzalore/cybercow_hurt_1",
+        "stream": false
+      }
+    ]
+  },
+  "quark_1": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "thedalekmod:trenzalore/quark_1",
+        "stream": false
+      }
+    ]
+  },
+  "quark_2": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "thedalekmod:trenzalore/quark_2",
+        "stream": false
+      }
+    ]
+  },
+  "quark_shoot": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "thedalekmod:trenzalore/quark_shoot",
+        "stream": false
+      }
+    ]
+  },
+  "hatchet": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "thedalekmod:hatchetsound",
+        "stream": false
+      }
+    ]
+  },
+    "slitheen_die": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "thedalekmod:slitheen_die",
+        "stream": false
+      }
+    ]
+  },
+    "slitheen_attack": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "thedalekmod:slitheen_attack",
+        "stream": false
+      }
+    ]
+  }
+}

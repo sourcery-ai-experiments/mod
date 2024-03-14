@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/hartnell_int.png",
+  "cdnPath": "tardis/hartnell_int",
+  "interiorName": "First Doctor\u0027s Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 12,
+    "y": 63,
+    "z": 8
+  },
+  "spawnRotation": 0.0
+}

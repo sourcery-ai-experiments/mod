@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis_monitors",
+  "pattern": [
+    " W ",
+    "WMW",
+    " W "
+  ],
+  "key": {
+    "W": {
+      "item": "thedalekmod:hartnellwall",
+      "data": 0
+    },
+    "M": {
+      "item": "thedalekmod:tardisdisplay",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:brachi_scanner",
+    "data": 0
+  }
+}

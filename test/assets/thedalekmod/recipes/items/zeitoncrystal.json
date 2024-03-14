@@ -1,0 +1,13 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:ore",
+  "ingredients": [
+    {
+      "item": "thedalekmod:zeitonblock"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:zeiton7crystal",
+    "count": 9
+  }
+}

@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "dm:sonic",
+	"pattern": [
+		" Q ",
+		"CBA",
+		" B "
+	],
+	"key": {
+		"C": {
+			"item": "thedalekmod:circuit",
+			"data": 0
+		},
+		"B": {
+			"item": "thedalekmod:brassingot",
+			"data": 0
+		},
+		"A": {
+			"item": "minecraft:stone_button",
+			"data": 0
+		},
+		"Q": {
+			"item": "thedalekmod:sonic_crystal",
+			"data": 0
+		}
+	},
+	"result": {
+		"item": "thedalekmod:sonicScrewdriver_08",
+		"data": 0
+	}
+}

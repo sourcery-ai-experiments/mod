@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:gun",
+  "pattern": [
+    "TSD",
+	" CD",
+	"  D"
+  ],
+  "key": {
+    "T": {
+		"item": "thedalekmod:sonic_crystal",
+		"data": 0
+	},
+    "C": {
+		"item": "thedalekmod:circuit",
+		"data": 0
+	},
+	"S": {
+      "item": "thedalekmod:solarcell"
+    },
+    "D": {
+		"item": "thedalekmod:dalekaniumIngot",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:dalek_weapon",
+	"data": 0
+  }
+}

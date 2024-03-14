@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:transport",
+  "pattern": [
+    "SSS",
+    "GcZ",
+    "WSW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:concrete",
+      "data": 15
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "c": {
+      "item": "thedalekmod:circuit"
+    },
+    "Z": {
+      "item": "thedalekmod:zeiton7crystal"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:delorean_spawner"
+  }
+}

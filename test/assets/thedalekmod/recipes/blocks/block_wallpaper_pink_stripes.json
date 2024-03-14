@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BP",
+    "BS",
+    "BP"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:brick_block"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "minecraft:dye",
+      "data": 9
+    }
+  },
+  "result": {
+    "item": "thedalekmod:wallpaper_pink_stripes",
+    "count": 3
+  }
+}

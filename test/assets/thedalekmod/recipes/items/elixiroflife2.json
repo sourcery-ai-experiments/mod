@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:regen",
+  "pattern": [
+    "1N2",
+    "GZM",
+    "3P4"
+  ],
+  "key": {
+    "1": {
+      "item": "thedalekmod:gallifreysand"
+    },
+    "2": {
+      "item": "thedalekmod:gallifreydirt"
+    },
+    "3": {
+      "item": "thedalekmod:gallifreystone"
+    },
+    "4": {
+      "item": "thedalekmod:gallifreyleaves"
+    },
+    "P": {
+      "item": "minecraft:gold_ingot"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "M": {
+      "item": "minecraft:magma_cream"
+    },
+    "N": {
+      "item": "minecraft:nether_wart"
+    },
+    "Z": {
+      "item": "thedalekmod:whitepointstar"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:elixiroflife"
+  }
+}

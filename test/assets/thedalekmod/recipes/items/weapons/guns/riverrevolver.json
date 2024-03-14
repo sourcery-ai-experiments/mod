@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:gun",
+  "pattern": [
+    "SSS",
+    "SS ",
+    "WB "
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "B": {
+      "item": "minecraft:stone_button"
+    },
+    "W": {
+      "item": "minecraft:planks",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "thedalekmod:river_song_revolver"
+  }
+}

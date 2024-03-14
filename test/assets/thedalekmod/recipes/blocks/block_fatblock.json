@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:decoration",
+  "pattern": [
+    "SSS",
+	"SSS",
+	"SSS"
+  ],
+  "key": {
+    "S": {
+		"item": "thedalekmod:fat",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:fatblock",
+	"data": 0
+  }
+}

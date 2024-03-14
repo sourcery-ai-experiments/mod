@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": { "model": "thedalekmod:gear" },
+    "facing=up":  { "model": "thedalekmod:gear" },
+    "facing=west":  { "model": "thedalekmod:gear", "y": 270 },
+    "facing=north":  { "model": "thedalekmod:gear"},
+    "facing=east":  { "model": "thedalekmod:gear", "y": 90 },
+    "facing=south":  { "model": "thedalekmod:gear", "y": 180 }
+  }
+}

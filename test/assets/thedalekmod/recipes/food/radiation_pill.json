@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "dm:food",
+	"pattern": [
+		"SWS",
+		"SMS",
+		"SRS"
+	],
+	"key": {
+		"W": {
+			"item": "minecraft:nether_wart",
+			"data": 0
+		},
+		"S": {
+			"item": "minecraft:sugar",
+			"data": 0
+		},
+		"M": {
+			"item": "minecraft:speckled_melon",
+			"data": 0
+		},
+		"R": {
+			"item": "minecraft:redstone",
+			"data": 0
+		}
+	},
+	"result": {
+		"item": "thedalekmod:radiation_pill",
+		"data": 0,
+    "count": 6
+	}
+}

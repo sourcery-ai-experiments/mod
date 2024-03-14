@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": { "model": "thedalekmod:screen" },
+    "facing=up":  { "model": "thedalekmod:screen" },
+    "facing=east":  { "model": "thedalekmod:screen", "y": 270 },
+    "facing=south":  { "model": "thedalekmod:screen"},
+    "facing=west":  { "model": "thedalekmod:screen", "y": 90 },
+    "facing=north":  { "model": "thedalekmod:screen", "y": 180 }
+  }
+}

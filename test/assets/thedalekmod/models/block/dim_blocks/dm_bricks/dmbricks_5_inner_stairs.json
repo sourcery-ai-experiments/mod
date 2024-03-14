@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "thedalekmod:blocks/dim_blocks/dm_bricks/dmbrick6",
+        "top": "thedalekmod:blocks/dim_blocks/dm_bricks/dmbrick6",
+        "side": "thedalekmod:blocks/dim_blocks/dm_bricks/dmbrick6"
+    }
+}

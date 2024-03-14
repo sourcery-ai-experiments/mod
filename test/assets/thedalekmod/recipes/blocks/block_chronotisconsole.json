@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis_monitors",
+  "pattern": [
+    "BBB",
+    "BHB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "thedalekmod:brassingot"
+    },
+    "H": {
+      "item": "thedalekmod:dematlever"
+    }
+    },
+    "result": {
+      "item": "thedalekmod:chronotis_console",
+      "data": 0
+    }
+  }
+}

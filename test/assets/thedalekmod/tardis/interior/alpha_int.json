@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/alpha_int.png",
+  "cdnPath": "tardis/alpha_int",
+  "interiorName": "Alpha Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 24,
+    "y": 65,
+    "z": 9
+  },
+  "spawnRotation": 0.0
+}

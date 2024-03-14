@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/fourth_secondary.png",
+  "cdnPath": "tardis/fourth_secondary",
+  "interiorName": "Fourth Doctor\u0027s Secondary Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 8,
+    "y": 65,
+    "z": 14
+  },
+  "spawnRotation": -90.0
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:sonic",
+  "pattern": [
+    " Q ",
+    "CIB",
+    " T "
+  ],
+  "key": {
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "B": {
+      "item": "minecraft:stone_button"
+    },
+    "I": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "Q": {
+      "item": "thedalekmod:sonic_crystal"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:RomanaSonicScrewdriver"
+  }
+}

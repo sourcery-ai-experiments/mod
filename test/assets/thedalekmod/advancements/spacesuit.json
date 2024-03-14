@@ -1,0 +1,63 @@
+{
+  "display": {
+    "description": {
+      "text": "Check our Wikia for all crafting recipes",
+      "color": "gray"
+    },
+    "title": {
+        "text":"Make a Spacesuit",
+        "color":"gold"
+        },
+    "icon": {
+      "item": "thedalekmod:drSpace_0"
+    }
+  },
+  "criteria": {
+    "suit1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:drSpace_0"
+          }
+        ]
+      }
+    },
+        "suit2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:nasaSuit_0"
+          }
+        ]
+      }
+    },
+        "suit3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:orangeSuit_0"
+          }
+        ]
+      }
+    },
+        "suit4": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:swdSuit_0"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "suit1", "suit2", "suit3", "suit4"
+    ]
+  ],
+    "parent": "thedalekmod:get_plastic"
+}

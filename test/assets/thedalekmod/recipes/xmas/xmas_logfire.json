@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:christmas",
+  "pattern": [
+  " C ",
+	"CLC",
+	"LLL"
+  ],
+  "key": {
+    "L": {
+		  "item": "minecraft:log",
+		  "data": 0
+	},
+    "C": {
+      "item": "minecraft:fire_charge",
+      "data": 0
+  }
+  },
+  "result": {
+    "item": "thedalekmod:btelogfire",
+	"data": 0
+  }
+}

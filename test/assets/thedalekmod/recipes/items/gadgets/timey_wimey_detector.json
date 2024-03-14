@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:gadget",
+  "pattern": [
+    " NX",
+	"OCG",
+	"PPP"
+  ],
+  "key": {
+    "N": {
+	  "item": "minecraft:noteblock",
+	  "data": 0
+	},
+    "P": {
+      "item": "thedalekmod:plasticChunk",
+      "data": 0
+  },
+    "C": {
+      "item": "thedalekmod:circuit",
+      "data": 0
+  },
+    "O": {
+      "item": "minecraft:dye",
+      "data": 14
+  },
+    "G": {
+      "item": "minecraft:dye",
+      "data": 2
+  },
+    "X": {
+      "item": "minecraft:clock",
+      "data": 0
+  }
+  },
+  "result": {
+    "item": "thedalekmod:timey_wimey_detector",
+	"data": 0
+  }
+}

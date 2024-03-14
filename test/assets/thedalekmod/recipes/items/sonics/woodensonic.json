@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:sonic",
+  "pattern": [
+  "WQb",
+	"WCB",
+	"WWb"
+  ],
+  "key": {
+    "C": {
+		"item": "thedalekmod:circuit",
+		"data": 0
+	},
+    "b": {
+		"item": "thedalekmod:brassingot",
+		"data": 0
+	},
+    "B": {
+		"item": "minecraft:wooden_button",
+		"data": 0
+	},
+    "Q": {
+		"item": "thedalekmod:sonic_crystal",
+		"data": 0
+	},
+    "W": {
+		"item": "minecraft:planks",
+		"data": 1
+	}
+  },
+  "result": {
+    "item": "thedalekmod:custom_sonic_brass_wood",
+	"data": 0
+  }
+}

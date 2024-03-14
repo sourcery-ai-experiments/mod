@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/shalka_int.png",
+  "cdnPath": "tardis/shalka_int",
+  "interiorName": "Scream of The Shalka Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 43,
+    "y": 74,
+    "z": 25
+  },
+  "spawnRotation": 0.0
+}

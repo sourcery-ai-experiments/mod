@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "GgG",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass_pane",
+      "data": 0
+    },
+    "g": {
+      "item": "minecraft:glowstone",
+      "data": 0
+    },
+    "S": {
+      "item": "thedalekmod:cysteelingot",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:lamppost",
+    "data": 0
+  }
+}

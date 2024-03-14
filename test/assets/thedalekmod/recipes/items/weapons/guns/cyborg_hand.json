@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:gun",
+  "pattern": [
+    "TAT",
+    "TCT",
+    "LSL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "C": {
+      "item": "thedalekmod:solarcell"
+    },
+    "A": {
+      "item": "thedalekmod:sonic_crystal"
+    },
+    "S": {
+      "item": "thedalekmod:solarcell"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:cyborg_hand"
+  }
+}

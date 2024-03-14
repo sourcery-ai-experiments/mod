@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:food",
+  "ingredients": [
+    {
+      "item": "minecraft:mushroom_stew"
+    },
+    {
+      "item": "thedalekmod:zygontongue"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:ifood",
+    "data": 13
+  }
+}

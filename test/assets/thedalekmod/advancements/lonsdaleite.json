@@ -1,0 +1,28 @@
+{
+  "display": {
+    "description": {
+      "text": "Find this ore in the caves of mars",
+      "color": "gray"
+    },
+    "title": {
+        "text":"Lonsdaleite",
+        "color": "purple"
+        },
+    "icon": {
+      "item": "thedalekmod:lonsdaleite"
+    }
+  },
+  "criteria": {
+    "zarbeats": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:lonsdaleite"
+          }
+        ]
+      }
+    }
+  },
+    "parent": "thedalekmod:dimension_change_mars"
+}

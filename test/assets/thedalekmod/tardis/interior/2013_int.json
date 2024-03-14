@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/2013_int.png",
+  "cdnPath": "tardis/2013_int",
+  "interiorName": "2013 Toyota Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 38,
+    "y": 86,
+    "z": 18
+  },
+  "spawnRotation": 0.0
+}

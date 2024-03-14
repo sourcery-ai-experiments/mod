@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis_monitors",
+  "pattern": [
+    "CBC",
+    "CMC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:concrete",
+      "data": 15
+    },
+    "M": {
+      "item": "thedalekmod:tardisdisplay"
+    },
+    "B": {
+      "item": "thedalekmod:brassingot"
+    }
+    },
+    "result": {
+      "item": "thedalekmod:8thdocmonitor",
+      "data": 0
+    }
+  }
+}

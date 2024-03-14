@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/blocktor_int.png",
+  "cdnPath": "tardis/blocktor_int",
+  "interiorName": "Blocktor Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 19,
+    "y": 65,
+    "z": 9
+  },
+  "spawnRotation": 90.0
+}

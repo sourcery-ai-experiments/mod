@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/ger_tar.png",
+  "cdnPath": "tardis/ger_tar",
+  "interiorName": "Geronimo Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 26,
+    "y": 70,
+    "z": 32
+  },
+  "spawnRotation": -90.0
+}

@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:untempered_schism"
+        },
+        "title": {
+            "text": "Become a Time Lord",
+            "color":"red"
+        },
+        "description": {
+            "text": "Craft the Untempered Schism (and enable BOTI)"
+        }
+    },
+    "parent": "thedalekmod:craft_elixir",
+    "criteria": {
+          "get_star": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:untempered_schism"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 50
+  }
+}

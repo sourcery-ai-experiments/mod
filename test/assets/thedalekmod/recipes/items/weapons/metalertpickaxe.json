@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:weapon",
+  "pattern": [
+    "DDD",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "D": {
+        "item": "thedalekmod:metalertingot",
+        "data": 0
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    }
+   },
+  "result": {
+    "item": "thedalekmod:metalertpickaxe",
+    "data": 0
+  }
+}

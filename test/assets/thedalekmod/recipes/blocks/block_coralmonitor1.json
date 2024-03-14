@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis_monitors",
+  "pattern": [
+    "TTP",
+    "TMT",
+    "PTT"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "M": {
+      "item": "thedalekmod:tardisdisplay"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:bte10thmonitor"
+  }
+}

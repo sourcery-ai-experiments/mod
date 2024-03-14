@@ -1,0 +1,13 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:ore",
+  "ingredients": [
+    {
+      "item": "thedalekmod:silicon_block"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:silicon",
+    "count": 9
+  }
+}

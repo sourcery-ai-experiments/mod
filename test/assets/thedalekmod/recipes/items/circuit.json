@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:crafting",
+  "pattern": [
+    " R ",
+    "ISI",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone",
+      "data": 0
+    },
+    "S": {
+      "item": "thedalekmod:silicon",
+      "data": 0
+    },
+    "I": {
+      "item": "minecraft:iron_ingot",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:circuit",
+    "data": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "display": {
+    "description": {
+      "text": "Breed Cybercows with Electronic Circuits",
+      "color": "gray"
+    },
+    "title": {
+        "text":"Pure Evil",
+        "color": "red"
+        },
+    "icon": {
+      "item": "thedalekmod:cybercow_spawner"
+    }
+  },
+    "criteria": {
+        "bred_cybercow": {
+            "trigger": "bred_animals",
+            "conditions": {
+                "parent": {
+                    "type": "thedalekmod:cybercow"
+                }
+            }
+            }
+            },         
+  "rewards": {
+    "experience": 50
+  },
+    "parent": "thedalekmod:biome_bluelands"
+}

@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/second_int.png",
+  "cdnPath": "tardis/second_int",
+  "interiorName": "Second Doctor\u0027s Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 26,
+    "y": 63,
+    "z": 11
+  },
+  "spawnRotation": 0.0
+}

@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/gallifrey_wardrobe.png",
+  "cdnPath": "tardis/wardrobe_int",
+  "interiorName": "Gallifreyan Wardrobe Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 25,
+    "y": 68,
+    "z": 15
+  },
+  "fileLocation": "INTERNAL",
+  "spawnRotation": 0.0
+}

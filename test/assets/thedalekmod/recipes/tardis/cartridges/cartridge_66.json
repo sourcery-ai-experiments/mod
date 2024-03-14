@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:cartridges",
+  "pattern": [
+    "CCC",
+    "SIS",
+    "BBB"
+  ],
+  "key": {
+    "C": {
+      "item": "thedalekmod:circuit",
+      "data": 0
+    },
+    "B": {
+      "item": "thedalekmod:brassingot",
+      "data": 0
+    },
+    "S": {
+      "item": "thedalekmod:silicon",
+      "data": 0
+    },
+    "I": [
+      {
+        "item": "minecraft:quartz_block",
+        "data": 2
+      },
+      {
+        "item": "thedalekmod:roundthings_b",
+        "data": 2
+      }
+    ]
+  },
+  "result": {
+    "item": "thedalekmod:chameleon_cartridge",
+    "data": 66
+  }
+}

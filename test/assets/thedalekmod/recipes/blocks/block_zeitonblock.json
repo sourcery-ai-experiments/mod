@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:ore",
+  "pattern": [
+    "ZZZ",
+	"ZZZ",
+	"ZZZ"
+  ],
+  "key": {
+    "Z": {
+		"item": "thedalekmod:zeiton7Crystal",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:ZeitonBlock",
+	"data": 0
+  }
+}

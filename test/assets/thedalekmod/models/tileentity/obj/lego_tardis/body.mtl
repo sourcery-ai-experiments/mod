@@ -1,0 +1,22 @@
+# Blender MTL File: 'Lego Tardis Mapped.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 1000.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.012956 0.047091
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .
+
+newmtl Material.003
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.014800 0.048997
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd .

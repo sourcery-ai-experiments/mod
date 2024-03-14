@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "thedalekmod:blocks/coral/coral_sandstone_top",
+        "top": "thedalekmod:blocks/coral/coral_stone",
+        "side": "thedalekmod:blocks/coral/slabs/coral_sandstone_slab_side"
+    }
+}

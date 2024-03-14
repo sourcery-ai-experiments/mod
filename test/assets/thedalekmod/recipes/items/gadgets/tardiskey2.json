@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis",
+  "pattern": [
+    "MMM",
+    "M  "
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:speckled_melon"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:tardiskey"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "NBN",
+    "NBN",
+    "N N"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    "N": {
+      "item": "minecraft:stick",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:tardischalkboardtall"
+  }
+}

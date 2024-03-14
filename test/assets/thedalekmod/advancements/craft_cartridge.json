@@ -1,0 +1,31 @@
+{
+  "display": {
+    "description": {
+      "text": "Craft any TARDIS Chameleon Cartridge",
+      "color": "gray"
+    },
+    "title": {
+        "text":"It's a disguise!",
+        "color":"dark_blue"
+        },
+    "icon": {
+      "item": "thedalekmod:chameleon_cartridge"
+    }
+  },
+  "criteria": {
+    "craft_tardis": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:chameleon_cartridge"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+    "parent": "thedalekmod:craft_tardisshell"
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "thedalekmod:block/coral/block_a",
+    "textures": {
+        "particle": "thedalekmod:blocks/coral/coral_wall_divider_3",
+        "up": "thedalekmod:blocks/coral/coral_wall_divider_0",
+        "down": "thedalekmod:blocks/coral/coral_wall_divider_0",
+        "north": "thedalekmod:blocks/coral/coral_wall_divider_3",
+        "south": "thedalekmod:blocks/coral/coral_wall_divider_3",
+        "east": "thedalekmod:blocks/coral/coral_wall_divider_3",
+        "west": "thedalekmod:blocks/coral/coral_wall_divider_3"
+    }
+}

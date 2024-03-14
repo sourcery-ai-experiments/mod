@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:tardisdoors",
+  "ingredients": [
+    {
+      "item": "thedalekmod:btecoraldoor_2",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:tardisdoorinterior1x1",
+    "data": 0
+  }
+}

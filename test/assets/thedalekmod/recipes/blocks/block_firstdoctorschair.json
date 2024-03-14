@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:decoration",
+  "pattern": [
+  "P  ",
+	"PLP",
+	"P P"
+  ],
+  "key": {
+    "P": {
+		"item": "minecraft:planks",
+		"data": 0
+	},
+    "L": {
+		"item": "minecraft:leather",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:firstDoctorsChair",
+	"data": 0
+  }
+}

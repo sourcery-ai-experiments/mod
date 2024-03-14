@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    "O O",
+    " I ",
+    "O O"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:stonebrick",
+      "data": 0
+    },
+    "I": {
+      "item": "thedalekmod:silicon",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:brickroundel",
+    "data": 1,
+    "count": 4
+  }
+}

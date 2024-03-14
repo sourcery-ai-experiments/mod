@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:gadget",
+  "pattern": [
+    " S ",
+    " K ",
+    " R "
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "K": {
+      "item": "thedalekmod:tardiskey"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:statremote"
+  }
+}

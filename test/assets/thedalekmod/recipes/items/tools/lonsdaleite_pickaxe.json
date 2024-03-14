@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tool",
+  "pattern": [
+    "LLL",
+    " T ",
+    " T "
+  ],
+  "key": {
+    "L": {
+      "item": "thedalekmod:lonsdaleite"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:lonsdaleite_pickaxe"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/grandfather_interior.png",
+  "cdnPath": "tardis/grandfather_interior",
+  "fileLocation": "INTERNAL",
+  "interiorName": "Grandfather Clock Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 46,
+    "y": 92,
+    "z": 23
+  },
+  "spawnRotation": 90.0
+}

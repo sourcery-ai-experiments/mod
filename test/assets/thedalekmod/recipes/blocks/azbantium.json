@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "OOO",
+    "OWO",
+    "OOO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "W": {
+      "item": "thedalekmod:whitepointstar"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:azbantium",
+    "count": 8
+  }
+}

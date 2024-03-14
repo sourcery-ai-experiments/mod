@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:tardis_controls",
+  "ingredients": [
+    {
+      "item": "thedalekmod:btecoppertardisswitchpanel"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:toyota_front_panel_left",
+    "data": 0
+  }
+}

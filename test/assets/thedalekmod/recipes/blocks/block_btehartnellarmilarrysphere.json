@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    " N ",
+    " B ",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:planks",
+      "data": 5
+    },
+    "N": {
+      "item": "thedalekmod:brassingot",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:btehartnellarmilarrysphere",
+    "data": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    "WCW",
+    "WCW",
+    "WCW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:wool",
+      "data": 2
+    },
+    "C": {
+      "item": "minecraft:concrete",
+      "data": 6
+    }
+  },
+  "result": {
+    "item": "thedalekmod:sb129_wall",
+    "count": 8
+  }
+}

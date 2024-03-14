@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "dm:food",
+	"pattern": [
+		"pPp",
+		"pPp",
+		" p "
+	],
+	"key": {
+		"P": {
+			"item": "minecraft:potato",
+			"data": 0
+		},
+		"p": {
+			"item": "minecraft:paper",
+			"data": 0
+		}
+	},
+	"result": {
+		"item": "thedalekmod:iFood",
+		"data": 4,
+		"count": 2
+	}
+}

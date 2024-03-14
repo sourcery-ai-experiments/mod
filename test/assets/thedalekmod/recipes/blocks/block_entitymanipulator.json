@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "GGG",
+    "GHG",
+    "GCG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:stained_glass",
+      "data": 12
+    },
+    "H": {
+      "item": "thedalekmod:btehologram",
+      "data": 0
+    },
+    "C": {
+      "item": "thedalekmod:circuit",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:btemobplinth",
+    "data": 0
+  }
+}

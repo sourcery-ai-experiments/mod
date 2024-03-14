@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:food",
+  "pattern": [
+    "  S",
+	" F ",
+	"S  "
+  ],
+  "key": {
+    "S": {
+		"item": "minecraft:sugar",
+		"data": 0
+	},
+
+	 "F": {
+		"item": "thedalekmod:fat",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:adipose_pill",
+	"data": 0
+  }
+}

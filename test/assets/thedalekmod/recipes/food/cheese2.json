@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:food",
+  "ingredients": [
+    {
+      "item": "thedalekmod:cheese_block"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:ifood",
+    "count": 9,
+    "data": 14
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:clothes",
+  "pattern": [
+  "WCW",
+  "WWW"
+  ],
+  "key": {
+    "W": {
+		"item": "minecraft:wool",
+		"data": 15
+	},
+    "C": {
+    "item": "minecraft:carpet",
+    "data": 15
+  }
+  },
+  "result": {
+    "item": "thedalekmod:drark",
+	"data": 0
+  }
+}

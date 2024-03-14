@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/tud_tardis.png",
+  "cdnPath": "tardis/tud_int",
+  "interiorName": "TUDs Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 10,
+    "y": 61,
+    "z": 21
+  },
+  "spawnRotation": 180.0
+}

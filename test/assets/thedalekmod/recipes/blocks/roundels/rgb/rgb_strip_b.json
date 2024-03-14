@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:rgbroundels",
+  "ingredients": [
+    {
+      "item": "thedalekmod:rgb_strip_a"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:rgb_strip_b"
+  }
+}

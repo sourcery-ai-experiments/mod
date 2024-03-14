@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:clothes",
+  "pattern": [
+  "DWD",
+  "WWW"
+  ],
+  "key": {
+    "W": {
+    "item": "minecraft:wool",
+    "data": 12
+  },
+    "D": {
+    "item": "minecraft:dye",
+    "data": 15
+  }
+  },
+  "result": {
+    "item": "thedalekmod:fur_Coat",
+	"data": 0
+  }
+}

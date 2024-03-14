@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis_controls",
+  "pattern": [
+    " Q ",
+    "CsC",
+    "SSS"
+  ],
+  "key": {
+    "Q": {
+      "item": "thedalekmod:sonic_crystal"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "s": {
+      "item": "minecraft:shield"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:force_field_control_panel"
+  }
+}

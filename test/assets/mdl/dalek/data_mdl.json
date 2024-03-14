@@ -1,0 +1,28 @@
+{
+   "textures":[
+      "tex",
+      "tex_2"
+   ],
+   "object_data":[
+      {
+         "name":"model_test",
+         "texture_index":0,
+         "xOffset":0.0,
+         "yOffset":0.0,
+         "zOffset":0.0,
+         "xTransform":0.0,
+         "yTransform":0.0,
+         "zTransform":0.0
+      },
+      {
+         "name":"model_test_alt",
+         "texture_index":1,
+         "xOffset":0.0,
+         "yOffset":0.0,
+         "zOffset":0.0,
+         "xTransform":0.0,
+         "yTransform":1.5,
+         "zTransform":0.0
+      }
+   ]
+}

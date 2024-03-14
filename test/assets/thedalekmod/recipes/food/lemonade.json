@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:food",
+  "ingredients": [
+    {
+      "item": "thedalekmod:ifood",
+      "data": 19
+    },
+    {
+      "type": "minecraft:item_nbt",
+      "item": "minecraft:potion",
+      "nbt": {
+        "Potion": "minecraft:water"
+      }
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:ifood",
+    "data": 18
+  }
+}

@@ -1,0 +1,30 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:food",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "minecraft:cooked_fish",
+		  "data": 0
+    },
+    {
+      "item": "minecraft:sugar",
+		  "data": 0
+    },
+    {
+      "item": "minecraft:egg",
+		  "data": 0
+    },
+    {
+      "item": "minecraft:milk_bucket",
+		  "data": 0
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:ifood",
+    "count": 5,
+    "data": 12
+  }
+}

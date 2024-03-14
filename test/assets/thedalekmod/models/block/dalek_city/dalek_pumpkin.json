@@ -1,0 +1,10 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "thedalekmod:blocks/dalek_city/dalek_pumpkin_side",
+        "bottom": "thedalekmod:blocks/dalek_city/dalek_pumpkin_top",
+        "top": "thedalekmod:blocks/dalek_city/dalek_pumpkin_top",
+        "side": "thedalekmod:blocks/dalek_city/dalek_pumpkin_side",
+        "front": "thedalekmod:blocks/dalek_city/dalek_pumpkin_face"
+    }
+}

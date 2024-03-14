@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:roundels",
+  "ingredients": [
+    {
+      "item": "thedalekmod:copper_roundel"
+    },
+    {
+      "item": "minecraft:chest"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:roundel_copper"
+  }
+}

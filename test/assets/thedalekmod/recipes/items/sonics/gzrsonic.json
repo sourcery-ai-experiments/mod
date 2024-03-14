@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:sonic",
+  "pattern": [
+    "BCB",
+    "Qcb",
+    " B "
+  ],
+  "key": {
+    "c": {
+      "item": "thedalekmod:circuit",
+      "data": 0
+    },
+    "B": {
+      "item": "thedalekmod:brassingot",
+      "data": 0
+    },
+    "b": {
+      "item": "minecraft:stone_button",
+      "data": 0
+    },
+    "C": {
+      "item": "thedalekmod:clockworkcog",
+      "data": 0
+    },
+    "Q": {
+		"item": "thedalekmod:sonic_crystal",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:gzr_sonic",
+    "data": 0
+  }
+}

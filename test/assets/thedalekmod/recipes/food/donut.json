@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "dm:food",
+	"pattern": [
+		"WSW",
+		"S S",
+		"WSW"
+	],
+	"key": {
+		"W": {
+			"item": "minecraft:wheat",
+			"data": 0
+		},
+		"S": {
+			"item": "minecraft:sugar",
+			"data": 0
+		}
+	},
+	"result": {
+		"item": "thedalekmod:ifood",
+		"count": 2,
+		"data": 8
+	}
+}

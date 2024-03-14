@@ -1,0 +1,92 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"1": "thedalekmod:blocks/fuelbank_full",
+		"particle": "thedalekmod:blocks/fuelbank_full"
+	},
+	"elements": [
+		{
+			"name": "Base",
+			"from": [0, 0, 0],
+			"to": [16, 8, 16],
+			"faces": {
+				"north": {"uv": [2, 2, 4, 3], "texture": "#1"},
+				"east": {"uv": [0, 2, 2, 3], "texture": "#1"},
+				"south": {"uv": [6, 2, 8, 3], "texture": "#1"},
+				"west": {"uv": [4, 2, 6, 3], "texture": "#1"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#1"},
+				"down": {"uv": [6, 0, 4, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Roof",
+			"from": [0, 21, 0],
+			"to": [16, 23, 16],
+			"faces": {
+				"north": {"uv": [7, 7, 9, 7.25], "texture": "#1"},
+				"east": {"uv": [5, 7, 7, 7.25], "texture": "#1"},
+				"south": {"uv": [11, 7, 13, 7.25], "texture": "#1"},
+				"west": {"uv": [9, 7, 11, 7.25], "texture": "#1"},
+				"up": {"uv": [9, 7, 7, 5], "texture": "#1"},
+				"down": {"uv": [11, 5, 9, 7], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Center",
+			"from": [3, 8, 3],
+			"to": [13, 24, 13],
+			"faces": {
+				"north": {"uv": [1.25, 7.625, 2.5, 9.625], "texture": "#1"},
+				"east": {"uv": [0, 7.625, 1.25, 9.625], "texture": "#1"},
+				"south": {"uv": [3.75, 7.625, 5, 9.625], "texture": "#1"},
+				"west": {"uv": [2.5, 7.625, 3.75, 9.625], "texture": "#1"},
+				"up": {"uv": [2.5, 7.625, 1.25, 6.375], "texture": "#1"},
+				"down": {"uv": [3.75, 6.375, 2.5, 7.625], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Beams",
+			"from": [1, 8, 1],
+			"to": [15, 21, 15],
+			"faces": {
+				"north": {"uv": [1.75, 4.75, 3.5, 6.375], "texture": "#1"},
+				"east": {"uv": [0, 4.75, 1.75, 6.375], "texture": "#1"},
+				"south": {"uv": [5.25, 4.75, 7, 6.375], "texture": "#1"},
+				"west": {"uv": [3.5, 4.75, 5.25, 6.375], "texture": "#1"},
+				"up": {"uv": [3.5, 4.75, 1.75, 3], "texture": "#1"},
+				"down": {"uv": [5.25, 3, 3.5, 4.75], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"scale": [0.42, 0.42, 0.42]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.42, 0.42, 0.42]
+		},
+		"ground": {
+			"scale": [0.38, 0.38, 0.38]
+		},
+		"gui": {
+			"rotation": [45, 45, 0],
+			"translation": [0, -0.75, 0],
+			"scale": [0.46, 0.46, 0.46]
+		},
+		"head": {
+			"translation": [0, 12, 0],
+			"scale": [0.72, 0.72, 0.72]
+		},
+		"fixed": {
+			"translation": [0, -2, 0],
+			"scale": [0.61, 0.61, 0.61]
+		}
+	}
+}

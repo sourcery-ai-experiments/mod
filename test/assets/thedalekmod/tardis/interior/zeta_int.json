@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/zeta_int.png",
+  "cdnPath": "tardis/zeta_int",
+  "interiorName": "Zeta Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 14,
+    "y": 70,
+    "z": 16
+  },
+  "spawnRotation": 180.0
+}

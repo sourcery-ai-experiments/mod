@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:sonic",
+  "pattern": [
+    " Q ",
+    "CSB",
+    " S "
+  ],
+  "key": {
+    "C": {
+      "item": "thedalekmod:circuit",
+      "data": 0
+    },
+    "S": [
+      {
+        "type": "forge:ore_dict",
+        "ore": "ingotTitanium"
+      },
+      {
+        "type": "forge:ore_dict",
+        "ore": "ingotSteel"
+      },
+      {
+        "item": "thedalekmod:doctorspoon"
+      }
+    ],
+    "B": {
+      "item": "minecraft:stone_button",
+      "data": 0
+    },
+    "Q": {
+      "item": "thedalekmod:crystaline",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:sonicscrewdriver_13",
+    "data": 0
+  }
+}

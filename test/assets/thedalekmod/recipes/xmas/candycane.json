@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "C",
+    "c"
+  ],
+  "key": {
+    "C": {
+      "item": "thedalekmod:candycane",
+      "data": 8
+    },
+    "c": {
+      "item": "thedalekmod:candycane",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:candy_cane",
+    "data": 0
+  }
+}

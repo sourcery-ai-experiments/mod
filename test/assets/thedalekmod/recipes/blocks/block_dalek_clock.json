@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    " D ",
+    "DCD",
+    "NNN"
+  ],
+  "key": {
+    "D": {
+      "item": "thedalekmod:dalekaniumingot"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "N": {
+      "item": "minecraft:stone_slab",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:dalek_clock"
+  }
+}

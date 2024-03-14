@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "thedalekmod:blocks/dim_blocks/skaro/petrified_planks",
+        "top": "thedalekmod:blocks/dim_blocks/skaro/petrified_planks",
+        "side": "thedalekmod:blocks/dim_blocks/skaro/petrified_planks"
+    }
+}

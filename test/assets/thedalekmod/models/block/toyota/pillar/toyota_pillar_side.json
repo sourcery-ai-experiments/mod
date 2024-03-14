@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_side",
+    "textures": {
+        "wall": "thedalekmod:blocks/toyota/toyota_pillar"
+    }
+}

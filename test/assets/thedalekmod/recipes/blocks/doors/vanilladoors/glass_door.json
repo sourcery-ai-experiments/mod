@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:decoration",
+  "pattern": [
+    "SS ",
+    "SS ",
+    "SS "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:glass"
+    }
+   },
+  "result": {
+    "item": "thedalekmod:glass_door",
+    "count": 3,
+    "data": 0
+  }
+}

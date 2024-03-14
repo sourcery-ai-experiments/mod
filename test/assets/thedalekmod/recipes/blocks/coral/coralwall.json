@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "GGG",
+    "GRG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "thedalekmod:coraltardis_block",
+      "data": 7
+    },
+    "R": {
+      "item": "thedalekmod:crystaline",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:coraltardis_block",
+    "data": 2,
+    "count": 9
+  }
+}

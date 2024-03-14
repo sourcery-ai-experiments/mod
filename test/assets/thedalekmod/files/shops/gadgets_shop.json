@@ -1,0 +1,50 @@
+{
+  "shopName": "Gadgets shop!",
+  "items": [
+    {
+      "itemPrice": 50,
+      "itemAmount": 1,
+      "itemMetadata": 0,
+      "itemIdentifier": "thedalekmod:K9_head",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 50,
+      "itemAmount": 1,
+      "itemMetadata": 0,
+      "itemIdentifier": "thedalekmod:K9_body",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 50,
+      "itemAmount": 1,
+      "itemMetadata": 0,
+      "itemIdentifier": "thedalekmod:K9_tail",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 70,
+      "itemAmount": 1,
+      "itemMetadata": 0,
+      "itemIdentifier": "thedalekmod:K9_regenunit",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    },
+    {
+      "itemPrice": 24,
+      "itemAmount": 1,
+      "itemMetadata": 1,
+      "itemIdentifier": "thedalekmod:circuit",
+      "itemNBT": {
+        "tagMap": {}
+      }
+    }
+  ]
+}

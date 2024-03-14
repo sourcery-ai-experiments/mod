@@ -1,0 +1,34 @@
+{
+   "variants":{
+      "direction=n":{
+         "model":"thedalekmod:the_wire_b"
+      },
+      "direction=ne":{
+         "model":"thedalekmod:the_wire_b_rot",
+         "y": 90
+      },
+      "direction=e":{
+         "model":"thedalekmod:the_wire_b",
+         "y": 90
+      },
+      "direction=se":{
+         "model":"thedalekmod:the_wire_b_rot",
+         "y": 180
+      },
+      "direction=s":{
+         "model":"thedalekmod:the_wire_b",
+         "y": 180
+      },
+      "direction=sw":{
+         "model":"thedalekmod:the_wire_b_rot",
+         "y": 270
+      },
+      "direction=w":{
+         "model":"thedalekmod:the_wire_b",
+         "y": 270
+      },
+      "direction=nw":{
+         "model":"thedalekmod:the_wire_b_rot"
+      }
+   }
+}

@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/spaceblock.png",
+  "cdnPath": "tardis/spaceblock",
+  "interiorName": "Etho Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 28,
+    "y": 65,
+    "z": 18
+  },
+  "spawnRotation": 90.0
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:christmas",
+  "pattern": [
+  "bbb",
+	"B B",
+	"B B"
+  ],
+  "key": {
+    "B": {
+		  "item": "minecraft:brick_block",
+		  "data": 0
+	},
+    "b": {
+      "item": "minecraft:stone_slab",
+      "data": 4
+  }
+  },
+  "result": {
+    "item": "thedalekmod:chimney",
+	"data": 0
+  }
+}

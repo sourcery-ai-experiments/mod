@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/gizmo_int.png",
+  "cdnPath": "tardis/gizmo_int",
+  "interiorName": "Gizmo Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 13,
+    "y": 66,
+    "z": 9
+  },
+  "spawnRotation": 0.0
+}

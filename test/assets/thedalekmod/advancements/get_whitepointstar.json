@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:whitepointstar"
+        },
+        "title": {
+            "text": "The Rarest Diamond",
+            "color":"white"
+        },
+        "description": {
+            "text": "Mine a White-Point star with a Lonsdaleite Pickaxe"
+        }
+    },
+    "parent": "thedalekmod:dimension_change_gallifrey",
+    "criteria": {
+          "get_star": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:whitepointstar"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 20
+  }
+}

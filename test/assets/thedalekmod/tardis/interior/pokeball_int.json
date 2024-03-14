@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/pokeball_int.png",
+  "cdnPath": "tardis/pokeball_int",
+  "interiorName": "Pokeball Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 4,
+    "y": 67,
+    "z": 14
+  },
+  "spawnRotation": -90.0
+}

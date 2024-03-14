@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:ore",
+  "ingredients": [
+    {
+      "item": "thedalekmod:dalekaniumingot"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:dlknug",
+    "count": 9
+  }
+}

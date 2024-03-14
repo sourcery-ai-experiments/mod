@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "GGG",
+    "CCC",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "thedalekmod:granite"
+    },
+    "C": {
+      "item": "minecraft:concrete",
+      "data": 2
+    }
+  },
+  "result": {
+    "item": "thedalekmod:epsilonoutline",
+    "count": 6
+  }
+}

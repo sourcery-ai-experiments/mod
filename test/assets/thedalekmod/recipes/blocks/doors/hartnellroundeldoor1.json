@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardisdoors",
+  "pattern": [
+    "RR",
+    "RR",
+    "RR"
+  ],
+  "key": {
+    "R": {
+      "item": "thedalekmod:hartnellroundel1",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:btehartnelldoor2",
+    "data": 0
+  }
+}

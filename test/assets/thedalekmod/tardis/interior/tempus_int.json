@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/tempus_int.png",
+  "cdnPath": "tardis/tempus_int",
+  "interiorName": "Tempus Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 24,
+    "y": 78,
+    "z": 44
+  },
+  "spawnRotation": -90.0
+}

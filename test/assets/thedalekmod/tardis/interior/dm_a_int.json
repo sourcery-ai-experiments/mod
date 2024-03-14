@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/dm_a_int.png",
+  "cdnPath": "tardis/dm_a_int",
+  "fileLocation": "INTERNAL",
+  "interiorName": "2013 Dalek Mod A Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 21,
+    "y": 79,
+    "z": 36
+  },
+  "spawnRotation": -90.0
+}

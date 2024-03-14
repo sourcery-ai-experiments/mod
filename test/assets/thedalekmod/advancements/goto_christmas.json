@@ -1,0 +1,32 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:iSantaHat"
+        },
+        "title": {
+            "translate": "Merry Christmas!"
+        },
+        "description": {
+            "translate": "Go to the village of Christmas"
+        }
+    },
+    "parent": "thedalekmod:dimension_change_trenzalore",
+    "criteria": {
+        "enter_tardis": {
+      "trigger": "minecraft:location",
+      "conditions": {
+          "biome": "thedalekmod:trenzaloreflats",
+          "position": {
+            "x": {
+              "min": -130,
+              "max": -10
+            },
+            "z": {
+              "min": 310,
+              "max": 410
+            }
+          }
+      }
+    }
+    }
+}

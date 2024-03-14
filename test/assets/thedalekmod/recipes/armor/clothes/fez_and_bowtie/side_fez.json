@@ -1,0 +1,15 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:clothes",
+  "ingredients": [
+    {
+      "item": "thedalekmod:fez",
+		  "data": 0
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:fez_alt",
+    "data": 0,
+    "count": 1
+  }
+}

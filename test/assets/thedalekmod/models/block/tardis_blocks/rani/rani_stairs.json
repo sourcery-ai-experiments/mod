@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "thedalekmod:blocks/tardis_blocks/rani/rani_wall",
+        "top": "thedalekmod:blocks/tardis_blocks/rani/rani_wall",
+        "side": "thedalekmod:blocks/tardis_blocks/rani/rani_wall"
+    }
+}

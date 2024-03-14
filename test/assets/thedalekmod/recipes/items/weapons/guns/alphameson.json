@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:gun",
+  "pattern": [
+    "QCT",
+    "SBT",
+    "  T"
+  ],
+  "key": {
+    "Q": {
+      "item": "thedalekmod:sonic_crystal"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "S": {
+      "item": "thedalekmod:solarcell"
+    },
+    "B": {
+      "item": "minecraft:stone_button"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:gun_alphameson"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:gadget",
+  "pattern": [
+    " G ",
+	"GCG",
+	" G "
+  ],
+  "key": {
+    "G": {
+		"item": "minecraft:gold_ingot",
+		"data": 0
+	},
+    "C": {
+      "item": "thedalekmod:circuit",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:bio_damper",
+	"data": 0
+  }
+}

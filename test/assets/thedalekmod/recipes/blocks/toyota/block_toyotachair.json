@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:decoration",
+  "pattern": [
+  "C  ",
+	"CCC",
+	"CC "
+  ],
+  "key": {
+    "C": {
+		"item": "minecraft:concrete",
+		"data": 7
+	}
+  },
+  "result": {
+    "item": "thedalekmod:toyotaChair",
+	"data": 0
+  }
+}

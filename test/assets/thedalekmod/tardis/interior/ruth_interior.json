@@ -1,0 +1,11 @@
+{
+  "imageIconPath": "tardis/interior/img/ruth_interior.png",
+  "cdnPath": "tardis/ruth_interior",
+  "interiorName": "Ruth Doctor\u0027s Tardis Interior",
+  "playerSpawnOffset": {
+    "x": 26,
+    "y": 67,
+    "z": 17
+  },
+  "spawnRotation": 90.0
+}

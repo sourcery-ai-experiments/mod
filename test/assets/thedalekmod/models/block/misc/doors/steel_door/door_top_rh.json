@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top_rh",
+    "textures": {
+        "bottom": "thedalekmod:blocks/misc/doors/steel_door/door_lower",
+        "top": "thedalekmod:blocks/misc/doors/steel_door/door_upper"
+    }
+}

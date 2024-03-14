@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "thedalekmod:blocks/toyota/spin/a/BlankPlat",
+        "bottom": "thedalekmod:blocks/toyota/spin/a/Spin_5_Top",
+        "top": "thedalekmod:blocks/toyota/spin/a/Spin_5_Top",
+        "side": "thedalekmod:blocks/toyota/spin/a/BlankPlat"
+    }
+}

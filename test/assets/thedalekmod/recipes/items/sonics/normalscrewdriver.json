@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:sonic",
+  "pattern": [
+    " T ",
+    "QTB",
+    " W "
+  ],
+  "key": {
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "B": {
+      "item": "minecraft:wooden_button"
+    },
+    "Q": {
+      "item": "thedalekmod:sonic_crystal"
+    },
+    "W": {
+      "item": "minecraft:planks",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "thedalekmod:screwdriver"
+  }
+}

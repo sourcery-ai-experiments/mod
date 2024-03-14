@@ -1,0 +1,6 @@
+{
+  "parent": "thedalekmod:block/models/ModelRoundel_B",
+  "textures": {
+    "texture": "thedalekmod:blocks/tardis_blocks/roundels/a/round_thing_8"
+  }
+}

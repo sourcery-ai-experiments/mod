@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:decoration",
+  "pattern": [
+    " S ",
+    "SWS"
+  ],
+  "key": {
+    "S": {
+        "item": "minecraft:glass",
+        "data": 0
+    },
+    "W": {
+        "item": "thedalekmod:blue_quartz_item",
+        "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:snow_globe",
+    "data": 0
+  }
+}

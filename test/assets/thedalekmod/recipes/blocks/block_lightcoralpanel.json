@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:tardis_controls",
+  "ingredients": [
+    {
+      "item": "thedalekmod:toyota_front_panel_left"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:btecoralpanel3",
+    "data": 0
+  }
+}

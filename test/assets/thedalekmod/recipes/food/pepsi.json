@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ISI",
+    "IBI",
+    "ISI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot",
+      "data": 0
+    },
+    "S": {
+      "item": "minecraft:sugar",
+      "data": 0
+    },
+    "B": [
+      {
+        "item": "minecraft:dye",
+        "data": 0
+      },
+      {
+        "type": "minecraft:item_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:swiftness"
+        }
+      },
+      {
+        "type": "minecraft:item_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:long_swiftness"
+        }
+      },
+      {
+        "type": "minecraft:item_nbt",
+        "item": "minecraft:potion",
+        "nbt": {
+          "Potion": "minecraft:strong_swiftness"
+        }
+      }
+    ]
+  },
+  "result": {
+    "item": "thedalekmod:iFood",
+    "data": 7,
+    "count": 6
+  }
+}

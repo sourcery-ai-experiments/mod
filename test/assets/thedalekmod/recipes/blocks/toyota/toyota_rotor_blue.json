@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:decoration",
+  "pattern": [
+    "P",
+    "G",
+    "P"
+  ],
+  "key": {
+    "P": {
+      "item": "thedalekmod:spin_a",
+      "data": 5
+    },
+    "G": {
+      "item": "minecraft:stained_glass",
+      "data": 3
+      }
+   },
+  "result": {
+    "item": "thedalekmod:btetoyotarotorblue",
+    "data": 0
+  }
+}

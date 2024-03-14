@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "normal": {
+      "model": "thedalekmod:tardis_blocks/roundels/c/round_thing_11"
+    },
+    "facing=north": {
+      "model": "thedalekmod:tardis_blocks/roundels/c/round_thing_11"
+    },
+    "facing=south": {
+      "model": "thedalekmod:tardis_blocks/roundels/c/round_thing_11"
+    },
+    "facing=west": {
+      "model": "thedalekmod:tardis_blocks/roundels/c/round_thing_11"
+    },
+    "facing=east": {
+      "model": "thedalekmod:tardis_blocks/roundels/c/round_thing_11"
+    }
+  }
+}

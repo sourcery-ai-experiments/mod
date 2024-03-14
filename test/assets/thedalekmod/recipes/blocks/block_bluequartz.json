@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "QQ",
+    "QQ"
+  ],
+  "key": {
+    "Q": {
+      "item": "thedalekmod:blue_quartz_item"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:blue_quartz",
+    "count": 1
+  }
+}

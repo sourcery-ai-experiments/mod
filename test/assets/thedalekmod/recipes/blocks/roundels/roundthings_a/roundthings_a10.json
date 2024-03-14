@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    " O ",
+    "OSO",
+    " O "
+  ],
+      "key": {
+      "S": {
+      "item": "thedalekmod:silicon",
+      "data": 0
+    },
+      "O": {
+      "item": "thedalekmod:dalekaniumingot",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:roundthings_a",
+    "data": 10,
+    "count": 8
+  }
+}

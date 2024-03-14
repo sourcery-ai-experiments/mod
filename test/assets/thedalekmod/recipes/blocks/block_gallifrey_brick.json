@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "GG",
+    "GG"
+  ],
+  "key": {
+    "G": {
+      "item": "thedalekmod:gallifreystone"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:gallifrey_brick",
+    "count": 4
+  }
+}

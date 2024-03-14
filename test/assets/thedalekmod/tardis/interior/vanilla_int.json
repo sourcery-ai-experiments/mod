@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/vanilla_int.png",
+  "cdnPath": "tardis/vanilla_int",
+  "interiorName": "Vanilla Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 33,
+    "y": 66,
+    "z": 21
+  },
+  "spawnRotation": 90.0
+}

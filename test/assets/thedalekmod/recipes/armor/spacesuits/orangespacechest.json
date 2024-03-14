@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:spacesuit",
+  "pattern": [
+    "B B",
+    "OOO",
+    "OOO"
+    ],
+    "key": {
+      "B": {
+      "item": "minecraft:wool",
+      "data": 15
+    },
+      "O": {
+      "item": "minecraft:wool",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "thedalekmod:orangeSuit_1",
+	"data": 0
+  }
+}

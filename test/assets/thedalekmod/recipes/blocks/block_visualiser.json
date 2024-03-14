@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:decoration",
+  "pattern": [
+    "SCS",
+    "CTC",
+    "SCS"
+  ],
+  "key": {
+    "T": {
+      "item": "thedalekmod:whitepointstar"
+    },
+        "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    }
+   },
+  "result": {
+    "item": "thedalekmod:visualiser",
+    "data": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "thedalekmod:blocks/toyota/spin/a/SpinDivide",
+        "bottom": "thedalekmod:blocks/toyota/ToyotaPlatformNoLightTop",
+        "top": "thedalekmod:blocks/toyota/ToyotaRoof",
+        "side": "thedalekmod:blocks/toyota/spin/a/SpinDivide"
+    }
+}

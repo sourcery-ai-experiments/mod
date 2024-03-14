@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:christmas",
+  "pattern": [
+  "DDS",
+	"DSD",
+	"SDS"
+  ],
+  "key": {
+    "D": {
+		  "item": "minecraft:dye",
+		  "data": 11
+	},
+    "S": {
+      "item": "minecraft:sugar",
+      "data": 0
+  }
+  },
+  "result": {
+    "item": "thedalekmod:candycane",
+	"data": 6
+  }
+}

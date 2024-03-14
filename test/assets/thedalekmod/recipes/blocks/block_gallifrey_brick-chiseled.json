@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "S",
+    "S"
+  ],
+  "key": {
+    "S": {
+      "item": "thedalekmod:gallifrey_brick_slab",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:gallifrey_chiseled"
+  }
+}

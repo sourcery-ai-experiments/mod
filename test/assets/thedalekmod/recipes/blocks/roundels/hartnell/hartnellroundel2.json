@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    "O O",
+    " I ",
+    "O O"
+  ],
+  "key": {
+    "O": {
+      "item": "thedalekmod:hartnellwall",
+      "data": 0
+    },
+    "I": {
+      "item": "minecraft:glass",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:hartnellroundel2",
+    "data": 0,
+    "count": 6
+  }
+}

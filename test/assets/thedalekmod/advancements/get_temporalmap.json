@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:temporal_map"
+        },
+        "title": {
+            "text": "Ruin Scavenger",
+            "color":"dark_aqua"
+        },
+        "description": {
+            "text": "Find a Temporal Map"
+        }
+    },
+    "parent": "thedalekmod:dimension_change_mondas",
+    "criteria": {
+          "get_star": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:temporal_map"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 10
+  }
+}

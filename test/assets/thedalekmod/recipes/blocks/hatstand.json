@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "sSs",
+    " F ",
+    " F "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:wooden_slab",
+      "data": 1
+    },
+    "s": {
+      "item": "minecraft:stick",
+      "data": 0
+    },
+    "F": {
+      "item": "minecraft:spruce_fence",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:hatstand",
+    "data": 0
+  }
+}

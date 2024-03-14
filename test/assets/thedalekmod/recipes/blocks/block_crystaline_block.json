@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "thedalekmod:crystaline"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:crystaline_block"
+  }
+}

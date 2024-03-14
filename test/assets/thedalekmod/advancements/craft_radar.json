@@ -1,0 +1,32 @@
+{
+    "display": {
+        "description": {
+            "text": "Craft a Radar",
+            "color": "gray"
+        },
+        "title": {
+            "text": "Invasion Alarm",
+            "color": "gold"
+        },
+        "icon": {
+            "item": "thedalekmod:radar",
+            "data": 0
+        }
+    },
+    "criteria": {
+        "get_radar": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "thedalekmod:radar"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "experience": 30
+    },
+    "parent": "thedalekmod:kill_dalek"
+}

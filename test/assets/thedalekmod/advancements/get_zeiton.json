@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:zeiton7crystal"
+        },
+        "title": {
+            "text": "TARDIS Fuel",
+            "color":"dark_aqua"
+        },
+        "description": {
+            "text": "Mine Zeiton-7 ore"
+        }
+    },
+    "parent": "thedalekmod:thedalekmod",
+    "criteria": {
+          "get_star": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:zeiton7crystal"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 10
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:clothes",
+  "pattern": [
+  "GPG",
+	"PPP",
+	"PIP"
+  ],
+  "key": {
+    "P": {
+		"item": "thedalekmod:plasticBlock",
+		"data": 15
+	},
+  "G": {
+  "item": "minecraft:stained_glass_pane",
+  "data": 7
+ },
+   "I": {
+   "item": "minecraft:iron_bars",
+   "data": 0
+  }
+  },
+  "result": {
+    "item": "thedalekmod:GasMask",
+	"data": 0
+  }
+}

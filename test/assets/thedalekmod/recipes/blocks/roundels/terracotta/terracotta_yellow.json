@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    " O ",
+    "OIO",
+    " O "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:stained_hardened_clay",
+      "data": 4
+    },
+    "I": {
+      "item": "minecraft:glowstone_dust",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:10docwall",
+    "data": 0,
+    "count": 4
+  }
+}

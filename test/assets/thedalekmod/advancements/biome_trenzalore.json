@@ -1,0 +1,55 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:granite"
+        },
+        "title": {
+            "translate": "Trenzalore Travels"
+        },
+        "description": {
+            "translate": "Cross all Trenzalore biomes"
+        }
+    },
+    "parent": "thedalekmod:goto_christmas",
+    "criteria": {
+        "biome1": {
+       "trigger": "minecraft:location",
+      "conditions": {     
+          "biome": "thedalekmod:trenzalore"
+        }
+      },
+              "biome2": {
+       "trigger": "minecraft:location",
+      "conditions": {     
+          "biome": "thedalekmod:trenzaloreplains"
+        }
+      },
+              "biome3": {
+       "trigger": "minecraft:location",
+      "conditions": {     
+          "biome": "thedalekmod:trenzaloreflats"
+        }
+      },
+              "biome4": {
+       "trigger": "minecraft:location",
+      "conditions": {     
+          "biome": "thedalekmod:trenzaloreforest"
+        }
+      },
+              "biome5": {
+       "trigger": "minecraft:location",
+      "conditions": {     
+          "biome": "thedalekmod:trenzaloregrave"
+        }
+      },
+              "biome6": {
+       "trigger": "minecraft:location",
+      "conditions": {     
+          "biome": "thedalekmod:trenzalorecrater"
+        }
+      }
+    },
+    "rewards": {
+    "experience": 100
+  }
+}

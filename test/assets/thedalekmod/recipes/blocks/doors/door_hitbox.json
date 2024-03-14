@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    " G ",
+    "GDG",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "D": [
+      {
+        "item": "minecraft:wooden_door"
+      },
+      {
+        "item": "minecraft:jungle_door"
+      },
+      {
+        "item": "minecraft:spruce_door"
+      },
+      {
+        "item": "minecraft:acacia_door"
+      },
+      {
+        "item": "minecraft:dark_oak_door"
+      },
+      {
+        "item": "minecraft:birch_door"
+      }
+    ]
+  },
+  "result": {
+    "item": "thedalekmod:tardisdoorhitbox",
+    "count": 4
+  }
+}

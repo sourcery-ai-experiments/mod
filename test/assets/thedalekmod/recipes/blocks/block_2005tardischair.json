@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:tardis_blocks",
+  "pattern": [
+  " C ",
+	"CCC",
+	" I "
+  ],
+  "key": {
+    "I": {
+		"item": "minecraft:iron_ingot",
+		"data": 0
+	},
+    "C": {
+		"item": "thedalekmod:CoralTardis_Block",
+		"data": 7
+	}
+  },
+  "result": {
+    "item": "thedalekmod:2005TardisChair",
+	"data": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "display": {
+    "description": {
+      "text": "Get a full set of Steel Armor",
+      "color": "gray"
+    },
+    "title": {
+        "text":"Full Conversion",
+        "color":"blue"
+        },
+    "icon": {
+      "item": "thedalekmod:steelarmor_0"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "suit1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:steelarmor_0"
+          }
+        ]
+      }
+    },
+        "suit2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:steelarmor_1"
+          }
+        ]
+      }
+    },
+        "suit3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:steelarmor_2"
+          }
+        ]
+      }
+    },
+        "suit4": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:steelarmor_3"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 30
+  },
+    "parent": "thedalekmod:craft_steelblock"
+}

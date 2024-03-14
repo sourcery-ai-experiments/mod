@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:tardis_levers",
+  "ingredients": [
+    {
+      "item": "thedalekmod:dematlever"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:toyota_gold_lever",
+    "data": 0
+  }
+}

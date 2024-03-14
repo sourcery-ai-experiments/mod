@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:gadget",
+  "pattern": [
+    "QTD",
+    " CT",
+    "  S"
+  ],
+  "key": {
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "Q": {
+      "item": "thedalekmod:sonic_crystal"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:sonicblaster"
+  }
+}

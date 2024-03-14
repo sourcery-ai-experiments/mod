@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/bill_ted_int.png",
+  "cdnPath": "tardis/bill_ted_int",
+  "interiorName": "Bill \u0026 Ted\u0027s Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 14,
+    "y": 63,
+    "z": 10
+  },
+  "spawnRotation": 90.0
+}

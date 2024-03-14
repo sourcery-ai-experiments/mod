@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SWS",
+    "ese",
+    "SWS"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:nether_star"
+    },
+    "S": {
+      "item": "thedalekmod:steelblock"
+    },
+    "W": {
+      "item": "thedalekmod:whitepointstar"
+    },
+    "e": {
+      "item": "thedalekmod:elixiroflife"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:untempered_schism"
+  }
+}

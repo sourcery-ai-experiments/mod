@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    " O ",
+    "OSO",
+    " O "
+  ],
+      "key": {
+      "S": {
+      "item": "thedalekmod:vortis_crystal",
+      "data": 0
+    },
+      "O": {
+      "item": "thedalekmod:cysteelingot",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:roundel_ruth",
+    "data": 3,
+    "count": 4
+  }
+}

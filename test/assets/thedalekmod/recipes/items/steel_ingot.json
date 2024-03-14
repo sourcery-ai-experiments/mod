@@ -1,0 +1,14 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:ore",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "blockSteel"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:steelingot",
+    "count": 9
+  }
+}

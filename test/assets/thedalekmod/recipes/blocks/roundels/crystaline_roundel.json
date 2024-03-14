@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    " T ",
+    "TCT",
+    " T "
+  ],
+  "key": {
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "C": {
+      "item": "thedalekmod:sonic_crystal_ingot"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:crystaline_roundel",
+    "count": 4
+  }
+}

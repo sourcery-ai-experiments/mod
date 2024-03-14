@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/dm_default.png",
+  "cdnPath": "tardis/dm_default",
+  "interiorName": "Default Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 12,
+    "y": 64,
+    "z": 6
+  },
+  "spawnRotation": 0.0
+}

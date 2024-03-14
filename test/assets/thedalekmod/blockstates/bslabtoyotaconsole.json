@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model":"thedalekmod:toyota/slabs/toyota_console_slab_bottom" },
+        "half=top,variant=default": { "model":"thedalekmod:toyota/slabs/toyota_console_slab_top" }
+    }
+}

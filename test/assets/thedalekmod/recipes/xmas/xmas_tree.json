@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:christmas",
+  "pattern": [
+  " G ",
+	"BLB",
+	"LSL"
+  ],
+  "key": {
+    "G": {
+		  "item": "minecraft:gold_ingot",
+		  "data": 0
+	},
+    "L": {
+      "item": "minecraft:leaves",
+      "data": 1
+  },
+    "S": {
+      "item": "minecraft:sapling",
+      "data": 1
+  },
+    "B": {
+      "item": "thedalekmod:ibauble",
+      "data": 0
+  }
+  },
+  "result": {
+    "item": "thedalekmod:christmas_tree",
+	"data": 0
+  }
+}

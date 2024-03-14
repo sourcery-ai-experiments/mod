@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:transport",
+  "pattern": [
+    " SS",
+    "GcC",
+    "WCW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:concrete",
+      "data": 15
+    },
+    "G": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 0
+    },
+    "C": {
+      "item": "minecraft:concrete",
+      "data": 13
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "c": {
+      "item": "thedalekmod:engine"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:unit_jeep"
+  }
+}

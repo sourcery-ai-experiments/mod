@@ -1,0 +1,49 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:tea"
+        },
+        "title": {
+            "translate": "Would it make a difference?"
+        },
+        "description": {
+            "translate": "Get all three alien teas"
+        }
+    },
+    "parent": "thedalekmod:dimension_change_varos",
+    "criteria": {
+    "sonic1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:tea"
+          }
+        ]
+      }
+    },
+    "sonic2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:tea_mondas"
+          }
+        ]
+      }
+    },
+    "sonic3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:tea_vortis"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 200
+  }
+}

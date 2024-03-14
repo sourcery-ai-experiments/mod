@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:armor",
+  "pattern": [
+	"D D",
+  "DDD",
+  "DDD"
+  ],
+  "key": {
+    "D": {
+    "item": "thedalekmod:dalekaniumIngot",
+    "data": 0
+  }
+  },
+  "result": {
+    "item": "thedalekmod:dalekaniumArmor_1",
+	"data": 0
+  }
+}

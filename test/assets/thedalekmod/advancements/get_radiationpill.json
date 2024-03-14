@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:radiation_pill"
+        },
+        "title": {
+            "text": "Radiation Gloves",
+            "color":"red"
+        },
+        "description": {
+            "text": "Steal radiation pills from the Judoon"
+        }
+    },
+    "parent": "thedalekmod:dimension_change_moon",
+    "criteria": {
+          "get_star": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:radiation_pill"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 10
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tool",
+  "pattern": [
+    "DND",
+    "DDD",
+    " D "
+  ],
+  "key": {
+    "D": {
+      "item": "thedalekmod:dalekaniumingot",
+      "data": 0
+    },
+    "N": {
+      "item": "thedalekmod:dlknug",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:dalekanium_shield",
+    "data": 0
+  }
+}

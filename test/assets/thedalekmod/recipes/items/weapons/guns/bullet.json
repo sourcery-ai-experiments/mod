@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:ore",
+  "ingredients": [
+    {
+      "item": "thedalekmod:brassingot"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:bullet",
+    "count": 8
+  }
+}

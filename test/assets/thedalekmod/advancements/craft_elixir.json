@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:elixiroflife"
+        },
+        "title": {
+            "text": "Regeneration!",
+            "color":"yellow"
+        },
+        "description": {
+            "text": "Drink an Elixir of Life"
+        }
+    },
+    "parent": "thedalekmod:get_whitepointstar",
+    "criteria": {
+          "get_star": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:elixiroflife"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 20
+  }
+}

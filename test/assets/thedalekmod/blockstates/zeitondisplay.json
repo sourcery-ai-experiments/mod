@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": { "model": "thedalekmod:misc/zeitondisplay" },
+    "facing=up":  { "model": "thedalekmod:misc/zeitondisplay" },
+    "facing=east":  { "model": "thedalekmod:misc/zeitondisplay", "y": 270 },
+    "facing=south":  { "model": "thedalekmod:misc/zeitondisplay"},
+    "facing=west":  { "model": "thedalekmod:misc/zeitondisplay", "y": 90 },
+    "facing=north":  { "model": "thedalekmod:misc/zeitondisplay", "y": 180 }
+  }
+}

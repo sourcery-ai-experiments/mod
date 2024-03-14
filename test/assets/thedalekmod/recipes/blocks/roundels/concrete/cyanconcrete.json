@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    " O ",
+    "OIO",
+    " O "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:concrete",
+      "data": 9
+    },
+    "I": {
+      "item": "thedalekmod:plasticchunk",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:roundelconcrete",
+    "data": 0,
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "thedalekmod:blocks/dim_blocks/vortis/crystaline_block_dead_bottom",
+        "top": "thedalekmod:blocks/dim_blocks/vortis/crystaline_block_dead_top",
+        "side": "thedalekmod:blocks/dim_blocks/vortis/crystaline_block_dead_side"
+    }
+}

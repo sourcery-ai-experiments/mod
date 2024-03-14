@@ -1,0 +1,1 @@
+{"parent":"block/cube_all","textures":{"all":"thedalekmod:items/mob/MobPlinth"},"display":{"thirdperson":{"rotation":[-90,0,0],"translation":[0,1,-3],"scale":[0.55,0.55,0.55]},"firstperson":{"rotation":[0,0,0],"translation":[0,0,0],"scale":[1,1,1]}}}

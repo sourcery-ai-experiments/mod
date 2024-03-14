@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:tardis_levers",
+  "ingredients": [
+    {
+      "item": "thedalekmod:crystaline_handbrake"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:dematlever",
+    "data": 0
+  }
+}

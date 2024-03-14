@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis_monitors",
+  "pattern": [
+    "WWW",
+    "WMW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:planks",
+      "data": 1
+    },
+    "M": {
+      "item": "thedalekmod:tardisdisplay"
+    }
+    },
+    "result": {
+      "item": "thedalekmod:bte4thsecondarymonitorwall",
+      "data": 0
+    }
+  }
+}

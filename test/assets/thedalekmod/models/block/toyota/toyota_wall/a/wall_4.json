@@ -1,0 +1,12 @@
+{
+    "parent": "thedalekmod:block/toyota/toyota_wall/a/block",
+    "textures": {
+        "up": "thedalekmod:blocks/toyota/toyota_wall/a/ty_4",
+        "down": "thedalekmod:blocks/toyota/toyota_wall/a/ty_5",
+        "north": "thedalekmod:blocks/toyota/toyota_wall/a/ty_4",
+        "south": "thedalekmod:blocks/toyota/toyota_wall/a/ty_5",
+        "east": "thedalekmod:blocks/toyota/toyota_wall/a/ty_4",
+        "west": "thedalekmod:blocks/toyota/toyota_wall/a/ty_4",
+        "particle": "thedalekmod:blocks/toyota/toyota_wall/a/ty_4"
+    }
+}

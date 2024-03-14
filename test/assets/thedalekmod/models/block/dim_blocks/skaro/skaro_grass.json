@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "particle": "thedalekmod:blocks/dim_blocks/skaro/skaro_dirt",
+        "bottom": "thedalekmod:blocks/dim_blocks/skaro/skaro_dirt",
+        "top": "thedalekmod:blocks/dim_blocks/skaro/skaro_grass_top",
+        "side": "thedalekmod:blocks/dim_blocks/skaro/skaro_grass_side"
+    }
+}

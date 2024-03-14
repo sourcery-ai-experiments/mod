@@ -1,0 +1,30 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:dimcircuit"
+        },
+        "title": {
+            "text": "Underground Cyber City Raider",
+            "color":"dark_aqua"
+        },
+        "description": {
+            "text": "Find a Dimensional Circuit"
+        }
+    },
+    "parent": "thedalekmod:get_temporalmap",
+    "criteria": {
+          "get_star": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:dimcircuit"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 10
+  }
+}

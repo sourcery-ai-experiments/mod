@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dm:tardis_controls",
+  "ingredients": [
+    {
+      "item": "thedalekmod:btecoralpanel3"
+    }
+  ],
+  "result": {
+    "item": "thedalekmod:btehartnellbackpanel",
+    "data": 0
+  }
+}

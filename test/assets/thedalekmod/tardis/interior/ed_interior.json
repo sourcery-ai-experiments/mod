@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/ed_interior.png",
+  "cdnPath": "tardis/ed_interior",
+  "interiorName": "Ed Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 38,
+    "y": 71,
+    "z": 24
+  },
+  "spawnRotation": 90.0
+}

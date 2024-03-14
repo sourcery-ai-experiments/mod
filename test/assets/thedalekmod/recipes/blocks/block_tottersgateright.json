@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    " SS",
+    " PS",
+    "  S"
+  ],
+  "key": {
+    "P": {
+      "item": "thedalekmod:plasticblock",
+      "data": 11
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:btetottergateright"
+  }
+}

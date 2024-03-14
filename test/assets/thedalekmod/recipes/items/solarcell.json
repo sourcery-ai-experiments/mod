@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:other",
+  "pattern": [
+    "IRI",
+	"IDI",
+	"IRI"
+  ],
+  "key": {
+    "I": {
+		"item": "minecraft:iron_ingot",
+		"data": 0
+	},
+    "R": {
+		"item": "minecraft:redstone",
+		"data": 0
+	},
+    "D": {
+		"item": "minecraft:daylight_detector",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:solarCell",
+	"data": 0
+  }
+}

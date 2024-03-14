@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:gadget",
+  "pattern": [
+    "SBS",
+    "SCS",
+    "SCC"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "B": {
+      "item": "thedalekmod:ihatbase",
+      "data": 11
+    }
+  },
+  "result": {
+    "item": "thedalekmod:handles"
+  }
+}

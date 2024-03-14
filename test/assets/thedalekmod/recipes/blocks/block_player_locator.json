@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:tardis_controls",
+  "pattern": [
+    "TTT",
+    "CcC",
+    "TTT"
+  ],
+  "key": {
+    "C": {
+      "item": "thedalekmod:circuit"
+    },
+    "c": {
+      "item": "minecraft:compass"
+    },
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:tardis_control_player_locator"
+  }
+}

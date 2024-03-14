@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:sshades",
+  "pattern": [
+    " C ",
+    "SGS",
+    " C "
+  ],
+  "key": {
+    "G": {
+      "item": "thedalekmod:sonicshades",
+      "data": 1
+    },
+    "S": {
+      "item": "thedalekmod:sonic_crystal"
+    },
+    "C": {
+      "item": "thedalekmod:circuit"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:sonicshades",
+    "data": 0
+  }
+}

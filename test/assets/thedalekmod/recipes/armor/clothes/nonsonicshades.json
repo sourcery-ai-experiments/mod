@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:clothes",
+  "pattern": [
+	"GPG"
+  ],
+  "key": {
+    "P": {
+		"item": "thedalekmod:plasticblock",
+		"data": 15
+	},
+    "G": {
+		"item": "minecraft:stained_glass_pane",
+		"data": 15
+	}
+  },
+  "result": {
+    "item": "thedalekmod:sonicshades",
+	"data": 1
+  }
+}

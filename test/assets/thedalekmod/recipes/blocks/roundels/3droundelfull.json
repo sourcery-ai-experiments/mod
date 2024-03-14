@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:roundels",
+  "pattern": [
+    "RR"
+  ],
+  "key": {
+    "R": {
+      "item": "thedalekmod:roundthings_a",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:roundel_full",
+    "data": 0,
+    "count": 2
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "SSS",
+    "GMG",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "G": {
+      "item": "minecraft:stained_glass_pane",
+      "data": 3
+    },
+    "M": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:btehandinjar"
+  }
+}

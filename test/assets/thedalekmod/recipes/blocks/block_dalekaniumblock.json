@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "dm:decoration",
+	"pattern": [
+		"DDD",
+		"DDD",
+		"DDD"
+	],
+	"key": {
+		"D": {
+			"item": "thedalekmod:dalekaniumingot",
+			"data": 0
+		}
+	},
+	"result": {
+		"item": "thedalekmod:dalekaniumblock",
+		"data": 0
+	}
+}

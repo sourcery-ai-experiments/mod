@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": { "model": "thedalekmod:misc/metalertdisplay" },
+    "facing=up":  { "model": "thedalekmod:misc/metalertdisplay" },
+    "facing=east":  { "model": "thedalekmod:misc/metalertdisplay", "y": 270 },
+    "facing=south":  { "model": "thedalekmod:misc/metalertdisplay"},
+    "facing=west":  { "model": "thedalekmod:misc/metalertdisplay", "y": 90 },
+    "facing=north":  { "model": "thedalekmod:misc/metalertdisplay", "y": 180 }
+  }
+}

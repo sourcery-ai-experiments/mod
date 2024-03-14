@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "GGG",
+    "GRG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "thedalekmod:spin_a",
+      "data": 5
+    },
+        "R": {
+      "item": "thedalekmod:gear",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:spin_a",
+    "data": 2,
+    "count": 8
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "display": {
+    "description": {
+      "text": "Get this rare Zarbi drop",
+      "color": "gray"
+    },
+    "title": {
+        "text":"Zarbeats"
+        },
+    "icon": {
+      "item": "thedalekmod:disczarbi"
+    }
+  },
+  "criteria": {
+    "zarbeats": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:disczarbi"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+    "parent": "thedalekmod:dimension_change_vortis"
+}

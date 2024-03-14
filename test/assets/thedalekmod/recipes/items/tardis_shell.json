@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sCs",
+    "szs",
+    "sZs"
+  ],
+  "key": {
+    "s": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "Z": {
+      "item": "thedalekmod:zeitonblock"
+    },
+    "z": {
+      "item": "thedalekmod:zeiton7crystal"
+    },
+    "C": {
+      "item": "thedalekmod:sonic_crystal"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:tardis_shell"
+  }
+}

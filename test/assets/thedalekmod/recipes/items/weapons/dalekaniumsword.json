@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:weapon",
+  "pattern": [
+    " D ",
+	" D ",
+	" S "
+  ],
+  "key": {
+    "D": {
+		"item": "thedalekmod:dalekaniumIngot",
+		"data": 0
+	},
+    "S": {
+		"item": "minecraft:stick",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:dalekaniumSword",
+	"data": 0
+  }
+}

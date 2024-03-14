@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "GSG",
+    "GZG",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "ingotSteel"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "Z": {
+      "item": "thedalekmod:zeiton7crystal"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:btehartnellrotor"
+  }
+}

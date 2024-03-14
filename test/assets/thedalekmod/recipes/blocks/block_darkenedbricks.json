@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "BC",
+    "CB"
+  ],
+  "key": {
+    "B": {
+      "item": "thedalekmod:skarostone"
+    },
+    "C": {
+      "item": "minecraft:clay"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:dmbricks",
+    "data": 0
+  }
+}

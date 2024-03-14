@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:other",
+  "pattern": [
+    "ZZZ",
+    "ZCZ",
+    "ZZZ"
+  ],
+  "key": {
+    "Z": {
+      "item": "thedalekmod:zeiton7crystal"
+    },
+    "C": {
+      "item": "thedalekmod:crystaline"
+    }
+  },
+  "result": {
+    "item": "thedalekmod:iammo",
+    "count": 16
+  }
+}

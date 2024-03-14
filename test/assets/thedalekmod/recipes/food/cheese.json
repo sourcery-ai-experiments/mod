@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "dm:food",
+	"ingredients": [{
+			"item": "minecraft:milk_bucket"
+		},
+		{
+			"item": "minecraft:milk_bucket"
+		}
+	],
+	"result": {
+		"item": "thedalekmod:ifood",
+		"count": 5,
+		"data": 14
+	}
+}

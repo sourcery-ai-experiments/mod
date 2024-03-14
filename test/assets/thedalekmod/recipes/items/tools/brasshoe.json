@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:tool",
+  "pattern": [
+    "BB ",
+	" C ",
+	" S "
+  ],
+  "key": {
+    "S": {
+		"item": "minecraft:stick",
+		"data": 0
+	},
+    "C": {
+		"item": "thedalekmod:clockworkCog",
+		"data": 0
+	},
+    "B": {
+		"item": "thedalekmod:brassIngot",
+		"data": 0
+	}
+  },
+  "result": {
+    "item": "thedalekmod:brassHoe",
+	"data": 0
+  }
+}

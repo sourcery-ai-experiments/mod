@@ -1,0 +1,12 @@
+{
+  "imageIconPath": "tardis/interior/img/epsimo_int.png",
+  "cdnPath": "tardis/epsimo_int",
+  "interiorName": "Epsimo Tardis Interior",
+  "fileLocation": "INTERNAL",
+  "playerSpawnOffset": {
+    "x": 24,
+    "y": 76,
+    "z": 9
+  },
+  "spawnRotation": 0.0
+}

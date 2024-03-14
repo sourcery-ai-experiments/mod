@@ -1,0 +1,46 @@
+{
+  "_comment": "This recipe was suggested by Asc4Yin, slightly modified by me",
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:foodmachine",
+  "pattern": [
+    "TCT",
+    "cME",
+    "TCT"
+  ],
+  "key": {
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    "E": {
+      "item": "thedalekmod:circuit"
+    },
+    "C": {
+      "item": "thedalekmod:clockworkcog"
+    },
+    "M": [
+      {
+        "item": "minecraft:beef"
+      },
+      {
+        "item": "minecraft:porkchop"
+      },
+      {
+        "item": "minecraft:mutton"
+      },
+      {
+        "item": "minecraft:chicken"
+      },
+      {
+        "item": "minecraft:rabbit"
+      }
+    ],
+    "c": {
+      "item": "minecraft:coal",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "thedalekmod:btefoodmachine"
+  }
+}

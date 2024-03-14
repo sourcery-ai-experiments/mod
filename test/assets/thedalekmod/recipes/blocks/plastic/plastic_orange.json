@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group":"dm:plastic",
+    "ingredients": [
+        {
+            "item": "thedalekmod:plasticblock",
+            "data": 0
+        },
+        {
+            "item": "minecraft:dye",
+            "data": 14
+        }
+    ],
+  "result": {
+    "item": "thedalekmod:plasticblock",
+	"data": 1
+  }
+}

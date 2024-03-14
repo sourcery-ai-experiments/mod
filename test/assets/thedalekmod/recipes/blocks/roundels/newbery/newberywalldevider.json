@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:decoration",
+  "pattern": [
+    "GRG",
+    "GRG",
+    "GRG"
+  ],
+  "key": {
+    "G": {
+      "item": "thedalekmod:bfourth",
+      "data": 4
+    },
+        "R": {
+      "item": "minecraft:planks",
+      "data": 1
+    }
+  },
+  "result": {
+    "item": "thedalekmod:bfourth",
+    "data": 2,
+    "count": 8
+  }
+}

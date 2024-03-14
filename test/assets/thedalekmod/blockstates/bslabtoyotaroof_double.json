@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=default": { "model": "thedalekmod:toyota/spin/a/spin_7" }
+    }
+}

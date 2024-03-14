@@ -1,0 +1,14 @@
+[{
+	"modid": "thedalekmod",
+	"name": "The Dalek Mod",
+	"description": "The Dalek Mod is a mod which brings the world of Doctor Who to your game! Whilst playing, you can travel the universe using your very own TARDIS, explore a vast array of planets and times, or even battle the sinister Daleks and Cybermen! Play by yourself in singleplayer or go with friends on an amazing adventure in multiplayer!",
+	"version": "64",
+	"mcversion": "1.12.2",
+	"url": "https://swdteam.com/p/dalek-mod",
+	"updateUrl": "",
+	"authorList": ["1WTC, RedDash16, Didgeridoomen, YouTuber02, Josia50, and rainbowdestiny"],
+	"credits": "1WTC, RedDash16, Didgeridoomen, YouTuber02, Josia50, rainbowdestiny, Dream_Coat, MrCedric, EdusgprNetwork, Billevity, Luminous, Jessie, Dhi_awesome, Kaneras, The_Boognish, Nictogen, Sub, all contributing community members!",
+	"logoFile": "dm_logo.png",
+	"screenshots": [],
+	"dependencies": []
+}]

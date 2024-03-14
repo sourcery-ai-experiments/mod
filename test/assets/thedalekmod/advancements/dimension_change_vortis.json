@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:vortis_rock"
+        },
+        "title": {
+            "translate": "The Web Planet"
+        },
+        "description": {
+            "translate": "Travel to Vortis!"
+        }
+    },
+    "parent": "thedalekmod:craft_tardis",
+    "criteria": {
+        "enter_tardis": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "VORTIS"
+            }
+        }
+    }
+}

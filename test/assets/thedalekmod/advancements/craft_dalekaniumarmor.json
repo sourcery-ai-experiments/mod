@@ -1,0 +1,61 @@
+{
+  "display": {
+    "description": {
+      "text": "Get a full set of Dalekanium Armor",
+      "color": "gray"
+    },
+    "title": {
+        "text":"Tough as a Dalek",
+        "color":"gold"
+        },
+    "icon": {
+      "item": "thedalekmod:dalekaniumarmor_0"
+    }
+  },
+  "criteria": {
+    "suit1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:dalekaniumarmor_0"
+          }
+        ]
+      }
+    },
+        "suit2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:dalekaniumarmor_1"
+          }
+        ]
+      }
+    },
+        "suit3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:dalekaniumarmor_2"
+          }
+        ]
+      }
+    },
+        "suit4": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:dalekaniumarmor_3"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 30
+  },
+    "parent": "thedalekmod:kill_dalek"
+}

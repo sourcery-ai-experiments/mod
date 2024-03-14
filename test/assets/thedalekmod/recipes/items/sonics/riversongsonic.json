@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dm:sonic",
+  "pattern": [
+    " Q ",
+    "CTB",
+    " b "
+  ],
+  "key": {
+    "C": {
+      "item": "thedalekmod:circuit",
+      "data": 0
+    },
+    "T": {
+      "item": "thedalekmod:brassingot",
+      "data": 0
+    },
+    "B": {
+      "item": "minecraft:stone_button",
+      "data": 0
+    },
+    "Q": {
+      "item": "thedalekmod:sonic_crystal",
+      "data": 0
+    },
+    "b": {
+      "item": "thedalekmod:plasticblock",
+      "data": 15
+    }
+  },
+  "result": {
+    "item": "thedalekmod:sonicscrewdriver_river_song",
+    "data": 0
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "thedalekmod:blocks/tardis_blocks/roundels/containers/roundel_eighties_top",
+        "side": "thedalekmod:blocks/tardis_blocks/roundels/containers/roundel_eighties_side",
+        "front": "thedalekmod:blocks/tardis_blocks/roundels/containers/roundel_eighties_front"
+    }
+}

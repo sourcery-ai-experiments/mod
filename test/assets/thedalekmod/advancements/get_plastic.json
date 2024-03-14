@@ -1,0 +1,35 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:plasticchunk"
+        },
+        "title": {
+            "translate": "Unrealistic Ore"
+        },
+        "description": {
+            "translate": "Get plastic for a spacesuit helmet"
+        }
+    },
+    "parent": "thedalekmod:dimension_change_varos",
+    "criteria": {
+        "varos": {
+       "trigger": "minecraft:location",
+      "conditions": {     
+          "biome": "thedalekmod:varos"
+        }
+      },
+          "get_plastic": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "thedalekmod:plasticchunk"
+          }
+        ]
+      }
+    }
+    },
+    "rewards": {
+    "experience": 10
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:clothes",
+  "pattern": [
+	"O O",
+  "OWO",
+  "OOO"
+  ],
+  "key": {
+    "O": {
+		"item": "minecraft:wool",
+		"data": 15
+	},
+    "W": {
+    "item": "minecraft:wool",
+    "data": 14
+  }
+  },
+  "result": {
+    "item": "thedalekmod:aceJacket",
+	"data": 0
+  }
+}

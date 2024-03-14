@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"dm:clothes",
+  "pattern": [
+	" W ",
+  " W ",
+  "WWW"
+  ],
+  "key": {
+    "W": {
+		"item": "minecraft:wool",
+		"data": 15
+	}
+  },
+  "result": {
+    "item": "thedalekmod:TopHat",
+	"data": 0
+  }
+}

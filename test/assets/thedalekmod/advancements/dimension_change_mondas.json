@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "thedalekmod:cyberman_cyberaid"
+        },
+        "title": {
+            "translate": "The Tenth Planet"
+        },
+        "description": {
+            "translate": "Go to Mondas"
+        }
+    },
+    "parent": "thedalekmod:craft_tardis",
+    "criteria": {
+        "enter_tardis": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "to": "MONDAS"
+            }
+        }
+    }
+}

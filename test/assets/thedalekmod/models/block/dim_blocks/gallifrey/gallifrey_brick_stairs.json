@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "thedalekmod:blocks/dim_blocks/gallifrey/gallifrey_brick",
+        "top": "thedalekmod:blocks/dim_blocks/gallifrey/gallifrey_brick",
+        "side": "thedalekmod:blocks/dim_blocks/gallifrey/gallifrey_brick"
+    }
+}

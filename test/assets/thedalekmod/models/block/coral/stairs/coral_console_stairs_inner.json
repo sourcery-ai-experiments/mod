@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "thedalekmod:blocks/coral/coral_wall_dark",
+        "top": "thedalekmod:blocks/coral/coral_wall_dark",
+        "side": "thedalekmod:blocks/coral/coral_wall_dark"
+    }
+}
