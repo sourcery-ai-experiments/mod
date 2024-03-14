@@ -1,0 +1,29 @@
+{
+   "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+    	" B ",
+    	" A ",
+    	" A "
+     ],
+     "key":
+     {
+     	"B":
+     	{
+     		"item": "thedalekmod:metalertingot",
+     		"data": 0
+     	},
+     	
+     	"A":
+     	{
+     		"item": "thedalekmod:titaniumingot",
+     		"data": 0
+     	}
+     },
+     "result":
+     {
+     	"item": "dmadditions:metalert_shovel"
+     }
+     
+}

@@ -1,0 +1,29 @@
+{
+   "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+    	"BB ",
+    	" A ",
+    	" A "
+     ],
+     "key":
+     {
+     	"B":
+     	{
+     		"item": "thedalekmod:dalekaniumingot",
+     		"data": 0
+     	},
+     	
+     	"A":
+     	{
+     		"item": "minecraft:stick",
+     		"data": 0
+     	}
+     },
+     "result":
+     {
+     	"item": "dmadditions:dalekanium_hoe"
+     }
+     
+}

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: forge-1.12.2-14.23.5.2859-mdk
+Implementation-Version: 2.0.0
+Specification-Vendor: dmadditionssareus
+Specification-Title: dmadditions
+Implementation-Timestamp: 2024-03-02T11:28:14+0200
+Specification-Version: 1
+Implementation-Vendor: dmadditionssareus
+
