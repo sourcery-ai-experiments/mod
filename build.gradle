@@ -83,15 +83,15 @@ project(':clean') {
     apply plugin: 'eclipse'
     apply plugin: 'net.minecraftforge.gradle.patcher'
     compileJava.sourceCompatibility = compileJava.targetCompatibility = sourceCompatibility = targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
-    
+
     repositories {
         mavenCentral()
     }
-    
+
     dependencies {
         implementation 'net.minecraftforge:mergetool:0.2.3.3:forge'
     }
-    
+
     patcher {
         parent = project(':mcp')
         mcVersion = MC_VERSION
@@ -124,7 +124,7 @@ project(':clean') {
     }
 }
 
-project(':forge') {    
+project(':forge') {
     evaluationDependsOn(':clean')
     apply plugin: 'java-library'
     apply plugin: 'maven-publish'
@@ -132,7 +132,7 @@ project(':forge') {
     apply plugin: 'net.minecraftforge.gradle.patcher'
     apply plugin: 'net.minecrell.licenser'
     apply plugin: 'de.undercouch.download'
-    
+
     compileJava.sourceCompatibility = compileJava.targetCompatibility = sourceCompatibility = targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
     group = 'net.minecraftforge'
 
@@ -178,7 +178,7 @@ project(':forge') {
         LEGACY_MAJOR = 14 //Legacy versions have a API change prefix
         LEGACY_BUILD = 2848 //Base build number to not conflict with existing build numbers
         BUILD_NUMBER = 0 // LEGACY_BUILD + commit offset, used to mimic unique build from old versions
-        
+
         SPEC_VERSION = '23.5' // This is overwritten by git tag, but here so dev time doesnt explode
         MCP_ARTIFACT = project(':mcp').mcp.config
         SPECIAL_SOURCE = 'net.md-5:SpecialSource:1.8.5'
@@ -247,7 +247,7 @@ project(':forge') {
             }
         }
     }
-    
+
     ext {
         MANIFESTS = [
             '/': [
@@ -265,7 +265,7 @@ project(':forge') {
             ] as LinkedHashMap
         ]
     }
-    
+
     applyPatches {
         canonicalizeAccess true
         canonicalizeWhitespace true
@@ -312,18 +312,18 @@ project(':forge') {
         testImplementation 'org.opentest4j:opentest4j:1.0.0' // needed for junit 5
         testImplementation 'org.hamcrest:hamcrest-all:1.3' // needs advanced matching for list order
     }
-    
+
     def extraTxts = [
         rootProject.file('CREDITS.txt'),
         rootProject.file('LICENSE.txt'),
         rootProject.file('LICENSE-Paulscode IBXM Library.txt'),
         rootProject.file('LICENSE-Paulscode SoundSystem CodecIBXM.txt')
     ]
-    
+
     def changelog = rootProject.file('build/changelog.txt')
     if (changelog.exists())
         extraTxts += changelog
-    
+
     // We apply the bin patches we just created to make a jar that is JUST our changes
     genClientBinPatches.tool = BINPATCH_TOOL
     task applyClientBinPatches(type: ApplyBinPatches, dependsOn: genClientBinPatches) {
@@ -336,7 +336,7 @@ project(':forge') {
     task genRuntimeBinPatches(type: GenerateBinPatches, dependsOn: [genClientBinPatches, genServerBinPatches]) {
         tool = BINPATCH_TOOL
     }
-    afterEvaluate { p -> 
+    afterEvaluate { p ->
         genRuntimeBinPatches {
             cleanJar = genClientBinPatches.cleanJar
             dirtyJar = genClientBinPatches.dirtyJar
@@ -347,26 +347,26 @@ project(':forge') {
                 '--patches', '{patches}',
                 '--srg', '{srg}',
                 '--legacy',
-                
+
                 '--clean', '{clean}',
                 '--dirty', '{dirty}',
                 '--prefix', 'binpatch/client',
-                
+
                 '--clean', '{server}',
                 '--dirty', '{dirty}',
-                '--prefix', 'binpatch/server'                
+                '--prefix', 'binpatch/server'
             ]
             addExtra('server', genServerBinPatches.cleanJar)
         }
     }
-    
+
     task downloadLibraries(dependsOn: ':mcp:setupMCP') {
         inputs.file VERSION_JSON
         doLast {
             def json = new JsonSlurper().parseText(VERSION_JSON.text)
             json.libraries.each {lib ->
                 def artifacts = [lib.downloads.artifact] + lib.downloads.get('classifiers', [:]).values()
-                artifacts.each{ art -> 
+                artifacts.each{ art ->
                     def target = file('build/libraries/' + art.path)
                     if (!target.exists()) {
                         download {
@@ -378,14 +378,14 @@ project(':forge') {
             }
         }
     }
-    
+
     task extractInheritance(type: ExtractInheritance, dependsOn: [genJoinedBinPatches, downloadLibraries]) {
         input { genJoinedBinPatches.cleanJar }
         doFirst {
             def json = new JsonSlurper().parseText(VERSION_JSON.text)
             json.libraries.each {lib ->
                 def artifacts = [lib.downloads.artifact] + lib.downloads.get('classifiers', [:]).values()
-                artifacts.each{ art -> 
+                artifacts.each{ art ->
                     def target = file('build/libraries/' + art.path)
                     if (target.exists())
                         addLibrary(target)
@@ -414,11 +414,11 @@ project(':forge') {
                         vanilla[this.name + ' ' + name + desc] = access
                         return null
                     }
-                }, ClassReader.SKIP_CODE | ClassReader.SKIP_DEBUG | ClassReader.SKIP_FRAMES)   
+                }, ClassReader.SKIP_CODE | ClassReader.SKIP_DEBUG | ClassReader.SKIP_FRAMES)
             }
-            patcher.accessTransformers.each { f -> 
+            patcher.accessTransformers.each { f ->
                 TreeMap lines = [:]
-                f.eachLine { line -> 
+                f.eachLine { line ->
                     def idx = line.indexOf('#')
                     if (idx == 0 || line.isEmpty()) return
                     def comment = idx == -1 ? null : line.substring(idx)
@@ -446,8 +446,8 @@ project(':forge') {
         inputs.files patcher.sideAnnotationStrippers
         doLast {
             def json = new JsonSlurper().parseText(extractInheritance.output.text)
-            
-            patcher.sideAnnotationStrippers.each { f -> 
+
+            patcher.sideAnnotationStrippers.each { f ->
                 def lines = []
                 f.eachLine { line ->
                     if (line[0] == '\t') return //Skip any tabed lines, those are ones we add
@@ -456,10 +456,10 @@ project(':forge') {
                         lines.add(line)
                         return
                     }
-                    
+
                     def comment = idx == -1 ? null : line.substring(idx)
                     if (idx != -1) line = line.substring(0, idx - 1)
-                    
+
                     def (cls, desc) = (line.trim() + '    ').split(' ', -1)
                     cls = cls.replaceAll('\\.', '/')
                     desc = desc.replace('(', ' (')
@@ -467,7 +467,7 @@ project(':forge') {
                         println('Invalid: ' + line)
                         return
                     }
-                    
+
                     def mtd = json[cls]['methods'][desc]
                     lines.add(cls + ' ' + desc.replace(' ', '') + (comment == null ? '' : ' ' + comment))
                     def children = json.values().findAll{ it.methods != null && it.methods[desc] != null && it.methods[desc].override == cls}
@@ -497,7 +497,7 @@ project(':forge') {
         outputs.file output
         doLast {
             def json_vanilla = new JsonSlurper().parseText(vanilla.text)
-            def json = [            
+            def json = [
                 _comment_: comment,
                 id: id,
                 time: timestamp,
@@ -507,15 +507,15 @@ project(':forge') {
                 inheritsFrom: MC_VERSION,
                 logging: {},
                 minecraftArguments: [
-                    '--username', '${auth_player_name}', 
-                    '--version', '${version_name}', 
-                    '--gameDir', '${game_directory}', 
-                    '--assetsDir', '${assets_root}', 
-                    '--assetIndex', '${assets_index_name}', 
-                    '--uuid', '${auth_uuid}', 
-                    '--accessToken', '${auth_access_token}', 
-                    '--userType', '${user_type}', 
-                    '--tweakClass', 'net.minecraftforge.fml.common.launcher.FMLTweaker', 
+                    '--username', '${auth_player_name}',
+                    '--version', '${version_name}',
+                    '--gameDir', '${game_directory}',
+                    '--assetsDir', '${assets_root}',
+                    '--assetIndex', '${assets_index_name}',
+                    '--uuid', '${auth_uuid}',
+                    '--accessToken', '${auth_access_token}',
+                    '--userType', '${user_type}',
+                    '--tweakClass', 'net.minecraftforge.fml.common.launcher.FMLTweaker',
                     '--versionType', 'Forge'
                 ].join(' '),
                 libraries: [
@@ -530,15 +530,15 @@ project(':forge') {
                                 size: universalJar.archivePath.length()
                             ]
                         ]
-                    ] 
+                    ]
                 ]
             ]
-            
+
             def artifacts = getArtifacts(project, project.configurations.installer, false)
             artifacts.each { key, lib ->
                 json.libraries.add(lib)
             }
-            
+
             output.text = new JsonBuilder(json).toPrettyString()
         }
     }
@@ -584,15 +584,15 @@ project(':forge') {
             ]
             getClasspath(project, libs, MCP_ARTIFACT.descriptor) //Tell it to download mcp_config
             json.libraries = libs.values().sort{a,b -> a.name.compareTo(b.name)}
-            
+
             output.text = new JsonBuilder(json).toPrettyString()
         }
     }
-    
+
     task extractObf2Srg(type:net.minecraftforge.gradle.common.task.ExtractMCPData, dependsOn: [':mcp:downloadConfig']) {
         config = project(':mcp').downloadConfig.output
     }
-    
+
     task deobfDataLzma(dependsOn: [extractObf2Srg]) {
         ext {
             output_srg = file('build/deobfDataLzma/data.srg')
@@ -603,16 +603,16 @@ project(':forge') {
         doLast {
             net.minecraftforge.gradle.common.util.MappingFile.load(extractObf2Srg.output)
                 .write(net.minecraftforge.gradle.common.util.MappingFile.Format.SRG, output_srg)
-                
+
             output_srg.withInputStream { ins ->
                 output.withOutputStream { outs ->
                     def lz = new lzma.streams.LzmaOutputStream.Builder(outs).useEndMarkerMode(true).build()
-                    
+
                     def i = -1
                     def buf = new byte[0x100]
-                    while ((i = ins.read(buf)) != -1) 
+                    while ((i = ins.read(buf)) != -1)
                         lz.write(buf, 0, i)
-                     
+
                     lz.close()
                 }
             }
@@ -649,12 +649,12 @@ project(':forge') {
             }
         }
     }
-    
+
     task downloadInstaller(type: DownloadMavenArtifact) {
         artifact = 'net.minecraftforge:installer:2.1.+:shrunk'
         changing = true
     }
-    
+
     task installerJar(type: Zip, dependsOn: [downloadInstaller, installerJson, launcherJson, genClientBinPatches, genServerBinPatches, 'signUniversalJar']) {
         classifier = 'installer'
         extension = 'jar' //Needs to be Zip task to not override Manifest, so set extension
@@ -674,8 +674,8 @@ project(':forge') {
             duplicatesStrategy = 'exclude'
         }
     }
-    
-    [universalJar, installerJar].each { t -> 
+
+    [universalJar, installerJar].each { t ->
         task "sign${t.name.capitalize()}"(type: SignJar, dependsOn: t) {
             onlyIf {
                 JAR_SIGNER != null && t.state.failure == null
@@ -693,7 +693,7 @@ project(':forge') {
         }
         t.finalizedBy(tasks.getByName("sign${t.name.capitalize()}"))
     }
-    
+
     task makeMdk(type: Zip) {
         baseName = project.name
         classifier = 'mdk'
@@ -722,7 +722,7 @@ project(':forge') {
             rename 'gitignore\\.txt', '.gitignore'
         }
     }
-    
+
     userdevConfig {
         def artifacts = getArtifacts(project, project.configurations.installer, true)
         artifacts.each { key, lib ->
@@ -730,7 +730,7 @@ project(':forge') {
         }
         addLibrary('net.minecraftforge:legacydev:0.2.3.+:fatjar')
         addUniversalFilter('^(?!binpatches\\.pack\\.lzma$).*$')
-        
+
         runs {
             client {
                 main 'net.minecraftforge.legacydev.MainClient'
@@ -760,7 +760,7 @@ project(':forge') {
             }
         }
     }
-    
+
     license {
         header = file("$rootDir/LICENSE-header.txt")
 
@@ -817,9 +817,9 @@ project(':forge') {
         setSources sourceSets.userdev.java.srcDirs
     }
     */
-    
+
     tasks.eclipse.dependsOn('genEclipseRuns')
-    
+
     if (project.hasProperty('UPDATE_MAPPINGS')) {
         extractRangeMap {
             sources sourceSets.test.java.srcDirs
@@ -829,7 +829,7 @@ project(':forge') {
         }
         sourceSets.test.java.srcDirs.each { extractMappedNew.addTarget it }
     }
-    
+
     publishing {
         publications {
             mavenJava(MavenPublication) {
@@ -997,4 +997,3 @@ task setup() {
     dependsOn ':clean:extractMapped'
     dependsOn ':forge:extractMapped' //These must be strings so that we can do lazy resolution. Else we need evaluationDependsOnChildren above
 }
-
