@@ -1,0 +1,62 @@
+{
+  "mappings": {
+    "com/jdolphin/dmadditions/mixin/other/TardisKeyMixin": {
+      "Lnet/minecraft/item/Item$Properties;stacksTo(I)Lnet/minecraft/item/Item$Properties;": "Lnet/minecraft/item/Item$Properties;func_200917_a(I)Lnet/minecraft/item/Item$Properties;"
+    },
+    "com/jdolphin/dmadditions/mixin/other/DoubleDoorsTileEntityMixin": {
+      "tick": "Lcom/swdteam/common/tileentity/tardis/DoubleDoorsTileEntity;func_73660_a()V"
+    },
+    "com/jdolphin/dmadditions/mixin/other/CarvedPumpkinBlockMixin": {
+      "trySpawnGolem(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)V": "Lnet/minecraft/block/CarvedPumpkinBlock;func_196358_b(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)V"
+    },
+    "com/jdolphin/dmadditions/mixin/other/ItemGroupMixin": {
+      "getIconItem()Lnet/minecraft/item/ItemStack;": "Lnet/minecraft/item/ItemGroup;func_151244_d()Lnet/minecraft/item/ItemStack;"
+    },
+    "com/jdolphin/dmadditions/mixin/other/MainMenuScreenMixin": {
+      "init": "Lnet/minecraft/client/gui/screen/MainMenuScreen;func_231160_c_()V",
+      "render": "Lnet/minecraft/client/gui/screen/MainMenuScreen;func_230430_a_(Lcom/mojang/blaze3d/matrix/MatrixStack;IIF)V"
+    },
+    "com/jdolphin/dmadditions/mixin/other/DalekEntityMixin": {
+      "aiStep": "Lcom/swdteam/common/entity/dalek/DalekEntity;func_70636_d()V"
+    },
+    "com/jdolphin/dmadditions/mixin/other/RoundelDoorTileEntityMixin": {
+      "tick": "Lcom/swdteam/common/tileentity/tardis/RoundelDoorTileEntity;func_73660_a()V"
+    },
+    "com/jdolphin/dmadditions/mixin/other/TardisTileEntityMixin": {
+      "load": "Lcom/swdteam/common/tileentity/TardisTileEntity;func_230337_a_(Lnet/minecraft/block/BlockState;Lnet/minecraft/nbt/CompoundNBT;)V",
+      "save": "Lcom/swdteam/common/tileentity/TardisTileEntity;func_189515_b(Lnet/minecraft/nbt/CompoundNBT;)Lnet/minecraft/nbt/CompoundNBT;",
+      "tick": "Lcom/swdteam/common/tileentity/TardisTileEntity;func_73660_a()V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/jdolphin/dmadditions/mixin/other/TardisKeyMixin": {
+        "Lnet/minecraft/item/Item$Properties;stacksTo(I)Lnet/minecraft/item/Item$Properties;": "Lnet/minecraft/item/Item$Properties;func_200917_a(I)Lnet/minecraft/item/Item$Properties;"
+      },
+      "com/jdolphin/dmadditions/mixin/other/DoubleDoorsTileEntityMixin": {
+        "tick": "Lcom/swdteam/common/tileentity/tardis/DoubleDoorsTileEntity;func_73660_a()V"
+      },
+      "com/jdolphin/dmadditions/mixin/other/CarvedPumpkinBlockMixin": {
+        "trySpawnGolem(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)V": "Lnet/minecraft/block/CarvedPumpkinBlock;func_196358_b(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)V"
+      },
+      "com/jdolphin/dmadditions/mixin/other/ItemGroupMixin": {
+        "getIconItem()Lnet/minecraft/item/ItemStack;": "Lnet/minecraft/item/ItemGroup;func_151244_d()Lnet/minecraft/item/ItemStack;"
+      },
+      "com/jdolphin/dmadditions/mixin/other/MainMenuScreenMixin": {
+        "init": "Lnet/minecraft/client/gui/screen/MainMenuScreen;func_231160_c_()V",
+        "render": "Lnet/minecraft/client/gui/screen/MainMenuScreen;func_230430_a_(Lcom/mojang/blaze3d/matrix/MatrixStack;IIF)V"
+      },
+      "com/jdolphin/dmadditions/mixin/other/DalekEntityMixin": {
+        "aiStep": "Lcom/swdteam/common/entity/dalek/DalekEntity;func_70636_d()V"
+      },
+      "com/jdolphin/dmadditions/mixin/other/RoundelDoorTileEntityMixin": {
+        "tick": "Lcom/swdteam/common/tileentity/tardis/RoundelDoorTileEntity;func_73660_a()V"
+      },
+      "com/jdolphin/dmadditions/mixin/other/TardisTileEntityMixin": {
+        "load": "Lcom/swdteam/common/tileentity/TardisTileEntity;func_230337_a_(Lnet/minecraft/block/BlockState;Lnet/minecraft/nbt/CompoundNBT;)V",
+        "save": "Lcom/swdteam/common/tileentity/TardisTileEntity;func_189515_b(Lnet/minecraft/nbt/CompoundNBT;)Lnet/minecraft/nbt/CompoundNBT;",
+        "tick": "Lcom/swdteam/common/tileentity/TardisTileEntity;func_73660_a()V"
+      }
+    }
+  }
+}
