@@ -64,7 +64,7 @@ ext {
     MC_VERSION = '1.12.2'
     MCP_VERSION = '20200226.224830'
     POST_PROCESSOR = [
-        tool: 'net.minecraftforge:mcpcleanup:2.3.2:fatjar',
+        tool: 'net.minecraftforge:mcpcleanup:2.3.6:fatjar',
         repo: 'https://maven.minecraftforge.net/',
         args: ['--input', '{input}', '--output', '{output}']
     ]
