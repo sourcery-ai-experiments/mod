@@ -1,0 +1,22 @@
+            - name: Gradle Wrapper Validation
+  # You may pin to the exact commit or the version.
+  # uses: gradle/wrapper-validation-action@699bb18358f12c5b78b37bb0111d3a0e2276e0e2
+  uses: gradle/wrapper-validation-action@v2.1.1
+  with:
+    # Minimum number expected gradle-wrapper.jar files found in the repository. Non-negative number. Higher number is useful in monorepos where each project might have their own wrapper.
+    min-wrapper-count: # optional, default is 1
+    # Allow Gradle snapshot versions during checksum verification. Boolean, true or false.
+    allow-snapshots: # optional, default is false
+    # Accept arbitrary user-defined checksums as valid. Comma separated list of SHA256 checksums (lowercase hex).
+    allow-checksums: # optional, default is 
+
+name: "Validate Gradle Wrapper"
+on: [push, pull_request]
+
+jobs:
+  validation:
+    name: "Validation"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gradle/wrapper-validation-action@v2
