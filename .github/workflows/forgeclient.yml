@@ -1,0 +1,8 @@
+            - name: Minecraft Forge client startup test
+  # You may pin to the exact commit or the version.
+  # uses: Charismara/forge-client-startup-action@72c0b73092e0cafd98073053613e4cd0d174d11a
+  uses: Charismara/forge-client-startup-action@0.12
+  with:
+    # Url to clone the current repository
+    githubCloneUrl: github.com/AdamOswald/mod
+          
