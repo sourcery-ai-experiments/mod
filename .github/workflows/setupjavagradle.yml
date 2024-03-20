@@ -1,0 +1,20 @@
+            - name: Setup Java - Gradle
+  # You may pin to the exact commit or the version.
+  # uses: yumemi-inc/setup-java-gradle@a7f58369b1bbcc8afade8139bd0986db90a451a3
+  uses: yumemi-inc/setup-java-gradle@v1.0.0
+  with:
+    # Java version to use.
+    java-version: # optional, default is 17
+    # Java distribution to use.
+    java-distribution: # optional, default is zulu
+    # Whether to read/write Gradle cache.
+    cache-disabled: # optional, default is false
+    # Whether to only read Gradle cache.
+    cache-read-only: # optional, default is true
+    # Whether to remove stale/unused Gradle cache before writing.
+    gradle-home-cache-cleanup: # optional, default is false
+    # Whether to display Gradle build reports in Job Summaries.
+    gradle-build-report: # optional, default is always
+    # Whether to apply Kotlin compiler Problem Matchers.
+    kotlin-compiler-report: # optional, default is true
+          
