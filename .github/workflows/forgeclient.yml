@@ -4,5 +4,5 @@
   uses: Charismara/forge-client-startup-action@0.12
   with:
     # Url to clone the current repository
-    githubCloneUrl: AdamOswald/mod
+    githubCloneUrl: github.com/AdamOswald/mod
           
