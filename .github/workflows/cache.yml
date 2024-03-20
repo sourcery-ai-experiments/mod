@@ -1,0 +1,56 @@
+            - name: Gradle Cache
+  # You may pin to the exact commit or the version.
+  # uses: burrunan/gradle-cache-action@3bf23b8dd95e7d2bacf2470132454fe893a178a1
+  uses: burrunan/gradle-cache-action@v1
+  with:
+    # A job identifier to avoid cache pollution from different jobs
+    job-id: # optional
+    # Relative path under $GITHUB_WORKSPACE where Git repository is placed
+    build-root-directory: # optional
+    # Overrides the location of $HOME (e.g. to avoid use of /root when running in Docker)
+    home-directory: # optional
+    # (wrapper | or explicit version) Caches often depend on the Gradle version, so this parameter sets the ID to use for cache keys. It does not affect the Gradle version used for build
+    gradle-version: # optional, default is wrapper
+    # Configures caches for read-only opreration (e.g. to save GitHub Actions storage limit)
+    read-only: # optional
+    # Enables caching of $HOME/.gradle/caches/*.*/generated-gradle-jars
+    save-generated-gradle-jars: # optional, default is true
+    # Enables caching of $HOME/.gradle/caches/build-cache-1
+    save-local-build-cache: # optional, default is true
+    # Adds com.github.burrunan.multi-cache plugin to settings.gradle so GitHub Actions cache can be used in parallel with Gradle remote build cache
+    multi-cache-enabled: # optional, default is true
+    # Configures com.github.burrunan.multi-cache version to use
+    multi-cache-version: # optional, default is 1.0
+    # Configures repository where com.github.burrunan.multi-cache can be located
+    multi-cache-repository: # optional, default is 
+    # Configures group id for selecting only com.github.burrunan.multi-cache artifacts (it enables Gradle to use custom repository for multi-cache only)
+    multi-cache-group-id-filter: # optional, default is com[.]github[.]burrunan[.]multi-?cache
+    # Enables caching of ~/.gradle/caches/modules-*
+    save-gradle-dependencies-cache: # optional, default is true
+    # Activates only the caches that are relevant for executing gradle command.
+This is helpful when build job executes multiple gradle commands sequentially.
+Then the caching is implemented in the very first one, and the subsequent should be marked
+with execution-only-caches: true
+
+    execution-only-caches: # optional, default is false
+    # Activates a remote cache that proxies requests to GitHub Actions cache
+    remote-build-cache-proxy-enabled: # optional, default is true
+    # Extra files to take into account for ~/.gradle/caches dependencies
+    gradle-dependencies-cache-key: # optional
+    # Enables caching of ~/.m2/repository/
+    save-maven-dependencies-cache: # optional, default is true
+    # Specifies ignored paths in the Maven Local repository (e.g. the artifacts of the current project)
+    maven-local-ignore-paths: # optional, default is 
+    # Shows extra logging to debug the action
+    debug: # optional, default is true
+    # Enables concurent cache download and upload (disabled by default for better log output)
+    concurrent: # optional, default is false
+    # Gradle arguments to pass (optionally multiline)
+    arguments: # optional
+    # Extra Gradle properties (multiline) which would be passed as -Pname=value arguments
+    properties: # optional
+    # Publishes Gradle Build Scan URL to job report.
+    gradle-build-scan-report: # optional, default is true
+    # Enables warning when distributionSha256Sum property is missing in gradle-wrapper.properties
+    gradle-distribution-sha-256-sum-warning: # optional, default is true
+          
