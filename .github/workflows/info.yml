@@ -1,0 +1,67 @@
+ - name: Java Info Action
+   uses: YunaBraska/java-info-action@1.12.1-rc.56
+
+            - name: Java Info Action
+  # You may pin to the exact commit or the version.
+  # uses: YunaBraska/java-info-action@a39db57e7ff3656a1ad67b920444363dd1ec11e9
+  uses: YunaBraska/java-info-action@2.0.0
+  with:
+    # folder scan deep (-1 == endless)
+    deep: # optional, default is -1
+    # folder scan ("." == current)
+    work-dir: # optional, default is .
+    # java version fallback if no java version was found
+    jv-fallback: # optional, default is 17
+    # project version fallback if no project version was found
+    pv-fallback: # optional, default is null
+    # project encoding fallback if no project encoding was found
+    pe-fallback: # optional, default is null
+    # custom command for output "cmd_custom" which adds automatically gradle/maven prefix
+    custom-gradle-cmd: # optional
+    # custom command for output "cmd_custom" which adds automatically gradle/maven prefix
+    custom-maven-cmd: # optional
+    # converts null to empty string
+    null-to-empty: # optional, default is true
+
+# RUNNER
+- name: "Read Java Info"
+  id: "java_info"
+  uses: YunaBraska/java-info-action@main
+
+  # CONFIGS (Optional)
+  with:
+    deep: '-1'
+    work-dir: '.'
+    jv-fallback: 17
+    pv-fallback: '0.0.1'
+    pe-fallback: 'utf-8'
+    custom-gradle-cmd: "clean build"
+    custom-maven-cmd: "clean package"
+
+  # PRINT
+- name: "Print Java Version"
+  run: |
+    echo "java_version                     [${{ steps.java_info.outputs.java_version }}]"
+    echo "artifact_name                    [${{ steps.java_info.outputs.artifact_name }}]"
+    echo "project_version                  [${{ steps.java_info.outputs.project_version }}]"
+    echo "project_encoding                 [${{ steps.java_info.outputs.project_encoding }}]"
+    echo "cmd_custom                       [${{ steps.java_info.outputs.cmd_custom }}]"
+    echo "is_gradle                        [${{ steps.java_info.outputs.is_gradle }}]"
+    echo "is_maven                         [${{ steps.java_info.outputs.is_maven }}]"
+    echo "has_wrapper                      [${{ steps.java_info.outputs.has_wrapper }}]"
+    echo "builder_name                     [${{ steps.java_info.outputs.builder_name }}]"
+    echo "x_sourceCompatibility            [${{ steps.java_info.outputs.x_sourceCompatibility }}]"
+    echo "x_project_build_finalName        [${{ steps.java_info.outputs.x_project_build_finalName }}]"
+    echo "x_groovyOptions_encoding         [${{ steps.java_info.outputs.x_groovyOptions_encoding }}]"
+    echo "x_net_minidev_json-smart_version [${{ steps.java_info.outputs.x_project_dependencies_dependency_net_minidev_json-smart_version }}]"
+
+  # SETUP JAVA
+- name: "Setup Java"
+  uses: actions/setup-java@main
+  with:
+    java-version: ${{ steps.java_info.outputs.java_version }}
+    distribution: 'adopt'
+
+  # RUN TESTS
+- name: "Run tests"
+  run: sh ${{ steps.java_info.outputs.cmd_test }}
